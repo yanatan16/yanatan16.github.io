@@ -10,9 +10,12 @@ section: Home
 Welcome
 =======
 
-I'm Jon Eisen. I'm a software engineer, mathematician, saberist, traveler, algorithmist, system architect. Currently, I work as a Software Engineer for [Norhtrop Grumman](http://northropgrumman.com), where I get to make large real-time embedded systems. Check out [this page](/about) for more information on me.
+I'm Jon Eisen. I'm a software engineer, mathematician, saberist, traveler, algorithmist, beer snob, system architect, etc. Currently, I work as a Software Engineer for [Norhtrop Grumman](http://northropgrumman.com), where I get to make large real-time embedded systems. Check out [this page](/about) for more information on me.
 
-+-- {.section}
+Please excuse the mess while I construct the site. It is not fully functional yet.
+
+<!--
++- - {.section}
 Blog
 ====
 I keep a blog called [Don't Pigeonhole Me](\blog). Its about everything I like to do, from software to math to baseball to travel. Just a few thoughts on my experiences and opinions.
@@ -26,17 +29,23 @@ Recent posts include:
 </ul>
 {% endfor %}
 =--
+-->
 
 +-- {.section}
 Current Projects
 ================
 Here are some projects and events I'm currently involved in.
 * The Second [Baltimore Hackathon](http://baltimorehackathon.com) - I'm helping to plan the second baltimore hackathon. June 8-10 at the Ad.com space at Tide Point in the Locust Point neighborhood of Baltimore.
-* blah
 =--
 
 +-- {.section}
 Code
 ====
 I like to write code. Check out some of my projects in the [code section](\code).
+=--
+
++-- {.section}
+Contact
+=======
+Feel free to contact me at [jon.m.eisen \[at\] gmail.com](mailto:jon.m.eisen@gmail.com).
 =--
