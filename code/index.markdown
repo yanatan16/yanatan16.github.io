@@ -6,7 +6,7 @@ title: Code
 
 Code
 ====
-This page contains some links to some open code I've written.
+This page contains some links to some open code I've written. You can always follow me on [github.com](http://github.com/yanatan16).
 
 <div class="section" markdown="1">
 Kinect Robotic Control
