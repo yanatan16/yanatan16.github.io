@@ -8,8 +8,8 @@ section: About
 <img class='inset right' src='/files/images/blackwhite_jon.jpg' title='Jon 
 Eisen' alt='Photo of Jon Eisen' width='120px' />
 
-Welcome
-=======
+About Me
+========
 
 I'm Jon Eisen. I'm a software engineer, mathematician, saberist, traveler, algorithmist, beer snob, system architect, etc. Currently, I work as a Software Engineer for [Norhtrop Grumman](http://northropgrumman.com), where I get to make large real-time embedded systems and impact enterprise initiatives.
 
@@ -47,4 +47,18 @@ These are some events I've taken part in lately.
   Summit](http://www.defensedaily.com/events/oa2011/) November 11, 2012.
 - [Baltimore Givecamp 2011](http://www.cmap-online.org/events/default.aspx) 
   October 21-23, 2011. I helped set up a few websites for charities.
+=--
+
++-- {.section}
+Links
+=====
+Here's some links of sites I love.
+
+- Baseball Saberism: [Fangraphs](http://fangraphs.com), [Beyond the 
+  Boxscore](http://beyondtheboxscore.com), [Up And In: The Baseball Prospectus 
+  Podcast](http://www.baseballprospectus.com/blog/podcast/), [Capitol Avenue 
+  Club](http://capitolavenueclub.com)
+- Hackery: [Hacker News](http://news.ycombinator.com)
+- Funny: [xkcd](http://xkcd.com)
+- Colleagues: [Daniel Connelly](http://dhconnelly.com)
 =--
