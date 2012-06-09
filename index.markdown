@@ -10,7 +10,11 @@ section: Home
 Welcome
 =======
 
-I'm Jon Eisen. I'm a software engineer, mathematician, saberist, traveler, algorithmist, beer snob, system architect, etc. Currently, I work as a Software Engineer for [Norhtrop Grumman](http://northropgrumman.com), where I get to make large real-time embedded systems and impact enterprise initiatives.
+I'm Jon Eisen. I'm a software engineer, mathematician, saberist, traveler, 
+algorithmist, beer snob, system architect, etc. Currently, I work as a Software 
+Engineer for [Norhtrop Grumman](http://northropgrumman.com), where I get to make 
+large real-time embedded systems and impact enterprise initiatives. You can read 
+more about me [here](/about).
 
 Please excuse the mess while I construct the site. It is not fully functional yet.
 
