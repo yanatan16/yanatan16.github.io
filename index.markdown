@@ -1,7 +1,7 @@
 ---
 layout: default
+top: Jon Eisen [dot] Me
 title: Home
-
 section: Home
 ---
 
