@@ -24,7 +24,8 @@ like to learn new languages all the time, so look for this list to grow as time
 goes on.
 
 - Languages: C/C++ (3/2012), Java (3/2012), Python (2/2012), Go (1/2012), PHP 
-  (2/2011), Perl (1/2009), Matlab (3/2012)
+  (2/2011), Perl (1/2009), Matlab (3/2012), Ruby (0.5,2012), Javascript 
+  (0.5,2012)
 - Runtime Frameworks: ACE/TAO/CIAO/CORBA (2/2012), DDS (2/2012), OSGi (1/2010), 
   Thrift (1/2012)
 - Database: MySQL (2/2009), Memcached (1/2012), Redis (1/2012)
