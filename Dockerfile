@@ -12,5 +12,6 @@ RUN bundle install
 
 ADD . /data
 
+EXPOSE 4000
 ENTRYPOINT ["jekyll"]
 CMD ["serve", "-w"]
