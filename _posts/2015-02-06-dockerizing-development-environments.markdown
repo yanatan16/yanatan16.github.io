@@ -13,7 +13,5 @@ tags: docker, development-environment
 ---
 
 
-I just wrote about dockerizing development environments at
-[make.rafflecopter.com](http://make.rafflecopter.com/dockerizing-development-environments.html).
-Go check it out.
+I just wrote about dockerizing development environments at [make.rafflecopter.com](http://make.rafflecopter.com/dockerizing-development-environments.html). Go check it out.
 
