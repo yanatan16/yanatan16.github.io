@@ -3,6 +3,7 @@ layout: post
 categories: development code pebble
 title: Bold Hour (Pebble Watch Face)
 date: Sun May 12 2013 20:11:00 GMT-0600 (MDT)
+redirect_from: /post/50310906853
 
 # Old tumblr stuff
 id: 50310906853

@@ -3,6 +3,7 @@ layout: post
 categories: development code
 title: My mongorc file
 date: Sat Aug 03 2013 21:33:21 GMT-0600 (MDT)
+redirect_from: /post/57301176300
 
 # Old tumblr stuff
 id: 57301176300

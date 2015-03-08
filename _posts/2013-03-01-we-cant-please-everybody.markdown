@@ -3,6 +3,7 @@ layout: post
 categories: philosophy
 title: We can't please everybody
 date: Fri Mar 01 2013 20:55:03 GMT-0700 (MST)
+redirect_from: /post/44344332207
 
 # Old tumblr stuff
 id: 44344332207

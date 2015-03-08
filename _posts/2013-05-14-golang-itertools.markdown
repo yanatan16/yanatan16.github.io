@@ -3,6 +3,7 @@ layout: post
 categories: development code
 title: Golang Itertools
 date: Tue May 14 2013 08:02:01 GMT-0600 (MDT)
+redirect_from: /post/50419771247
 
 # Old tumblr stuff
 id: 50419771247

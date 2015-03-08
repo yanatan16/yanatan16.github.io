@@ -3,6 +3,7 @@ layout: post
 categories: development code
 title: Turn markdown into beautiful presentations
 date: Wed Jun 26 2013 19:25:00 GMT-0600 (MDT)
+redirect_from: /post/53976752448
 
 # Old tumblr stuff
 id: 53976752448

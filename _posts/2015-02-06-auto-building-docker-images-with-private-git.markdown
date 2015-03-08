@@ -3,6 +3,7 @@ layout: post
 categories: development code
 date: Fri Feb 06 2015 11:22:00 GMT-0700 (MST)
 title: Auto-building Docker Images with private git submodules
+redirect_from: /post/110265418306
 
 # Old tumblr stuff
 id: 110265418306

@@ -3,6 +3,7 @@ layout: post
 categories: development code
 title: Haskell SPSA
 date: Thu Jan 09 2014 20:05:51 GMT-0700 (MST)
+redirect_from: /post/72830370364
 
 # Old tumblr stuff
 id: 72830370364

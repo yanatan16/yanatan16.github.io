@@ -3,6 +3,7 @@ layout: post
 categories: development code
 title: Creating a content lock in MongoDB
 date: Mon Oct 08 2012 15:28:00 GMT-0600 (MDT)
+redirect_from: /post/33185206905
 
 # Old tumblr stuff
 id: 33185206905

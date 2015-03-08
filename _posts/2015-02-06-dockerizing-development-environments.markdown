@@ -3,6 +3,7 @@ layout: post
 date: Fri Feb 06 2015 12:04:42 GMT-0700 (MST)
 title: Dockerizing Development Environments
 categories: development rafflecopter
+redirect_from: /post/110268202956
 
 # Old tumblr stuff
 id: 110268202956

@@ -3,6 +3,7 @@ layout: post
 categories: philosophy
 title: Programming is Math
 date: Tue Apr 15 2014 21:40:36 GMT-0600 (MDT)
+redirect_from: /post/82860743939
 
 # Old tumblr stuff
 id: 82860743939

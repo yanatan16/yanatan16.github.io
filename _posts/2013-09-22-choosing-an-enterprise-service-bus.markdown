@@ -3,6 +3,7 @@ layout: post
 categories: development architecture
 title: Choosing an Enterprise Service Bus
 date: Sun Sep 22 2013 13:44:00 GMT-0600 (MDT)
+redirect_from: /post/61988455027
 
 # Old tumblr stuff
 id: 61988455027

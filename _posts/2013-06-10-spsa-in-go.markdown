@@ -3,6 +3,7 @@ layout: post
 categories: development code
 title: SPSA in Go
 date: Mon Jun 10 2013 19:33:16 GMT-0600 (MDT)
+redirect_from: /post/52672521368
 
 # Old tumblr stuff
 id: 52672521368

@@ -3,6 +3,7 @@ layout: post
 categories: philosophy
 date: Wed Jul 23 2014 15:03:00 GMT-0600 (MDT)
 title: Simplicity of Form and Function
+redirect_from: /post/92663247801
 
 # Old tumblr stuff
 id: 92663247801

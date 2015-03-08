@@ -2,6 +2,7 @@
 categories: development popular
 title: "Concurrency Models: Go vs Erlang"
 date: Mon Dec 17 2012 18:06:00 GMT-0700 (MST)
+redirect_from: /post/38188396218
 
 # Old tumblr stuff
 id: 38188396218

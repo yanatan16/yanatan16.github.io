@@ -3,6 +3,7 @@ layout: post
 categories: development code
 title: The fan-in concurrency pattern in node.js
 date: Sun Feb 24 2013 21:46:00 GMT-0700 (MST)
+redirect_from: /post/43961435963
 
 # Old tumblr stuff
 id: 43961435963

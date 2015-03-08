@@ -3,6 +3,7 @@ layout: post
 categories: development code contest
 title: Stripe CTF3 Recap
 date: Wed Jan 29 2014 20:00:00 GMT-0700 (MST)
+redirect_from: /post/75008410654
 
 # Old tumblr stuff
 id: 75008410654

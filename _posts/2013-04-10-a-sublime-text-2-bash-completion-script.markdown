@@ -3,6 +3,7 @@ layout: post
 categories: development code
 title: A Sublime Text 2 Bash Completion Script
 date: Wed Apr 10 2013 07:25:00 GMT-0600 (MDT)
+redirect_from: /post/47618192514
 
 # Old tumblr stuff
 id: 47618192514

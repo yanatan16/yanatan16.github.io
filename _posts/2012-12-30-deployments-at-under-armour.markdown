@@ -3,6 +3,7 @@ layout: post
 categories: devops
 title: Deployments at Under Armour Part 2
 date: Sun Dec 30 2012 19:36:00 GMT-0700 (MST)
+redirect_from: /post/39269148417
 
 # Old tumblr stuff
 id: 39269148417

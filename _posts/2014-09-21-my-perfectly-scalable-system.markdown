@@ -3,6 +3,7 @@ layout: post
 categories: development architecture philosophy
 date: Sun Sep 21 2014 11:27:23 GMT-0600 (MDT)
 title: My perfectly scalable system
+redirect_from: /post/98069470756
 
 # Old tumblr stuff
 id: 98069470756

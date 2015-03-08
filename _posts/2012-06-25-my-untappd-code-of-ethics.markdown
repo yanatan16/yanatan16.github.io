@@ -3,6 +3,7 @@ layout: post
 categories: misc
 title: My Untappd Code of Ethics
 date: Mon Jun 25 2012 20:55:00 GMT-0600 (MDT)
+redirect_from: /post/25900779387
 
 # Old tumblr stuff
 id: 25900779387

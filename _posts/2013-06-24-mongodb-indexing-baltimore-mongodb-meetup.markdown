@@ -3,6 +3,7 @@ layout: post
 categories: talks
 title: MongoDB Indexing @ Baltimore MongoDB Meetup
 date: Mon Jun 24 2013 21:01:00 GMT-0600 (MDT)
+redirect_from: /post/53811128255
 
 # Old tumblr stuff
 id: 53811128255

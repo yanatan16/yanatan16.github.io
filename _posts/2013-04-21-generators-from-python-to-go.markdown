@@ -3,6 +3,7 @@ layout: post
 categories: development code
 title: Generators from Python to Go
 date: Sun Apr 21 2013 17:53:00 GMT-0600 (MDT)
+redirect_from: /post/48568953293
 
 # Old tumblr stuff
 id: 48568953293
