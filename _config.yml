@@ -4,7 +4,7 @@ email: jon@joneisen.me
 description: >
   The cogitation of a know-it-all code typist.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yanatan16.github.io" # the base hostname & protocol for your site
+url: "http://joneisen.me" # the base hostname & protocol for your site
 twitter_username: jm_eisen
 github_username:  yanatan16
 
