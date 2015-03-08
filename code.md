@@ -4,8 +4,6 @@ title: Code
 permalink: /code/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Here is where I will type about code I have previously typed for machines to do things with.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<img src="https://igcdn-photos-a-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/10727457_1514195808826952_975753922_n.jpg">
