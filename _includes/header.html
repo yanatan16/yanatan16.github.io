@@ -8,10 +8,10 @@
       <div class="trigger">
         {% for page in site.pages %}
           {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">({{ page.title | downcase | replace:' ','-' }})</a>
           {% endif %}
         {% endfor %}
-        <a class="page-link ext-link" href="http://make.rafflecopter.com" target="_blank">Rafflecopter Dev Blog</a>
+        <a class="page-link ext-link" href="http://make.rafflecopter.com" target="_blank">(rafflecopter-dev-blog)</a>
       </div>
     </nav>
 

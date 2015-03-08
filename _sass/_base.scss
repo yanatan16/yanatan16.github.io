@@ -97,8 +97,13 @@ a {
     }
 
     &:hover {
-        color: $text-color;
+        color: darken($brand-color, 10%);
         text-decoration: underline;
+
+        .post-content & {
+            &:before { content: '(' }
+            &:after { content: ')' }
+        }
     }
 }
 
