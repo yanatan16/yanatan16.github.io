@@ -1,0 +1,61 @@
+---
+layout: post
+categories: development code
+title: SPSA in Go
+date: Mon Jun 10 2013 19:33:16 GMT-0600 (MDT)
+
+# Old tumblr stuff
+id: 52672521368
+link: http://joneisen.tumblr.com/post/52672521368/spsa-in-go
+slug: spsa-in-go
+publish: 2013-06-010
+tags: spsa, stochastic approximation, optimization, evolutionary computing, stochastics, golang, math
+---
+
+
+tl;dr - I created an [SPSA](http://jhuapl.edu/SPSA) library in
+[Go](http://golang.org). You can find it on
+[github](https://github.com/yanatan16/golang-spsa) and documentation on
+[godoc](http://godoc.org/github.com/yanatan16/golang-spsa).
+
+While it doesn’t get the press of other Evolutionary Computing
+algorithms, Simultaneous Perturbation Stochastic Analysis (SPSA) is a
+global stochastic optimizer with a strong theoretical foundation. It has
+a defined asymptotic convergence rate, even in high noise situations. It
+works as an extension of stochastic root finding by estimating the
+gradient (derivative) of the target function using only two measurements
+(regardless of parameter vector dimension). Here’s the core iteration of
+the algorithm:
+
+![Stochastic
+Approximation]([http://latex.codecogs.com/gif.latex?\\vec{\\theta}](http://latex.codecogs.com/gif.latex?%5Cvec%7B%5Ctheta%7D)*{k+1}
+= \\vec{\\theta}*{k} - a\_k \\vec{G}(\\vec{L}*k(\\cdot),
+\\vec{theta}*{k})” title=”\\vec{\\theta}*{k+1} = \\vec{\\theta}*{k} -
+a\_k \\vec{G}(\\vec{L}*k(\\cdot), \\vec{theta}*{k}))
+
+Where G is a function that takes the loss function L (to be minimized)
+and the current iteration of the parameter vector θ and produces a
+gradient estimate using simultaneous perturbation. If you’d like to read
+more, check out the [website](http://jhuapl.edu/SPSA) or [Spall’s
+original paper
+[pdf]](http://jhuapl.edu/SPSA/PDF-SPSA/Spall_An_Overview.PDF).
+
+I wrote a golang implementation of it originally for my final project in
+Spall’s class at JHU. I repackaged it with a nicer API and a full test
+suite. Its on [github](https://github.com/yanatan16/golang-spsa),
+documentation on
+[godoc](http://godoc.org/github.com/yanatan16/golang-spsa), and testing
+on [travis](http://travis-ci.org/yanatan16/golang-spsa).
+
+Here’s some example code that uses it from the docs.
+
+    spsa := &SPSA{
+      L: AbsoluteSum, // Loss Function
+      C: NoConstraints,
+      Theta: Vector{1,1,1,1,1},
+      Ak: StandardAk(1, 100, .602),
+      Ck: StandardCk(.1, .101),
+      Delta: Bernoulli{1},
+    }
+    theta := spsa.Run(1000)
+

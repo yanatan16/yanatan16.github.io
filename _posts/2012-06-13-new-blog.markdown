@@ -1,0 +1,22 @@
+---
+layout: post
+categories: misc
+title: New Blog
+date: Wed Jun 13 2012 09:33:07 GMT-0600 (MDT)
+
+# Old tumblr stuff
+id: 25024749563
+link: http://joneisen.tumblr.com/post/25024749563/new-blog
+slug: new-blog
+publish: 2012-06-013
+tags:
+---
+
+
+I’m starting up this blog to have a place to post good pics, links, and
+thoughts. I’ll talk about things I’m interested in (read: everything).
+Its called the Pigeonhole Principal as an ironic mix of the basic
+mathematical principal that given n pigeonholes, and m \> n pigeons, at
+least two pigeons will have to double up; and the fact that I don’t like
+to be pigeonholed to any one topic. I talk about everything.
+
