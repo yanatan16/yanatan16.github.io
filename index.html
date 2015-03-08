@@ -3,16 +3,24 @@ layout: default
 ---
 
 <div class="home">
+  <div class="post-preview">
+    {% assign first_post = site.posts | first %}
+    <a class="preview-title-link" href="{{ first_post.url | prepend: site.baseurl }}">
+      <h1 class="post-title">{{ first_post.title }}</h1>
+    </a>
+    <p class="post-meta">{{ first_post.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if first_post.meta %} • {{ page.meta }}{% endif %}</p>
+    <p class="preview-body">{{ first_post.content | split:"<!--break-->" | first }}</p>
+    <a class="preview-more-link" href="{{ first_post.url | prepend: site.baseurl }}">more...</a>
+  </div>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:9 offset:1 %}
       <li>
         <span class="post-meta">{{ post.date | timeago }}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-
-
       </li>
     {% endfor %}
   </ul>
 
+  <a class="archive-link" href="archive">All Posts</a>
 </div>

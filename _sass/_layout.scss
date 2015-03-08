@@ -72,7 +72,7 @@
 }
 
 .footer-heading {
-    font-size: 15px;
+    font-size: 16px;
     margin-bottom: $spacing-unit / 2;
 }
 
@@ -83,7 +83,7 @@
 }
 
 .footer-col-wrapper {
-    font-size: 12px;
+    font-size: 14px;
     color: $grey-color;
     @extend %clearfix;
 }
@@ -122,6 +122,19 @@
     font-size: 20px;
 }
 
+// Preview
+.post-preview {
+    .preview-title-link {
+        color: inherit;
+    }
+}
+
+.post-preview + .post-list {
+    @include double-border-top(1px, solid, $grey-color-dark, 3px);
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
 .post-list {
     margin-left: 0;
     list-style: none;
@@ -141,7 +154,6 @@
     display: block;
     // font-size: 24px;
 }
-
 
 
 /**

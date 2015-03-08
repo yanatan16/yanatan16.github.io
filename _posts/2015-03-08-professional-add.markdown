@@ -10,6 +10,8 @@ categories: philosophy
 
 I remember answering this question the same way since college. Maybe its my form of ADD (doctors said I didn't have it). Although, it is quite clear this was my concious or subconcious desire if you look back on my life.
 
+<!--break-->
+
 My teachers through my formative years described me as a problem student. I would constantly interrupt class, not because I hated class, but because I was bored. School just never moved fast enough for me.
 
 Since my first job in tech, I've never done the same thing for more than 4 months. The longest time I've been on a project has been a year and a half. Even then, I rotated around to different jobs.
