@@ -17,5 +17,5 @@ In [node](http://nodejs.org), we have a lot of callback-based functions. In node
 
 Eventually, though, you’ll come across converting a callback-based function into a ES6 generator. This is pretty simple to fix though, we just need to create a promise which can be yielded to!
 
-``{data-gist-id="8216252"}
+<code data-gist-id="8216252"></code>
 

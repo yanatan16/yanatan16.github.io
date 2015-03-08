@@ -19,23 +19,23 @@ Last Sunday, I decided to take a crack at simplifying the API for creating and r
 
 Let’s take a look at the old API for creating an SPSA object.
 
-``{data-gist-id="8560908" data-gist-file="old_create.hs"}
+<code data-gist-id="8560908" data-gist-file="old_create.hs"></code>
 
 I wrote this code, and I can’t tell you exactly what its doing without digging through the source. Theres magic numbers being thrown everywhere with no regard! Now, lets see the new API:
 
-``{data-gist-id="8560908" data-gist-file="new_create.hs"}
+<code data-gist-id="8560908" data-gist-file="new_create.hs"></code>
 
 Here we have what appears to be a much more *imperative* API. But, even though it is more verbose, it is more self-explanatory as to what each line is doing. We are constructing an SPSA configuration from the ground up, setting the loss function, stop criteria, perturbation vector, and tuning the gain sequences (`a` and `c` are the primary tunable parameters). Better yet, theres no IO monad buried deep down (but you’ll need to pass in a random seed). How is this implemented, a question you might be asking.
 
-``{data-gist-id="8560908" data-gist-file="impl.hs"}
+<code data-gist-id="8560908" data-gist-file="impl.hs"></code>
 
 By using the State monad, we can apply incremental updates to the implicit state of an `SPSA` data type as we construct it. That way, we can build an SPSA configuration in many different complex and complicated ways and keep a sane API. Now, let’s see how this has affected the internals.
 
-``{data-gist-id="8560908" data-gist-file="optimize.hs"}
+<code data-gist-id="8560908" data-gist-file="optimize.hs"></code>
 
 We can see in that piece of code that the core optimization functions are more easily taken in without a bunch of `where` clauses. `runSPSA'` is a simple tail-recursive function which runs a `singleIteration` until `checkStop t t'` returns true. All of this is done without explicitly passing around an `SPSA` object thanks to the `State` monad.
 
-``{data-gist-id="8560908" data-gist-file="runspsa.hs"}
+<code data-gist-id="8560908" data-gist-file="runspsa.hs"></code>
 
 Finally, we have the exported `StateSPSA` runner, which runs the SPSA instance with a given guess and returns the final guess.
 

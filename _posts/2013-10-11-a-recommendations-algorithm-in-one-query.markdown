@@ -23,11 +23,11 @@ So here’s how you can use a [neo4j](http://neo4j.org) database to create an ef
 
 Let’s suppose that users buy products. Here’s how we’ll record them.
 
-``{data-gist-id="6945507" data-gist-file="create.cypher"}
+<code data-gist-id="6945507" data-gist-file="create.cypher"></code>
 
 Now we want to perform a simple [collaborative filtering](http://en.wikipedia.org/wiki/Collaborative_filtering) recommendations algorithm: Find all users that buy the same products as us and recommend the products that they buy, weighted by how many users buy both products the user in question has buyd and the product being recommended.
 
-``{data-gist-id="6945507" data-gist-file="query.cypher"}
+<code data-gist-id="6945507" data-gist-file="query.cypher"></code>
 
 Line 1 is neo4j boilerplate for starting from a given node (our user). Line 2 is a match pattern that finds a length 3 path between `(u)` and `(p)` with the given node types, relation types and directions. Line 3 says that we shouldn’t recommend from repetitive paths, i.e. those that traverse the same relation twice. Line 4 is our return statement, saying we want to return the projects to recommend (those on the end of the path) and we want to accumulate repeated projects into a count of how many different paths to that project were found. Line 5 is a basic ordering so we get the highest score projects first.
 

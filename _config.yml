@@ -12,3 +12,9 @@ github_username:  yanatan16
 markdown: kramdown
 kramdown:
   input: GFM
+
+# Github Pages Supported Plugins
+gems:
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap

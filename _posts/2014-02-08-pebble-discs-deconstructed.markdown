@@ -23,15 +23,15 @@ As you can see above, this is a minimalistic watchface. It doesn’t have that m
 
 To make this watchface, we will create four discs, drawn on top of each other. The first and second are stationary in the center of the screen, while the third and fourth rotate about the center as time passes.
 
-``{data-gist-id="8885664" data-gist-line="16-21,74-76,90-94"}
+<code data-gist-id="8885664" data-gist-line="16-21,74-76,90-94"></code>
 
 Here we declare our `Layer`s to hold our discs and set up their drawing order.
 
-``{data-gist-id="8885664" data-gist-line="103,112-114,70-72"}
+<code data-gist-id="8885664" data-gist-line="103,112-114,70-72"></code>
 
 This is the “magic” function that creates a moving watchface effect. `tick_handler` runs every second and notifies the watch to redraw our hour and minute layers. Now all we must do is draw each disc.
 
-``{data-gist-id="8885664" data-gist-line="40-44,50-58"}
+<code data-gist-id="8885664" data-gist-line="40-44,50-58"></code>
 
 Here we draw the face disc (center is similar) and hour disc (minute is similar). The face disc never moves, so we just draw it in the center. For the hour disc, we must calculate its angle using the current time and calculate its position based on that angle using a trigonometric helper function.
 

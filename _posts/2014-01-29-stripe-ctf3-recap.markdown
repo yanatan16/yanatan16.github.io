@@ -19,7 +19,7 @@ tags: stripe, stripe-ctf, ctf, code-competition, go, haskell, node.js, scala
 
 Level 0 gave you a small ruby program that read in a dictionary and a list of words and checked to see if the words were in the dictionary. The problem was to make this program faster:
 
-``{data-gist-id="8675360" data-gist-file="level0.rb" data-gist-line="8-19"}
+<code data-gist-id="8675360" data-gist-file="level0.rb" data-gist-line="8-19"></code>
 
 It should be clear to most anyone with a small experience with data structures that the basic solution is to convert the list of dictionary words to a set. Ruby’s `.to_set` works fine. That got you a passing score.
 

@@ -34,7 +34,7 @@ parser.
 
 Here’s the core piece of code:
 
-``{data-gist-id="6886035" data-gist-line="15-30"}
+<code data-gist-id="6886035" data-gist-line="15-30"></code>
 
 The `req.form` object and its event `'part'` are created by the deferred
 multipart middleware; each file will have a part and the data stream can
