@@ -13,17 +13,9 @@ tags: beer, untappd, ethics
 ---
 
 
-Every Engineer graduating from Georgia Tech takes an ethics course. It
-counts just as much as fluid mechanics or operations research or low
-speed aerodynamics. Ethics are important. They regulate how one acts in
-everyday life. People always say a person is defined by what the do when
-no one is looking. Personal ethics are the literal representation of
-that phrase.
+Every Engineer graduating from Georgia Tech takes an ethics course. It counts just as much as fluid mechanics or operations research or low speed aerodynamics. Ethics are important. They regulate how one acts in everyday life. People always say a person is defined by what the do when no one is looking. Personal ethics are the literal representation of that phrase.
 
-I strive to ethically challenge myself to stay the course every day.
-That is embodied in my *Untapped Code of Ethics*. I use untapped to
-represent the unique beers I’ve enjoyed since I’ve started using
-untappd.
+I strive to ethically challenge myself to stay the course every day. That is embodied in my *Untapped Code of Ethics*. I use untapped to represent the unique beers I’ve enjoyed since I’ve started using untappd.
 
 1.  Untappd records only current events. I only check into beers I’m
     drinking right then. Not soon, not yesterday, not 5 years ago. A
@@ -39,6 +31,5 @@ untappd.
 3.  Never check-in to light beer. Comprimising your integrity for a
     check-in is a no-no. Say no to light beer.
 
-You may disagree with my ethics, but that’s OK. Disagreement is what
-America stands for, just look at Congress.
+You may disagree with my ethics, but that’s OK. Disagreement is what America stands for, just look at Congress.
 

@@ -13,16 +13,9 @@ tags: golang, default-values, variadic-arguments
 ---
 
 
-Go does not allow default values in function prototypes or function
-overloading. The Go language specification is remarkably small, and is
-purposefully maintained that way to keep the parser simple. Default
-values would add complexity to function definition syntax.
+Go does not allow default values in function prototypes or function overloading. The Go language specification is remarkably small, and is purposefully maintained that way to keep the parser simple. Default values would add complexity to function definition syntax.
 
-So how does one implement default values in real code? We have four
-options: forced user selection of default values, a single optional
-parameter, using a config struct, or full variadic argument parsing.
-Let’s imagine we’re making a function that concatenates a string and an
-integer.
+So how does one implement default values in real code? We have four options: forced user selection of default values, a single optional parameter, using a config struct, or full variadic argument parsing. Let’s imagine we’re making a function that concatenates a string and an integer.
 
 Option 1: The caller chooses to use default values
 
@@ -97,11 +90,7 @@ Option 4: Full variadic argument parsing (javascript style)
 
 [Full Demo](http://play.golang.org/p/VVA4i6l1W4)
 
-For API stability reasons, I suggest Option 3 or 4, as those will not
-break code relying on your API. Furthermore, Options 1, 2, and 3 are the
-best documented in code. Its for that reason that I use Option 3 (Config
-structs) the most in my code.
+For API stability reasons, I suggest Option 3 or 4, as those will not break code relying on your API. Furthermore, Options 1, 2, and 3 are the best documented in code. Its for that reason that I use Option 3 (Config structs) the most in my code.
 
-Update: Thanks to [@davecheney](https://twitter.com/davecheney) for
-suggesting the type switch in the Option 4. Its much cleaner.
+Update: Thanks to [@davecheney](https://twitter.com/davecheney) for suggesting the type switch in the Option 4. Its much cleaner.
 

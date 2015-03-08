@@ -13,11 +13,7 @@ tags: hackathon, baltimore, baltimore hackathon, Radical Radar, Cartridge, Ad.co
 ---
 
 
-A few weeks ago, a few friends and I hosted the [Second Baltimore
-Hackathon](http://baltimorehackathon.com) at the Ad.com (AOL) office in
-Tide Point. It went really well. We gave out over \$3000 in prizes to
-six deserving teams. Over 70 participants came in from as far as Bronx,
-NYC to compete.
+A few weeks ago, a few friends and I hosted the [Second Baltimore Hackathon](http://baltimorehackathon.com) at the Ad.com (AOL) office in Tide Point. It went really well. We gave out over \$3000 in prizes to six deserving teams. Over 70 participants came in from as far as Bronx, NYC to compete.
 
 Our prizes were organized into 6 categories:
 
@@ -49,10 +45,5 @@ Our prizes were organized into 6 categories:
     entry system complete with RFID’s, webcam, logging, and web
     interface, a great solution to the keyed entry system they have now.
 
-This was my first hackathon, and I thought the projects were very well
-done. Congratulations to the winners and good luck converting those
-prototypes to businesses! Check out the
-[website](http://baltimorehackathon.com) for more information. We owe a
-big thanks to all of our sponsors and participants. I hope to see many
-of y’all next year!
+This was my first hackathon, and I thought the projects were very well done. Congratulations to the winners and good luck converting those prototypes to businesses! Check out the [website](http://baltimorehackathon.com) for more information. We owe a big thanks to all of our sponsors and participants. I hope to see many of y’all next year!
 

@@ -15,12 +15,8 @@ tags: get-shit-done, mantra
 
 Here’s what it means to me:
 
-1.  Focus on building a product. If you find yourself doing things that
-    do not contribute to the product, re-evaluate what your doing.
-2.  Planning should be minimal but never disregarded. Use planning to
-    gain buy-in from other stakeholders, but don’t lose yourself in
-    planning.
-3.  Embrace rework. It improves upon the original work by orders of
-    magnitude.
+1.  Focus on building a product. If you find yourself doing things that do not contribute to the product, re-evaluate what your doing.
+2.  Planning should be minimal but never disregarded. Use planning to gain buy-in from other stakeholders, but don’t lose yourself in planning.
+3.  Embrace rework. It improves upon the original work by orders of magnitude.
 
 

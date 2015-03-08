@@ -13,23 +13,9 @@ tags: development, heroku, best practices, hacker news
 ---
 
 
-Recently on [hacker news](http://news.ycombinator.com), there was a post
-called [Heroku fucking
-console](http://news.ycombinator.com/item?id=5304936), where someone
-created a work-around because heroku had removed the functionality to
-simply call `heroku console`, and instead you now have to call
-`heroku run rails console`. This sparked a rather long comment thread
-with people complaining about “software that knows exactly what you want
-it to do, then gives some excuse as to why it’s not going to do it in an
-effort to get you to jump through meaningless hoops”
-([link](http://news.ycombinator.com/item?id=5305056)).
+Recently on [hacker news](http://news.ycombinator.com), there was a post called [Heroku fucking console](http://news.ycombinator.com/item?id=5304936), where someone created a work-around because heroku had removed the functionality to simply call `heroku console`, and instead you now have to call `heroku run rails console`. This sparked a rather long comment thread with people complaining about “software that knows exactly what you want it to do, then gives some excuse as to why it’s not going to do it in an effort to get you to jump through meaningless hoops” ([link](http://news.ycombinator.com/item?id=5305056)).
 
-While I do agree with this sentiment, software should be easy to use,
-not hard; this is not always easy to implement for the developer. The
-developer must think of everyone using his or her product, and sometimes
-must make choices which negatively affect some people’s experience in
-favor of the greater good. I scanned through the comment thread in
-question and came up with a few examples.
+While I do agree with this sentiment, software should be easy to use, not hard; this is not always easy to implement for the developer. The developer must think of everyone using his or her product, and sometimes must make choices which negatively affect some people’s experience in favor of the greater good. I scanned through the comment thread in question and came up with a few examples.
 
 1.  `heroku console` is now `heroku run rails console`. There’s two good
     explanations here. `heroku console` spins up a new dyno and calls
@@ -57,8 +43,5 @@ question and came up with a few examples.
     advanced features such a search that you can SIGINT to kill. You can
     change it with an environment variable, or just hit `q` to quit.
 
-These are all choices made for the greater good, but some of which do
-not benefit the more experienced users. Sometimes we’re frustrated by
-those choices, but we must understand them, and work around them, like
-`heroku fucking:console`.
+These are all choices made for the greater good, but some of which do not benefit the more experienced users. Sometimes we’re frustrated by those choices, but we must understand them, and work around them, like `heroku fucking:console`.
 

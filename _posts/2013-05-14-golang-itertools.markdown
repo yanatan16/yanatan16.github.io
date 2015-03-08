@@ -13,15 +13,9 @@ tags: python, iterators, generators, golang, itertools
 ---
 
 
-Golang itertools
-================
+# Golang itertools
 
-I was going to do something productive today, but I got sidetracked into
-creating a golang library that translated python’s `itertools`. Its more
-of a thought exercise than anything else at this point, but it has a
-full test suite and is pretty easy to use. You can check it out on
-[github](http://github.com/yanatan16/itertools) or the
-[documentation](http://godoc.org/github.com/yanatan16/itertools).
+I was going to do something productive today, but I got sidetracked into creating a golang library that translated python’s `itertools`. Its more of a thought exercise than anything else at this point, but it has a full test suite and is pretty easy to use. You can check it out on [github](http://github.com/yanatan16/itertools) or the [documentation](http://godoc.org/github.com/yanatan16/itertools).
 
 Here’s a few examples of what you can do:
 

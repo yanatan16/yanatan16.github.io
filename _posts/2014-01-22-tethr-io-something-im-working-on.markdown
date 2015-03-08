@@ -13,10 +13,5 @@ tags: tethr.io, webrtc
 ---
 
 
-I started a side project named
-[tethr.io](https://github.com/yanatan16/tethr.io). It’s a socket.io-like
-API for WebRTC data connections. Its in an experimental state right now,
-but I’m excited to see what I can do with it. Check out the
-[github](https://github.com/yanatan16/tethr.io) and my blog post at
-[make.rafflecopter.com](http://make.rafflecopter.com/side-project-jon-tether-io.html)
+I started a side project named [tethr.io](https://github.com/yanatan16/tethr.io). It’s a socket.io-like API for WebRTC data connections. Its in an experimental state right now, but I’m excited to see what I can do with it. Check out the [github](https://github.com/yanatan16/tethr.io) and my blog post at [make.rafflecopter.com](http://make.rafflecopter.com/side-project-jon-tether-io.html)
 

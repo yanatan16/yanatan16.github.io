@@ -13,25 +13,15 @@ tags: go, golang, channels, iterators
 ---
 
 
-Interesting uses for channels in Go
+Recently, while programming an RPC broker layer in [go](http://golang.org), I needed an iterator for a custom class I had created. In python, I would have just overridden `__next__()` (python3), and in java, I would have implemeted `Iterable`, but go, which tries to be very minimalist has no easy way to create an iterator.
 
-Recently, while programming an RPC broker layer in
-[go](http://golang.org), I needed an iterator for a custom class I had
-created. In python, I would have just overridden `__next__()` (python3),
-and in java, I would have implemeted `Iterable`, but go, which tries to
-be very minimalist has no easy way to create an iterator.
-
-Natively, the `range` built-in allows for easy iteration of slices,
-arrays, maps, and channels like so:
+Natively, the `range` built-in allows for easy iteration of slices, arrays, maps, and channels like so:
 
     for value := range mychannel {
       // do something
     }
 
-So to give my class an iterator, I used channels! For this example,
-consider `Array` to be type I need to iterate over and `Value` to be the
-types that come out of the iterator. Heres our type definition and use
-case
+So to give my class an iterator, I used channels! For this example, consider `Array` to be type I need to iterate over and `Value` to be the types that come out of the iterator. Heres our type definition and use case
 
     type Iterator struct {
       C chan Value
@@ -68,16 +58,9 @@ And here’s the `Iter()` function definition.
       return iter
     }
 
-Cool! Now whenever, I call `array.Iter()`, I’ll get a channel that will
-give me all the values in order. In practice, you wouldn’t do this with
-a type that maps to a slice, but something more complicated which
-couldn’t be used with the range built-in by itself.
+Cool! Now whenever, I call `array.Iter()`, I’ll get a channel that will give me all the values in order. In practice, you wouldn’t do this with a type that maps to a slice, but something more complicated which couldn’t be used with the range built-in by itself.
 
-Theres only one problem with this implementation. What happens if we
-break off the list? We can’t have goroutines and channels sitting
-unused. So we’ve already implemented the necessary stuff for the channel
-`closer` in `Iter()`, now we need only a `Break()` function (and a use
-case):
+Theres only one problem with this implementation. What happens if we break off the list? We can’t have goroutines and channels sitting unused. So we’ve already implemented the necessary stuff for the channel `closer` in `Iter()`, now we need only a `Break()` function (and a use case):
 
     func (i *Iterator) Break() {
       select {
@@ -98,8 +81,5 @@ case):
       }
     }
 
-This implementation shows how channels can be used to create iterators
-over any type in Go with minimal overhead and while keeping abstractions
-in place. For a working demo, checkout [this example on
-play.golang.org](http://play.golang.org/p/NIdDOIDzPU)
+This implementation shows how channels can be used to create iterators over any type in Go with minimal overhead and while keeping abstractions in place. For a working demo, checkout [this example on play.golang.org](http://play.golang.org/p/NIdDOIDzPU)
 

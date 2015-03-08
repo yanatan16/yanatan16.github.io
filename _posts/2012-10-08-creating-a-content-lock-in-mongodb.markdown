@@ -13,11 +13,7 @@ tags:
 ---
 
 
-Suppose you have a complex object or set of objects in your database,
-which happens to be MongoDB, and you can’t simply perform a single
-`db.coll.update()` call to write to it. It could be an ordered list,
-because mongo only knows sets, or it could be multiple objects in
-multiple collections. Here’s how you can create a lock in MongoDB.
+Suppose you have a complex object or set of objects in your database, which happens to be MongoDB, and you can’t simply perform a single `db.coll.update()` call to write to it. It could be an ordered list, because mongo only knows sets, or it could be multiple objects in multiple collections. Here’s how you can create a lock in MongoDB.
 
 First create a new collection for locks, and add this document to it:
 
@@ -30,8 +26,7 @@ First create a new collection for locks, and add this document to it:
         uid: 0
     });
 
-To take control of the lock then, try to update the lock object and
-double check you have it.
+To take control of the lock then, try to update the lock object and double check you have it.
 
     var getLock = function() {
         this.myuid = Math.floor(Math.random()*10000000000);
@@ -43,8 +38,7 @@ double check you have it.
         return haveLock;
     }
 
-Then, once your done modifying the object, release the lock and update
-the version.
+Then, once your done modifying the object, release the lock and update the version.
 
     var releaseLock = function() {
         db.locks.update(
@@ -53,6 +47,5 @@ the version.
             false, false);
     }
 
-This allows you to have multiple agents modifying and reading the same
-complex object and using a lock stored in MongoDB.
+This allows you to have multiple agents modifying and reading the same complex object and using a lock stored in MongoDB.
 

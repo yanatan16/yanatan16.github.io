@@ -13,10 +13,5 @@ tags:
 ---
 
 
-I’m starting up this blog to have a place to post good pics, links, and
-thoughts. I’ll talk about things I’m interested in (read: everything).
-Its called the Pigeonhole Principal as an ironic mix of the basic
-mathematical principal that given n pigeonholes, and m \> n pigeons, at
-least two pigeons will have to double up; and the fact that I don’t like
-to be pigeonholed to any one topic. I talk about everything.
+I’m starting up this blog to have a place to post good pics, links, and thoughts. I’ll talk about things I’m interested in (read: everything). Its called the Pigeonhole Principal as an ironic mix of the basic mathematical principal that given n pigeonholes, and m \> n pigeons, at least two pigeons will have to double up; and the fact that I don’t like to be pigeonholed to any one topic. I talk about everything.
 

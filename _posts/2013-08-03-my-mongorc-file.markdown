@@ -13,27 +13,16 @@ tags: mongo, mongorc, mongodb, authentication, devops
 ---
 
 
-Most of my coworkers use [MongoVue](http://www.mongovue.com/) to browse
-our Mongo database. I, being partially stubborn and somewhat allergic to
-Windows, have stuck with the mongo shell. In order to keep my
-productivity up, I started using a mongorc file.
+Most of my coworkers use [MongoVue](http://www.mongovue.com/) to browse our Mongo database. I, being partially stubborn and somewhat allergic to Windows, have stuck with the mongo shell. In order to keep my productivity up, I started using a mongorc file.
 
-The mongorc file is a lot like your bashrc file. It gets loaded every
-time you enter the mongo shell. It lies in your home directory and
-should be named `.mongorc.js`. Its just plain old javascript, but it can
-make a world of difference when operating in the shell day-to-day. I’ve
-generalized my personal mongorc in [this
-gist](https://gist.github.com/yanatan16/6148978) and here, I’ll walk
-through it.
+The mongorc file is a lot like your bashrc file. It gets loaded every time you enter the mongo shell. It lies in your home directory and should be named `.mongorc.js`. Its just plain old javascript, but it can make a world of difference when operating in the shell day-to-day. I’ve generalized my personal mongorc in [this gist](https://gist.github.com/yanatan16/6148978) and here, I’ll walk through it.
 
     (function () {
     rcversion = '1.0';
 
     load('underscore.min.js')
 
-Just the basics here: wrap the whole thing in a closure, set a version
-for sanity’s sake, load underscore (a must in any javascript
-environment).
+Just the basics here: wrap the whole thing in a closure, set a version for sanity’s sake, load underscore (a must in any javascript environment).
 
     (function () {
         var cmdCount = 0;
@@ -50,9 +39,7 @@ environment).
         }
     })()
 
-Setup the prompt: This prompt tells us if we are on a replica set, and
-if we are on the primary. It also shows the current database and the
-current command count.
+Setup the prompt: This prompt tells us if we are on a replica set, and if we are on the primary. It also shows the current database and the current command count.
 
     var login = function (dbname, username) {
         // Or load('auth_tokens.js')
@@ -73,12 +60,7 @@ current command count.
         rw: _.bind(login, 'foo', 'readwrite-username')
     };
 
-Setup authentication helpers: Add in your own authentication schemes and
-tokens. You can also load these from another file. We basically, provide
-a nice function like `auth.admin()` to login to the admin database and
-others. Notice how that if we call this accidentally, we just drop it on
-the floor. This ensures you don’t get bothered when not on the
-authenticated database.
+Setup authentication helpers: Add in your own authentication schemes and tokens. You can also load these from another file. We basically, provide a nice function like `auth.admin()` to login to the admin database and others. Notice how that if we call this accidentally, we just drop it on the floor. This ensures you don’t get bothered when not on the authenticated database.
 
     _.mixin({
         // A deep getter
@@ -142,10 +124,7 @@ authenticated database.
         }
     });
 
-Various useful helper functions: I just stick them on the underscore
-object to make using them easer. I don’t have to remember multiple
-helper objects. Especially helpful is \_.oid, which is oddly missing
-from the shell functions.
+Various useful helper functions: I just stick them on the underscore object to make using them easer. I don’t have to remember multiple helper objects. Especially helpful is \_.oid, which is oddly missing from the shell functions.
 
     // Walks a recursive object (`node`), testing them with tester and making callbacks when tester returns true.
     // The only option is `depth`: defaults to 20 but can be set arbitrarily (up to shell limit) to control recursion.
@@ -169,11 +148,7 @@ from the shell functions.
         return walk(node);
     };
 
-This is a base function for walking a tree structure to find things.
-Mongo is based off of javascript objects, which are so easy to nest. We
-have some arbitrarily nested structures in our database, and parsing
-them in the shell is tedious at best. We’ll start with this and build up
-some useful functions for dealing with arbitrarily nested data.
+This is a base function for walking a tree structure to find things. Mongo is based off of javascript objects, which are so easy to nest. We have some arbitrarily nested structures in our database, and parsing them in the shell is tedious at best. We’ll start with this and build up some useful functions for dealing with arbitrarily nested data.
 
     // Take a selector and create a testor for the walker function
     // The goal is to create a tester that will find objects with certain key/value pairs.
@@ -215,10 +190,7 @@ some useful functions for dealing with arbitrarily nested data.
         };
     };
 
-Here, I start to build a tester function for the walker base function.
-We start to introduce something of the ease of jquery selector syntax
-for finding objects nested deeply in data. It’s not fully featured, and
-can’t find children, but it works well for what it does.
+Here, I start to build a tester function for the walker base function. We start to introduce something of the ease of jquery selector syntax for finding objects nested deeply in data. It’s not fully featured, and can’t find children, but it works well for what it does.
 
     // Select the children of element based on tester
     // If tester is not a function, use kv_typetest to create one
@@ -242,9 +214,7 @@ can’t find children, but it works well for what it does.
         return buf;
     };
 
-Selector is the third and final piece in this selection feature. It
-allows one to do something like `$(nested_obj, 'hello:world')` to find
-all nodes with {hello: ‘world’} in it.
+Selector is the third and final piece in this selection feature. It allows one to do something like `$(nested_obj, 'hello:world')` to find all nodes with {hello: ‘world’} in it.
 
     // Or load('app_specific_mongorc.js');
     _.mixin({
@@ -257,15 +227,12 @@ all nodes with {hello: ‘world’} in it.
         // add your own
     });
 
-This is a great place to put application-specific helper functions for
-helping you deal with the day-to-day tasks in your database.
+This is a great place to put application-specific helper functions for helping you deal with the day-to-day tasks in your database.
 
     // Autologin
     auth.ro();
 
     })();
 
-Finally, auto-login into read-only mode and execute the closure. Logging
-into read-only mode has saved me so many times from making buggy
-not-ready changes because I thought I was local or in QA.
+Finally, auto-login into read-only mode and execute the closure. Logging into read-only mode has saved me so many times from making buggy not-ready changes because I thought I was local or in QA.
 

@@ -13,8 +13,7 @@ tags: iterators, python, go, golang, generators, channels, goroutines
 ---
 
 
-Channels and goroutines in Go can be used just like
-[generators](http://wiki.python.org/moin/Generators) in Python.
+Channels and goroutines in Go can be used just like [generators](http://wiki.python.org/moin/Generators) in Python.
 
 For instance, an generator in Python may be defined as like so:
 
@@ -25,8 +24,7 @@ For instance, an generator in Python may be defined as like so:
     for y in myiter():
       print(y)
 
-In Go, we’d do something similar ([working
-example](http://play.golang.org/p/bYNs8kvOkb)):
+In Go, we’d do something similar ([working example](http://play.golang.org/p/bYNs8kvOkb)):
 
     func MyIter() chan float64 {
       c := make(chan float64)
@@ -43,8 +41,7 @@ example](http://play.golang.org/p/bYNs8kvOkb)):
       fmt.Println(y)
     }
 
-If we were doing something more complicated with two-way communication
-using generators, we’d have this pattern:
+If we were doing something more complicated with two-way communication using generators, we’d have this pattern:
 
     def myiter2():
       x = yield
@@ -56,9 +53,7 @@ using generators, we’d have this pattern:
     for z in range(10):
       print(mi2.send(z))
 
-And in Go, we could use one bidirectional channel, but I’m not a big
-fan. I’ll use two uni-directional channels ([working
-example](http://play.golang.org/p/pC-HFPkVmB)):
+And in Go, we could use one bidirectional channel, but I’m not a big fan. I’ll use two uni-directional channels ([working example](http://play.golang.org/p/pC-HFPkVmB)):
 
     func MyIter2() (in, out chan float64) {
       in, out = make(chan float64), make(chan float64)
@@ -77,9 +72,7 @@ example](http://play.golang.org/p/pC-HFPkVmB)):
       fmt.Println(&lt;- out)
     }
 
-All four of these examples are simple, they just output the squares of
-the numbers zero through 9, but they illustrate how a commonly used
-pattern in Python can be easily adapted to Go.
+All four of these examples are simple, they just output the squares of the numbers zero through 9, but they illustrate how a commonly used pattern in Python can be easily adapted to Go.
 
 *Note*: Please forgive the encoded symbols, I’m working on fixing it.
 

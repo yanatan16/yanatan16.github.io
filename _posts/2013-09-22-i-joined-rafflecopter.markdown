@@ -13,7 +13,5 @@ tags: me, job, rafflecopter
 ---
 
 
-A couple weeks ago, I joined [Rafflecopter](http://rafflecopter.com) to
-help them build and scale a soon-to-be announced offering to connect
-brands and influencers.
+A couple weeks ago, I joined [Rafflecopter](http://rafflecopter.com) to help them build and scale a soon-to-be announced offering to connect brands and influencers.
 
