@@ -3,7 +3,7 @@ layout: post
 categories: philosophy
 title: "Mantra: Get shit done"
 date: Sun Feb 02 2014 21:14:18 GMT-0700 (MST)
-redirect_from: /post/75447237525
+redirect_from: /post/75447237525/
 
 # Old tumblr stuff
 id: 75447237525

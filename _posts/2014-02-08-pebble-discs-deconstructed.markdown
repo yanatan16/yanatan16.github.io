@@ -3,7 +3,7 @@ layout: post
 categories: development code pebble
 title: Pebble Discs - deconstructed
 date: Sat Feb 08 2014 08:58:00 GMT-0700 (MST)
-redirect_from: /post/76005641249
+redirect_from: /post/76005641249/
 
 # Old tumblr stuff
 id: 76005641249

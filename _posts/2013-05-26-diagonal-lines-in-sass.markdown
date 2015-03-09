@@ -3,7 +3,7 @@ layout: post
 categories: development code
 title: Diagonal Lines in Sass
 date: Sun May 26 2013 12:43:00 GMT-0600 (MDT)
-redirect_from: /post/51408871092
+redirect_from: /post/51408871092/
 
 # Old tumblr stuff
 id: 51408871092

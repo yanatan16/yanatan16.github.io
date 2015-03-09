@@ -3,7 +3,7 @@ layout: post
 categories: development talks
 date: Mon Sep 22 2014 11:21:44 GMT-0600 (MDT)
 title: Javascript Concurrency Patterns
-redirect_from: /post/98155451416
+redirect_from: /post/98155451416/
 
 # Old tumblr stuff
 id: 98155451416

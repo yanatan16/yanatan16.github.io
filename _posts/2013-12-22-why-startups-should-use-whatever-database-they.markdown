@@ -3,7 +3,7 @@ layout: post
 categories: development architecture
 title: Why startups should use whatever database they want
 date: Sun Dec 22 2013 10:48:13 GMT-0700 (MST)
-redirect_from: /post/70801899961
+redirect_from: /post/70801899961/
 
 # Old tumblr stuff
 id: 70801899961

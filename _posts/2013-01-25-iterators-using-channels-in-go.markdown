@@ -3,7 +3,7 @@ layout: post
 categories: development code
 title: Iterators using channels in Go
 date: Fri Jan 25 2013 15:51:51 GMT-0700 (MST)
-redirect_from: /post/41471675675
+redirect_from: /post/41471675675/
 
 # Old tumblr stuff
 id: 41471675675

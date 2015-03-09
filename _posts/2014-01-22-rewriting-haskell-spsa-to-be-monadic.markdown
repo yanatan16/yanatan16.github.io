@@ -3,7 +3,7 @@ layout: post
 categories: development code
 title: Rewriting haskell-spsa to be monadic
 date: Wed Jan 22 2014 09:28:21 GMT-0700 (MST)
-redirect_from: /post/74179055408
+redirect_from: /post/74179055408/
 
 # Old tumblr stuff
 id: 74179055408

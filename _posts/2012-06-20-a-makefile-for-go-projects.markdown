@@ -3,7 +3,7 @@ layout: post
 categories: development code
 title: A Makefile for Go Projects
 date: Wed Jun 20 2012 08:04:49 GMT-0600 (MDT)
-redirect_from: /post/25503842796
+redirect_from: /post/25503842796/
 
 # Old tumblr stuff
 id: 25503842796

@@ -3,7 +3,7 @@ layout: post
 categories: development code
 title: Piping uploads direct to S3 with node.js and express
 date: Tue Oct 08 2013 08:57:00 GMT-0600 (MDT)
-redirect_from: /post/63468698622
+redirect_from: /post/63468698622/
 
 # Old tumblr stuff
 id: 63468698622

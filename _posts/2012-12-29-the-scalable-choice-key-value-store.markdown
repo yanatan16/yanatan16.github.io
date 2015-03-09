@@ -3,7 +3,7 @@ layout: post
 categories: development architecture
 title: "The Scalable Choice: Key-Value Store"
 date: Sat Dec 29 2012 04:32:21 GMT-0700 (MST)
-redirect_from: /post/39120972753
+redirect_from: /post/39120972753/
 
 # Old tumblr stuff
 id: 39120972753

@@ -3,7 +3,7 @@ layout: post
 categories: development code
 title: Creating a web app with Go
 date: Sun Aug 19 2012 20:23:33 GMT-0600 (MDT)
-redirect_from: /post/29800695185
+redirect_from: /post/29800695185/
 
 # Old tumblr stuff
 id: 29800695185

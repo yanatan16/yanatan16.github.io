@@ -3,7 +3,7 @@ layout: post
 categories: development
 title: Building a Recommendation Engine
 date: Fri Aug 30 2013 08:45:09 GMT-0600 (MDT)
-redirect_from: /post/59775425253
+redirect_from: /post/59775425253/
 
 # Old tumblr stuff
 id: 59775425253

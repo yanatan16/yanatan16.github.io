@@ -3,7 +3,7 @@ layout: post
 categories: development code
 title: Converting a callback-based function into an ES6 Generator
 date: Thu Jan 02 2014 01:14:14 GMT-0700 (MST)
-redirect_from: /post/71946205874
+redirect_from: /post/71946205874/
 
 # Old tumblr stuff
 id: 71946205874

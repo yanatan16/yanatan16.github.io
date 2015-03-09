@@ -3,7 +3,7 @@ layout: post
 categories: misc
 title: I joined Rafflecopter
 date: Sun Sep 22 2013 13:47:39 GMT-0600 (MDT)
-redirect_from: /post/61988780200
+redirect_from: /post/61988780200/
 
 # Old tumblr stuff
 id: 61988780200

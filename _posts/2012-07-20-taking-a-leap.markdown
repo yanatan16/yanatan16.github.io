@@ -3,7 +3,7 @@ layout: post
 categories: misc
 title: Taking a Leap
 date: Fri Jul 20 2012 14:47:00 GMT-0600 (MDT)
-redirect_from: /post/27648295976
+redirect_from: /post/27648295976/
 
 # Old tumblr stuff
 id: 27648295976

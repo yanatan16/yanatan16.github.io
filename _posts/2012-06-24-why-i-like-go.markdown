@@ -3,7 +3,7 @@ layout: post
 categories: philosophy development
 title: Why I like Go
 date: Sun Jun 24 2012 21:16:00 GMT-0600 (MDT)
-redirect_from: /post/25828323094
+redirect_from: /post/25828323094/
 
 # Old tumblr stuff
 id: 25828323094

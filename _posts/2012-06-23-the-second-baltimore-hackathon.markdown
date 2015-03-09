@@ -3,7 +3,7 @@ layout: post
 categories: misc
 title: The Second Baltimore Hackathon
 date: Sat Jun 23 2012 16:02:00 GMT-0600 (MDT)
-redirect_from: /post/25739668525
+redirect_from: /post/25739668525/
 
 # Old tumblr stuff
 id: 25739668525

@@ -3,7 +3,7 @@ layout: post
 categories: development code
 title: pycodejam - A CodeJam solution runner for python
 date: Sat Dec 22 2012 13:08:08 GMT-0700 (MST)
-redirect_from: /post/38565060255
+redirect_from: /post/38565060255/
 
 # Old tumblr stuff
 id: 38565060255

@@ -3,7 +3,7 @@ layout: post
 categories: development code pebble
 title: My First Pebble App
 date: Sat Apr 13 2013 12:43:39 GMT-0600 (MDT)
-redirect_from: /post/47883135336
+redirect_from: /post/47883135336/
 
 # Old tumblr stuff
 id: 47883135336

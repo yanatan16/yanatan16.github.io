@@ -3,7 +3,7 @@ layout: post
 categories: development devops
 title: Making Clean and Reusable Salt States
 date: Tue Jun 10 2014 16:30:00 GMT-0600 (MDT)
-redirect_from: /post/88414528746
+redirect_from: /post/88414528746/
 
 # Old tumblr stuff
 id: 88414528746

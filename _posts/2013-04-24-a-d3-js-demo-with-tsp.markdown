@@ -3,7 +3,7 @@ layout: post
 categories: development code
 title: A d3.js demo with TSP
 date: Wed Apr 24 2013 21:56:00 GMT-0600 (MDT)
-redirect_from: /post/48831028294
+redirect_from: /post/48831028294/
 
 # Old tumblr stuff
 id: 48831028294

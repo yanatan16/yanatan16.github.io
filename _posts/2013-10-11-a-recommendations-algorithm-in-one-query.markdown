@@ -3,7 +3,7 @@ layout: post
 categories: development code
 title: A recommendations algorithm in one query
 date: Fri Oct 11 2013 21:41:29 GMT-0600 (MDT)
-redirect_from: /post/63791286966
+redirect_from: /post/63791286966/
 
 # Old tumblr stuff
 id: 63791286966

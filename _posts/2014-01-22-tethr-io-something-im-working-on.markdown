@@ -3,7 +3,7 @@ layout: post
 categories: development code rafflecopter-blog
 title: Tethr.io - Something I'm working on
 date: Wed Jan 22 2014 08:27:27 GMT-0700 (MST)
-redirect_from: /post/74174509336
+redirect_from: /post/74174509336/
 
 # Old tumblr stuff
 id: 74174509336

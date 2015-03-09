@@ -3,7 +3,7 @@ layout: post
 categories: development code
 title: Follow up to the fan-in concurrency pattern
 date: Tue Feb 26 2013 08:11:43 GMT-0700 (MST)
-redirect_from: /post/44063909418
+redirect_from: /post/44063909418/
 
 # Old tumblr stuff
 id: 44063909418

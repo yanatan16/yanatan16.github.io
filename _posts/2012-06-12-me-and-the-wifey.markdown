@@ -3,7 +3,7 @@ layout: post
 categories: misc
 title: Me and the wifey.
 date: Tue Jun 12 2012 18:56:23 GMT-0600 (MDT)
-redirect_from: /post/24990389167
+redirect_from: /post/24990389167/
 
 # Old tumblr stuff
 id: 24990389167

@@ -3,7 +3,7 @@ layout: post
 categories: development code rafflecopter-blog
 title: Asset Trading in Haskell
 date: Mon Jan 13 2014 09:17:10 GMT-0700 (MST)
-redirect_from: /post/73212349705
+redirect_from: /post/73212349705/
 
 # Old tumblr stuff
 id: 73212349705
