@@ -1,6 +1,6 @@
 # yanatan16.github.io
 
-Also, future blog.joneisen.me.
+Hosted on [joneisen.me](http://joneisen.me).
 
 ## Running
 
