@@ -89,21 +89,20 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $grey-color-dark;
     text-decoration: none;
 
+    .preview-content &, .post-content & {
+        font-weight: bold;
+    }
+
     &:visited {
-        color: $brand-color;
+        color: $grey-color-dark;
     }
 
     &:hover {
-        color: darken($brand-color, 10%);
+        color: $brand-color;
         text-decoration: underline;
-
-        .post-content & {
-            &:before { content: '(' }
-            &:after { content: ')' }
-        }
     }
 }
 
