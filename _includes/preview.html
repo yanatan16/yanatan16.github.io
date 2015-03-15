@@ -5,5 +5,8 @@
   </a>
   <p class="post-meta">{{ first_post.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if first_post.meta %} • {{ page.meta }}{% endif %}</p>
   <div class="preview-content">{{ first_post.content | split:"<!--break-->" | first }}</div>
-  <a class="preview-more-link" href="{{ first_post.url | prepend: site.baseurl }}">(full-post)</a>
+
+  {% if first_post.content contains "<!--break-->" %}
+    <a class="preview-more-link" href="{{ first_post.url | prepend: site.baseurl }}">(full-post)</a>
+  {% endif %}
 </div>
