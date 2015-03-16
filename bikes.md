@@ -14,6 +14,8 @@ Many thanks to [Sheldon Brown's](http://sheldonbrown.com/) amazing website. It's
 
 A fashionable singlespeed with a Leader frame. Mint/teal tires from Pure Fix. Drive train and brakes by SRAM. Super-comfy seat by Brooks.
 
+Photo Cred to [Savannah](http://instagram.com/blairandbeau).
+
 ![Savannah's Singlespeed Fancy](https://igcdn-photos-h-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/10953735_472669332884983_1131746464_n.jpg)
 
 ![Savannah's Singlespeed Top-Down](https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11055541_925125920865445_1117277145_n.jpg)
