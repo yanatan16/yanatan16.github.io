@@ -19,4 +19,4 @@ But, now, DevOps means much more and much less than that. DevOps is not a revolu
 
 So now that operations engineers are being displaced, and they naturally land as DevOps engineers. This floods the space of DevOps people with an imbalance in backgrounds. Most people in the space are on the operations side, be it linux admins or release engineers.
 
-This has made DevOps lose some of its original sheen, because instead of bridging the gap between Dev and Ops, its simply been renamed operations to DevOps. Now it doesn't mean what I thought it did, insted it now stands for 15 different things that are far less revolutionary.
+This has made DevOps lose some of its original sheen, because instead of bridging the gap between Dev and Ops, its simply been renamed operations to DevOps. Now it doesn't mean what I thought it did, instead it now stands for 15 different things that are far less revolutionary.
