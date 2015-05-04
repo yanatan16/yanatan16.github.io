@@ -7,6 +7,8 @@ categories: 'development, devops'
 
 The word "DevOps" has a lot of different meanings. Some people mean automating traditional operations tasks like server configuration. Some people mean writing some bash scripts. Some people are just talking about the _culture_ of DevOps, which usually encompasses developers and operations people working together.
 
+<!--break-->
+
 When I heard the term, I thought it meant that, due to the expansion of cloud services like AWS, GCE, and others, a development team could do away with operations. In this case, the "glue" between the cloud and the development team would be DevOps. Places like Netflix revolutionized the space with heavy automation and scaling, relying on AWS for hardware and "DevOps teams" to develop the automation software.
 
 I started doing the same thing, developing a deployment and maintenance platform for Under Armour, and developing a custom infrastructure on top of Linode for Rafflecopter. Neither team used operations people; we just had developers.
