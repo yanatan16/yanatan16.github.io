@@ -69,6 +69,10 @@
 .site-footer .wrapper {
     @include double-border-top(1px, solid, $grey-color-dark, 3px);
     padding: $spacing-unit 0;
+
+    a {
+        color: $brand-color;
+    }
 }
 
 .footer-heading {
