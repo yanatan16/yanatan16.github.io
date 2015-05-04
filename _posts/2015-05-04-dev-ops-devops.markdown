@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Dev, Ops, and DevOps'
+title:  'The Dream of DevOps'
 date:   2015-05-04 01:30:00
 categories: 'development, devops'
 ---
