@@ -69,10 +69,6 @@
 .site-footer .wrapper {
     @include double-border-top(1px, solid, $grey-color-dark, 3px);
     padding: $spacing-unit 0;
-
-    a {
-        color: $grey-color;
-    }
 }
 
 .footer-heading {
@@ -100,6 +96,10 @@
 
 .footer-col-right {
     float: right;
+
+    a {
+        color: $grey-color;
+    }
 }
 
 .social-media-list {
