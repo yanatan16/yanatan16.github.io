@@ -151,10 +151,13 @@
 .post-meta {
     font-size: $tiny-font-size;
     color: $grey-color;
+}
+
+.post-meta-left {
     float: left;
 }
 
-.post-meta-additional {
+.post-meta-right {
     float: right;
 }
 
@@ -182,7 +185,7 @@
     }
 }
 
-.post-content {
+.post-content, .preview-content {
     clear: both;
     margin-bottom: $spacing-unit;
 
