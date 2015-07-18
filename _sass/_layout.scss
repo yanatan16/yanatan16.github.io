@@ -151,6 +151,11 @@
 .post-meta {
     font-size: $tiny-font-size;
     color: $grey-color;
+    float: left;
+}
+
+.post-meta-additional {
+    float: right;
 }
 
 .post-link {
@@ -178,6 +183,7 @@
 }
 
 .post-content {
+    clear: both;
     margin-bottom: $spacing-unit;
 
     h2 {
