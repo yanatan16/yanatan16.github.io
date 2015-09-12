@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development
 title: Building a Recommendation Engine
 date: Fri Aug 30 2013 08:45:09 GMT-0600 (MDT)

@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: Converting a callback-based function into an ES6 Generator
 date: Thu Jan 02 2014 01:14:14 GMT-0700 (MST)

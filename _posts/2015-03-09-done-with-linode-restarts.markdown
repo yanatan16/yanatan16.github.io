@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 title:  Done with linode maintenance
 date:   2015-03-09 19:30:00
 categories: devops

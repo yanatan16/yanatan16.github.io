@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: philosophy development
 title: Why I like Go
 date: Sun Jun 24 2012 21:16:00 GMT-0600 (MDT)

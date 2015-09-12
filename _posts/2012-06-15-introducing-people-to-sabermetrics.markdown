@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: baseball
 title: Introducing People to Sabermetrics
 date: Fri Jun 15 2012 22:55:00 GMT-0600 (MDT)

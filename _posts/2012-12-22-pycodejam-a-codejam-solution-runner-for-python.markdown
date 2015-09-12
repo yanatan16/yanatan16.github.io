@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: pycodejam - A CodeJam solution runner for python
 date: Sat Dec 22 2012 13:08:08 GMT-0700 (MST)

@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: devops
 title: Deployments at Under Armour Part 2
 date: Sun Dec 30 2012 19:36:00 GMT-0700 (MST)

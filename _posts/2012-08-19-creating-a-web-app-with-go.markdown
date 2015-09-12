@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: Creating a web app with Go
 date: Sun Aug 19 2012 20:23:33 GMT-0600 (MDT)

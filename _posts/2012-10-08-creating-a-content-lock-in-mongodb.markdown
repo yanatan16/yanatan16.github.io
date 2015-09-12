@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: Creating a content lock in MongoDB
 date: Mon Oct 08 2012 15:28:00 GMT-0600 (MDT)

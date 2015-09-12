@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: A Sublime Text 2 Bash Completion Script
 date: Wed Apr 10 2013 07:25:00 GMT-0600 (MDT)

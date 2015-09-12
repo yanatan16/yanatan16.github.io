@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 title:  A note on the new blog
 date:   2015-03-09 19:30:00
 categories: misc

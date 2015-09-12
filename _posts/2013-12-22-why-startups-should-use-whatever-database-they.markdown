@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development architecture
 title: Why startups should use whatever database they want
 date: Sun Dec 22 2013 10:48:13 GMT-0700 (MST)

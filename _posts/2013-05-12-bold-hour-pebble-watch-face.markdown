@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code pebble
 title: Bold Hour (Pebble Watch Face)
 date: Sun May 12 2013 20:11:00 GMT-0600 (MDT)

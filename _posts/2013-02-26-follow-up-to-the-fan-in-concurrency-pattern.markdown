@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: Follow up to the fan-in concurrency pattern
 date: Tue Feb 26 2013 08:11:43 GMT-0700 (MST)

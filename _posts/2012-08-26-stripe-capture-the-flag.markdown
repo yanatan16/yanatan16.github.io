@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development contest code
 title: Stripe Capture The Flag
 date: Sun Aug 26 2012 12:55:22 GMT-0600 (MDT)

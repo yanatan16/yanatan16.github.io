@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 date: Fri Feb 06 2015 12:04:42 GMT-0700 (MST)
 title: Dockerizing Development Environments
 categories: development rafflecopter

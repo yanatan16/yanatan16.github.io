@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: The fan-in concurrency pattern in node.js
 date: Sun Feb 24 2013 21:46:00 GMT-0700 (MST)

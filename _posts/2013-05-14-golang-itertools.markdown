@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: Golang Itertools
 date: Tue May 14 2013 08:02:01 GMT-0600 (MDT)

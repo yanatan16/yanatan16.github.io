@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code pebble
 title: Pebble Discs - deconstructed
 date: Sat Feb 08 2014 08:58:00 GMT-0700 (MST)

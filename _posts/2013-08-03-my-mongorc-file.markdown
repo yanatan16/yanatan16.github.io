@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: My mongorc file
 date: Sat Aug 03 2013 21:33:21 GMT-0600 (MDT)

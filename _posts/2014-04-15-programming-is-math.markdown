@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: philosophy
 title: Programming is Math
 date: Tue Apr 15 2014 21:40:36 GMT-0600 (MDT)

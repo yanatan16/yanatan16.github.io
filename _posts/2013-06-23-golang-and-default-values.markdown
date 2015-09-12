@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: Golang and default values
 date: Sun Jun 23 2013 13:39:00 GMT-0600 (MDT)

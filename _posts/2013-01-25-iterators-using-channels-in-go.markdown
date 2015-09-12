@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: Iterators using channels in Go
 date: Fri Jan 25 2013 15:51:51 GMT-0700 (MST)

@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 title:  "Pitstop: A Deferred Message Microservice"
 date:   2015-07-18 13:30:00
 categories: architecture

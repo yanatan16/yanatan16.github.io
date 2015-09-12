@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development architecture
 title: "The Scalable Choice: Key-Value Store"
 date: Sat Dec 29 2012 04:32:21 GMT-0700 (MST)

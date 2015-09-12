@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: philosophy
 title: We can't please everybody
 date: Fri Mar 01 2013 20:55:03 GMT-0700 (MST)

@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: A Makefile for Go Projects
 date: Wed Jun 20 2012 08:04:49 GMT-0600 (MDT)

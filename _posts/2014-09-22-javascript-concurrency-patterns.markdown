@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development talks
 date: Mon Sep 22 2014 11:21:44 GMT-0600 (MDT)
 title: Javascript Concurrency Patterns

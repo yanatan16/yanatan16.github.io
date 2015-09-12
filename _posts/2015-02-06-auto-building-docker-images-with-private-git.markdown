@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 date: Fri Feb 06 2015 11:22:00 GMT-0700 (MST)
 title: Auto-building Docker Images with private git submodules

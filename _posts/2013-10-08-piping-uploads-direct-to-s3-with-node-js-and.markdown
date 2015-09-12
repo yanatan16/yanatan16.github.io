@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: Piping uploads direct to S3 with node.js and express
 date: Tue Oct 08 2013 08:57:00 GMT-0600 (MDT)

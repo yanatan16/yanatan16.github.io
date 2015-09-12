@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code rafflecopter-blog
 title: Tethr.io - Something I'm working on
 date: Wed Jan 22 2014 08:27:27 GMT-0700 (MST)

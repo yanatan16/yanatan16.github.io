@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: A recommendations algorithm in one query
 date: Fri Oct 11 2013 21:41:29 GMT-0600 (MDT)

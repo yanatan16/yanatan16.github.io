@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: misc
 title: Me and the wifey.
 date: Tue Jun 12 2012 18:56:23 GMT-0600 (MDT)

@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code rafflecopter-blog
 title: Asset Trading in Haskell
 date: Mon Jan 13 2014 09:17:10 GMT-0700 (MST)

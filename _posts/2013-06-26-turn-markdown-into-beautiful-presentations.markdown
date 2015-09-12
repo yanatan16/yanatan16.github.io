@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: Turn markdown into beautiful presentations
 date: Wed Jun 26 2013 19:25:00 GMT-0600 (MDT)

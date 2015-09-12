@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: misc
 title: New Blog
 date: Wed Jun 13 2012 09:33:07 GMT-0600 (MDT)

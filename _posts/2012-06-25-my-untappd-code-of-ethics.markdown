@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: misc
 title: My Untappd Code of Ethics
 date: Mon Jun 25 2012 20:55:00 GMT-0600 (MDT)

@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: Generators from Python to Go
 date: Sun Apr 21 2013 17:53:00 GMT-0600 (MDT)

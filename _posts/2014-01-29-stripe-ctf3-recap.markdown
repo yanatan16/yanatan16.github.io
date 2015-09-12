@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code contest
 title: Stripe CTF3 Recap
 date: Wed Jan 29 2014 20:00:00 GMT-0700 (MST)

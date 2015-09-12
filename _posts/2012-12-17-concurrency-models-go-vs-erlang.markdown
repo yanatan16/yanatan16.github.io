@@ -1,4 +1,5 @@
 --- layout: post
+section: index
 categories: development popular
 title: "Concurrency Models: Go vs Erlang"
 date: Mon Dec 17 2012 18:06:00 GMT-0700 (MST)

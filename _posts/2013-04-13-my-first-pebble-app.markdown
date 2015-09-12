@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code pebble
 title: My First Pebble App
 date: Sat Apr 13 2013 12:43:39 GMT-0600 (MDT)

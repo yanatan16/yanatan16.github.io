@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: Haskell SPSA
 date: Thu Jan 09 2014 20:05:51 GMT-0700 (MST)

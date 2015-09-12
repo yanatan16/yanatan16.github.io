@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development architecture philosophy
 date: Sun Sep 21 2014 11:27:23 GMT-0600 (MDT)
 title: My perfectly scalable system

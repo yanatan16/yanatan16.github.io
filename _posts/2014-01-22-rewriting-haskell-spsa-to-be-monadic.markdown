@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: Rewriting haskell-spsa to be monadic
 date: Wed Jan 22 2014 09:28:21 GMT-0700 (MST)

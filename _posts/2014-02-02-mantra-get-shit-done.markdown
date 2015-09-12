@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: philosophy
 title: "Mantra: Get shit done"
 date: Sun Feb 02 2014 21:14:18 GMT-0700 (MST)

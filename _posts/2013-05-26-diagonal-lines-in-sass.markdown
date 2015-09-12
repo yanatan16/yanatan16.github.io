@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: Diagonal Lines in Sass
 date: Sun May 26 2013 12:43:00 GMT-0600 (MDT)

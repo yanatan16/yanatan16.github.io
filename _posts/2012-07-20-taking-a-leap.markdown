@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: misc
 title: Taking a Leap
 date: Fri Jul 20 2012 14:47:00 GMT-0600 (MDT)

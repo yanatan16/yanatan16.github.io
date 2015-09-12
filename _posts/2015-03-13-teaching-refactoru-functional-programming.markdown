@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 title:  Teaching, RefactorU, and Functional Programming
 date:   2015-03-13 00:30:00
 categories: teaching

@@ -1,5 +1,6 @@
 ---
 layout: post
+section: index
 categories: development code
 title: A d3.js demo with TSP
 date: Wed Apr 24 2013 21:56:00 GMT-0600 (MDT)
