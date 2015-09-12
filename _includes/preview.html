@@ -1,4 +1,4 @@
-{% assign first_post = site.posts | where:"section",section | first %}
+{% assign first_post = site.posts | where:"section",page.section | first %}
 <div class="post-preview">
   <a class="preview-title-link" href="{{ first_post.url | prepend: site.baseurl }}">
     <h1 class="post-title">{{ first_post.title }}</h1>

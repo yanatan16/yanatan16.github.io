@@ -46,6 +46,10 @@
         &.ext-link {
             font-style: italic;
         }
+
+        &.selected {
+            font-weight: bold;
+        }
     }
 }
 

@@ -8,11 +8,11 @@ categories: georgia-tech
 
 I'm starting a little experiment this year where I as an amateur fan of college football watch my favorite team (Georgia Tech) and review its performance. I'll be trying to take a single play-by-play approach, combined a bit with some analytics, although a single game is a relatively small sample size.
 
+<!--break-->
+
 I won't go in depth about Georgia Tech and Paul Johnson's scheme, as there are many other resources out there for that.
 
 The first game of the season was GT versus a high-powered FCS offense. Georgia Tech rolled 69-6, ending the first quarter up 34-0. At that point, most the the starters came out of the game. So I'll start with the Georgia Tech offense in the first quarter. It should be a good first taste of film study.
-
-<!--break-->
 
 ## Notes
 

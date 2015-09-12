@@ -6,9 +6,14 @@
 
     <nav class="site-nav">
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">({{ page.title | downcase | replace:' ','-' }})</a>
+        {% for link in site.pages %}
+          {% if link.title %}
+            {% assign link_text = link.title | downcase | replace:' ','-' %}
+            {% if link.title == page.title or (page.section and page.section == link.section) %}
+              <a class="page-link selected">({{link_text}})</a>
+            {% else %}
+              <a class="page-link" href="{{ link.url | prepend: site.baseurl }}">({{link_text}})</a>
+            {% endif %}
           {% endif %}
         {% endfor %}
       </div>
