@@ -14,6 +14,8 @@ I won't go in depth about Georgia Tech and Paul Johnson's scheme, as there are m
 
 The first game of the season was GT versus a high-powered FCS offense. Georgia Tech rolled 69-6, ending the first quarter up 34-0. At that point, most the the starters came out of the game. So I'll start with the Georgia Tech offense in the first quarter. It should be a good first taste of film study.
 
+I'll have some quick notes below, and then three plays in depth.
+
 ## Notes
 
 Here's some quick impressions from watching each offensive play from the first quarter. Remember this is against an inferior opponent in Alcorn State.
