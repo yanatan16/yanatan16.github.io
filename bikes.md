@@ -2,6 +2,7 @@
 layout: page
 title: Bikes
 permalink: /bikes/
+order: 3
 ---
 
 I like to build bikes. I've only built two single-speeds so far, but I have plans for a high-tech road bike, a lightweight cyclocross bike, a super-fast fixie with track wheels.

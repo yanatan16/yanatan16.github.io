@@ -6,7 +6,8 @@
 
     <nav class="site-nav">
       <div class="trigger">
-        {% for link in site.pages %}
+        {% assign links = site.pages | sort: "order" %}
+        {% for link in links %}
           {% if link.title %}
             {% assign link_text = link.title | downcase | replace:' ','-' %}
             {% if link.title == page.title %}

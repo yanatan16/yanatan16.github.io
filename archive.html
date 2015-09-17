@@ -2,13 +2,15 @@
 layout: default
 title: Archive
 permalink: /archive/
+order: 4
 ---
 
 <div class="archive">
   <ul class="post-list">
     {% for post in site.posts %}
+    {% assign section = site.pages | where:"section",post.section | first %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} under <a href="{{section.url}}">({{ section.title | downcase | replace:' ','-' }})</a></span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endfor %}
