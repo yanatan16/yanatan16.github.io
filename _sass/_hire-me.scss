@@ -1,0 +1,30 @@
+a.hire-me {
+	&, &:visited, &:hover, &:active {
+		position: absolute;
+		top: 0;
+		right: 0;
+
+		height: 20px;
+    width: 250px;
+    padding: 4px 10px 12px 10px;
+    transform: translateX(68px) translateY(45px) rotate(45deg);
+
+		background-color: $brand-color;
+		color: $grey-color-light;
+
+		font-weight: normal;
+
+
+		overflow: hidden;
+	}
+
+	&:before {
+		content: '';
+		position: absolute;
+		left: 0;
+		height: 26px;
+		width: 300px;
+		border-top: dashed 1px $grey-color-light;
+		border-bottom: dashed 1px $grey-color-light;
+	}
+}

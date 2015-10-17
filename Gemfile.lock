@@ -124,4 +124,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-timeago
+
+BUNDLED WITH
+   1.10.6
