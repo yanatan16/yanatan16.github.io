@@ -4,6 +4,7 @@ body {
 
 a.hire-me {
   &, &:visited, &:hover, &:active {
+    position: absolute;
     right: 0;
 
     height: 20px;
