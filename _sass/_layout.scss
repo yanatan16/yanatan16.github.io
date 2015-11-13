@@ -1,5 +1,3 @@
-
-
 /**
  * Site header
  */
@@ -215,6 +213,10 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+
+    hr {
+      margin: 2em 0;
     }
 }
 
