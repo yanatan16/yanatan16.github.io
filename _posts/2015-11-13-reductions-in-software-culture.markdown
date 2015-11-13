@@ -6,7 +6,7 @@ categories: philosophy tech
 title: Reductions in Software and Startup Culture
 ---
 
-In today's software and startup cultures, we often here people take a complex idea and reduce it to a few words. These reductions seem, on the outside, to blur the lines between ideas. Essentially, by reducing a large possibility space to a smaller one, everything seems more similar than it really is. This is due to a simple mathematical idea: the [Pigeonhole Principle](https://en.wikipedia.org/wiki/Pigeonhole_principle), essentially stating that you can't fit all the information from a large possibility space into a small one.
+In today's software and startup cultures, we often hear people take a complex idea and reduce it to a few words. These reductions seem, on the outside, to blur the lines between ideas. Essentially, by reducing a large possibility space to a smaller one, everything seems more similar than it really is. This is due to a simple mathematical idea: the [Pigeonhole Principle](https://en.wikipedia.org/wiki/Pigeonhole_principle), essentially stating that you can't fit all the information from a large possibility space into a small one.
 
 However, although these reductions coarsely describe complex ideas, they do have value. One could argue that they must exist in order to help lay people _get_ the idea in question. They also give us a language in which to speak about complex ideas and make connections between ideas easier than otherwise. I'm going to consider a couple classes of reductions in software and startup culture and explore their usefulness.
 
@@ -42,3 +42,5 @@ For example, after wrangling with URL encoding problems all day, a programmer ca
 
 
 Both of these reduction classes lose information, taking a complex domain and reducing it to a small possibility space of ideas. But, both have value to the cultures they belong to. It turns out the human brain is very bad at consuming complex ideas quickly, so we must invent shortcuts to help people to ingest data or transition viewpoints.
+
+If you have any other reductions, [email them to me](mailto:jon@joneisen.works?subject=More+Reductions).
