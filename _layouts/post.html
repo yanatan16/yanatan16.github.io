@@ -18,7 +18,7 @@ layout: default
 
 
   <article class="post-content">
-    {{ content }}
+      {{ content | replace:'<!--break-->','<span id="break"></span>' }}
   </article>
 
 </div>
