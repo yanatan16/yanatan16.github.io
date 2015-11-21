@@ -45,7 +45,7 @@ To identify which clauses can be pushed down, see the [Walking the Expression Tr
 
 In the `GetForeignPaths` callback function, the FDW must parse out the query and determine if any alternate query paths can be taken, and estimate their cost for the planner. By doing some work already in `GetForeignRelSize`, the FDW already knows the cost of a basic table scan including pushed down restriction clauses.
 
-```c
+```clike
 path = create_foreignscan_path(root, baserel,
                                fpinfo->rows,
                                fpinfo->startup_cost,
@@ -62,7 +62,7 @@ If the remote data source can sort the data as desired by the pathkeys, then Pos
 
 Additionally, if the remote data source cannot sort by _all_ the pathkeys, then it is better to not sort at all because the Postgres executor isn't sophisticated enough to save time when the data comes in partially sorted.
 
-```c
+```clike
 foreach (lc, root->query_pathkeys)
 {
     if (pathkey_is_handleable((PathKey *)lfirst(lc)))
@@ -91,7 +91,7 @@ if (usable_pathkeys != NIL)
 
 The second set of alternate paths are based on join conditions. For each join condition (such as `z1.id = z2.id`), the FDW should estimate the cost of a **parameterized path**. A parameterized path is a query where the join condition is replaced by a variable substitution. Consider the equivalence relation given above, the parameterized path for the `z1` relation is `z1.id = $1`, with `$1` evaluated at execution time.
 
-```c
+```clike
     /* Figure out if we can do any join parameterized path */
     ParamPathInfo *param_info;
     path = create_foreignscan_path(root, baserel,
@@ -120,7 +120,7 @@ This is why its so important to work with the planner, because if the FDW didn't
 
 Finally in the planning process, Postgres will call the `GetForeignPlan` function with information about the chosen query path. Here, the FDW is supposed to wrap up any query planning tasks by actually building the query to be executed later. The FDW then stores this information in a linked list which is carried across memory contexts for later use in one of many different functions (SELECT, EXPLAIN, UPDATE).
 
-```c
+```clike
 fdw_private = list_make1(makeString(query));
 
 return make_foreignscan(tlist,
@@ -134,7 +134,7 @@ return make_foreignscan(tlist,
 
 In order to figure out which expressions are executable in the remote data source, as well as rendering the query to be sent to the remote data source, the FDW must walk the expression tree recursively.
 
-```c
+```clike
 /*
  * Identify which baserestrictinfo clauses can be sent to the remote
  * server and which can't.
@@ -145,7 +145,7 @@ classifyConditions(root, baserel, baserel->baserestrictinfo,
 
 Each expression (such as in a restriction clause, a selection clause, an ordering clause, or join condition) is a Postgres `Node`, which has an enumerated type. The FDW will have a big `switch` statement, enumerating each type that the remote data source supports. Each `case` statement will handle the type in question, checking to make sure it is handleable, and recursively calling for that type's children, if any. A special case is column references, where the FDW must determine if the reference comes from the table in question.
 
-```c
+```clike
 switch (nodeTag(node))
 {
 case T_Var:
@@ -175,7 +175,7 @@ If a `SELECT` or `UPDATE` was called, Postgres will ask the FDW to execute the q
 
 Here, in `BeginForeignScan`, the FDW allocates any contexts it needs and begins the scan of the remote data source with the query prepared in the planner. This is the only opportunity to allocate a large memory location that will last the entire query.
 
-```c
+```clike
 /* Get the query out of the list of private data */
 char * query = strVal(list_nth(fsplan->fdw_private, 0));
 ```
@@ -184,7 +184,7 @@ If the query involves variables from paramterized path joins, the parameters wil
 
 In `IterateForeignScan`, the FDW returns a single tuple to the executor. Usually, a batch of tuples is stored in memory pre-allocated, and simply copied at this stage unless more tuples are needed.
 
-```c
+```clike
 /* First clear the tuple */
 ExecClearTuple(slot);
 
@@ -200,7 +200,7 @@ In `EndForeignScan`, the FDW closes all open files and connections that might st
 
 If an `EXPLAIN` statement was called, Postgres will not call the `BeginForeignScan` function, and will instead call `ExplainForeignScan`. If the FDW supports `EXPLAIN`, it should render that information here.
 
-```c
+```clike
 ExplainState *es;
 ExplainPropertyText("Remote Data Source Query", some_query, es);
 ```
