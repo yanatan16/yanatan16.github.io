@@ -1,3 +1,5 @@
 ---
 ---
-{{ site.posts[0].title }}|*|{{ site.posts[0].url | prepend: site.url }}
+
+{{ site.posts[0].title }}
+{{ site.posts[0].url | prepend: site.url }}
