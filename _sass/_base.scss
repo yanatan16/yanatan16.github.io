@@ -137,11 +137,13 @@ pre code {
 /*     background-color: #eef; */
 /* } */
 
+/* inline */
 code {
   padding: 1px 5px;
   background-color: $grey-color-light;
   border-radius: 3px;
   font-size: 16px;
+  white-space: nowrap;
 }
 
 /* pre { */
