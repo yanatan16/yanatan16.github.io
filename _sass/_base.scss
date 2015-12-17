@@ -137,9 +137,12 @@ pre code {
 /*     background-color: #eef; */
 /* } */
 
-/* code { */
-/*     padding: 1px 5px; */
-/* } */
+code {
+  padding: 1px 5px;
+  background-color: $grey-color-light;
+  border-radius: 3px;
+  font-size: 16px;
+}
 
 /* pre { */
 /*     padding: 8px 12px; */
