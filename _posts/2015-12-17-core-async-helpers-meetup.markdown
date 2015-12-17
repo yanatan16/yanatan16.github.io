@@ -25,13 +25,15 @@ Here's a revised implementation, this time for use with nodejs.
 
 <code data-gist-id="a4aac1fd35977fcaaecd" data-gist-file="core-async-helpers.clj" data-gist-line="11-14"></code>
 
+Both these implementations are valid, and the function form is more readable. You can also determine which "put" function is more readable: `(onto-chan c [%])` or `(go (>! c %))`.
+
 ## Async as Promise
 
 `core.async` provides a lot of functionality for comparatively little syntactical overhead. But it doesn't always provide helpers for all the use-cases. One case I seem to use a lot (especially in clojurescript) is promises. I like the flexibility of `core.async`, but I want more promise-like helpers.
 
 Luckily, the library recently released `core.async/promise-chan`, which acts like a promise, containing only ever one value.
 
-<code data-gist-id="a4aac1fd35977fcaaecd" data-gist-file="core-async-helpers.clj" data-gist-line="17-33"></code>
+<code data-gist-id="a4aac1fd35977fcaaecd" data-gist-file="core-async-helpers.clj" data-gist-line="17-37"></code>
 
 Astute observers will note that `promise-map` is the promise functor's fmap function, while `then` is the promise monad's bind function.
 
