@@ -6,7 +6,7 @@ date: 2015-12-29 10:00:00
 categories: type-theory
 ---
 
-Monads scare a lot of programmers. A) Its a weird word. B) A lot of academic ass holes use it to feel superior. I'd like to change that. So here's my guide to three common type theory abstractions: Monoids, Functors, and Monads. I hope to help you understand these type abstractions by looking at types you already use in programming. This guide is aimed at programmers familiar with functional programming.
+Monads scare a lot of programmers. A) Its a weird word. B) A lot of academic ass holes use it to feel superior. I'd like to change that. So here's my guide to three common type theory abstractions: Monoids, Functors, and Monads. I hope to help you understand these type abstractions by looking at types you already use in programming. This is a short introduction to these topics, and is aimed at programmers familiar with functional programming.
 
 <!--break-->
 
