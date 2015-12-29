@@ -130,21 +130,23 @@ blockquote {
  * Code formatting
  */
 
-pre code {
-  font-size: 13px;
-}
 /*     border-radius: 3px; */
 /*     background-color: #eef; */
 /* } */
 
 /* inline */
-code {
+p code {
   padding: 1px 5px;
   background-color: $grey-color-light;
   border-radius: 3px;
   font-size: 16px;
   white-space: nowrap;
 }
+
+pre > code {
+  font-size: 13px;
+}
+
 
 /* pre { */
 /*     padding: 8px 12px; */
