@@ -1,0 +1,93 @@
+ontap:
+- name: French Saison
+  style: Saison
+  abv: 5.5%
+  ibu: 25
+  srm: 3
+  method: Extract
+  distribution: Kegged
+  date: 1/20/2016
+  description: Super-dry saison with rich citrus and floral aroma
+- name: Pumpkin Pie Ale
+  style: American Amber Ale
+  abv: 6%
+  ibu: 24
+  srm: 18
+  method: Partial Mash
+  distribution: Kegged
+  date: 1/20/2016
+  description: "Amber with roasted pumpkin and spices. Cloned from Atoka Brewery's Pumpkin Ale"
+- name: Breakfast Stout
+  style: American Stout
+  abv: 7.5%
+  ibu: 25
+  srm: 40
+  method: Partial Mash (Steep)
+  distribution: Bottled
+  date: 11/1/2015
+  description: "A clone of Founder's Breakfast Stout. A rich and sweet stout with two types of coffee, dark chocolate and cacao nibs."
+upnext:
+- name: Pine Cone CDA
+  style: Cascadian Dark Ale
+  abv: 8.1%
+  ibu: 85
+  srm: 40
+  method: Partial Mash
+  distribution: Kegged
+  status: Secondary
+  description: Dark and malty with a ton of piney hops
+- name: Dubbel Oaked
+  style: Belgian Dubbel
+  abv: 8%
+  ibu: 23
+  srm: 13
+  method: All Grain
+  distribution: Kegged
+  status: Primary
+  description: Oak-aged dubbel
+- name: West Coast IPA
+  style: West Coast India Pale Ale
+  abv: 7%
+  ibu: 58
+  srm: 7
+  method: All Grain
+  distribution: Kegged
+  status: Recipe
+  description: Light West Coast IPA with dank and piney hops
+history:
+- name: Peach Rye Pale Ale
+  style: Pale Ale
+  abv: 6.5%
+  ibu: 41
+  srm: 8
+  method: Partial Mash
+  distribution: Bottled
+  date: 7/18/2015
+  description: "A sweet and spicy Rye Pale Ale with frozen peaches added in secondary. Great body and balance. Cloned from Terrapin's Rye Pale Ale."
+- name: Double IPA
+  style: Imperial India Pale Ale
+  abv: 8%
+  ibu: 95
+  srm: 6
+  method: All Grain
+  distribution: Bottled
+  date: 1/15/2015
+  description: "A Pliney the Elder clone with CTZ and Citra. Not much body, which is good for a West-Coast style IPA. Great citrusy hop aroma and resinous flavor."
+- name: Izzy Coffee Stout
+  style: American Stout
+  abv: 5.2%
+  ibu: 17
+  srm: 40
+  method: Extract
+  distribution: Bottled
+  date: 11/5/2014
+  description: "A delicious clean stout with coffee infused (Ozo's Isabelle)"
+- name: North English Brown Ale
+  style: English-Style Brown Ale
+  abv: 5.5%
+  ibu: 26
+  srm: 21
+  method: Extract
+  distribution: Bottled
+  date: 9/22/2014
+  description: A crisp and clean brown ale with bready notes

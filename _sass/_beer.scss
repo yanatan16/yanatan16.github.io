@@ -1,0 +1,22 @@
+.beer {
+  label {
+    display: inline-block;
+    min-width: 49%;
+
+    &.beer-style {
+      width: 100%;
+    }
+  }
+
+  .beer-srm {
+    display: inline-block;
+    height: 1em;
+    width: 100%;
+    padding-top: 0;
+    padding-bottom: 0.5em;
+    text-align: center;
+    &.beer-srm-dark {
+      color: white;
+    }
+  }
+}
