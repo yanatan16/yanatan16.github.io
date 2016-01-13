@@ -3,6 +3,8 @@ body {
 }
 
 a.hire-me {
+  display: none;
+
   &, &:visited, &:hover, &:active {
     position: absolute;
     right: 0;
