@@ -2,118 +2,118 @@
  * Site header
  */
 .site-header {
-    min-height: 56px;
-    text-align: center;
+  min-height: 56px;
+  text-align: center;
 
-    // Positioning context for the mobile navigation icon
-    position: relative;
+  // Positioning context for the mobile navigation icon
+  position: relative;
 }
 
 .site-title {
-    font-size: 26px;
-    line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    width: 100%;
+  font-size: 26px;
+  line-height: 56px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  width: 100%;
 
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
+  &,
+  &:visited {
+    color: $grey-color-dark;
+  }
 }
 
 .site-nav {
-    display: block;
-    border-bottom: 1px solid $grey-color-dark;
-    border-top: 1px solid $grey-color-dark;
-    font-size: 0.75em;
+  display: block;
+  border-bottom: 1px solid $grey-color-dark;
+  border-top: 1px solid $grey-color-dark;
+  font-size: 0.75em;
 
-    .menu-icon {
-        display: none;
+  .menu-icon {
+    display: none;
+  }
+
+  .page-link {
+    color: $text-color;
+    line-height: $base-line-height;
+
+    // Gaps between nav items, but not on the first one
+    &:not(:first-child) {
+      margin-left: 20px;
     }
 
-    .page-link {
-        color: $text-color;
-        line-height: $base-line-height;
-
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
-        }
-
-        &.ext-link {
-            font-style: italic;
-        }
-
-        &.selected {
-            font-weight: bold;
-        }
+    &.ext-link {
+      font-style: italic;
     }
+
+    &.selected {
+      font-weight: bold;
+    }
+  }
 }
 
 @mixin double-border-top($width, $type, $color, $space) {
-    border-top: $width $type $color;
-    position: relative;
+  border-top: $width $type $color;
+  position: relative;
 
-    &:before {
-        content: ' ';
-        border-top: $width $type $color;
-        position: absolute;
-        z-index: -1;
-        top: $space;
-        width: 100%;
-    }
+  &:before {
+    content: ' ';
+    border-top: $width $type $color;
+    position: absolute;
+    z-index: -1;
+    top: $space;
+    width: 100%;
+  }
 }
 
 /**
  * Site footer
  */
 .site-footer .wrapper {
-    @include double-border-top(1px, solid, $grey-color-dark, 3px);
-    padding: $spacing-unit 0;
+  @include double-border-top(1px, solid, $grey-color-dark, 3px);
+  padding: $spacing-unit 0;
 }
 
 .footer-heading {
-    font-size: 16px;
-    margin-bottom: $spacing-unit / 2;
+  font-size: 16px;
+  margin-bottom: $spacing-unit / 2;
 }
 
 .contact-list,
 .social-media-list {
-    list-style: none;
-    margin-left: 0;
+  list-style: none;
+  margin-left: 0;
 }
 
 .footer-col-wrapper {
-    font-size: 14px;
-    color: $grey-color;
-    @extend %clearfix;
+  font-size: 14px;
+  color: $grey-color;
+  @extend %clearfix;
 }
 
 .footer-col {
-    float: left;
-    margin-bottom: $spacing-unit / 2;
-    width: $content-width / 2 - $spacing-unit;
+  float: left;
+  margin-bottom: $spacing-unit / 2;
+  width: $content-width / 2 - $spacing-unit;
 }
 
 .footer-col-right {
-    float: right;
+  float: right;
 
-    a {
-        color: $grey-color;
-    }
+  a {
+    color: $grey-color;
+  }
 }
 
 .social-media-list {
-    display: block;
+  display: block;
 
-    a {
-        display: block;
-    }
+  a {
+    display: block;
+  }
 }
 
 .contact-list + .social-media-list {
-    margin-top: - $spacing-unit / 2;
+  margin-top: - $spacing-unit / 2;
 }
 
 
@@ -121,52 +121,52 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+  padding: $spacing-unit 0;
 }
 
 .page-heading {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 // Preview
 .post-preview {
-    .preview-title-link {
-        color: inherit;
-    }
+  .preview-title-link {
+    color: inherit;
+  }
 }
 
 .post-preview + .post-list {
-    @include double-border-top(1px, solid, $grey-color-dark, 3px);
-    margin-top: 20px;
-    padding-top: 20px;
+  @include double-border-top(1px, solid, $grey-color-dark, 3px);
+  margin-top: 20px;
+  padding-top: 20px;
 }
 
 .post-list {
-    margin-left: 0;
-    list-style: none;
+  margin-left: 0;
+  list-style: none;
 
-    > li {
-        margin-bottom: $spacing-unit;
-    }
+  > li {
+    margin-bottom: $spacing-unit;
+  }
 }
 
 .post-meta {
-    font-size: $tiny-font-size;
-    color: $grey-color;
+  font-size: $tiny-font-size;
+  color: $grey-color;
 }
 
 .post-meta-left {
-    float: left;
+  float: left;
 }
 
 .post-meta-right {
-    float: right;
+  float: right;
 }
 
 .post-link {
-    margin-bottom: 1px;
-    display: block;
-    // font-size: 24px;
+  margin-bottom: 1px;
+  display: block;
+  // font-size: 24px;
 }
 
 
@@ -174,62 +174,69 @@
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit;
 }
 
 .post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
+  font-size: 42px;
+  letter-spacing: -1px;
+  line-height: 1;
 
-    @include media-query($on-laptop) {
-        font-size: 36px;
-    }
+  @include media-query($on-laptop) {
+    font-size: 36px;
+  }
 }
 
 .post-content, .preview-content {
-    clear: both;
-    margin-bottom: $spacing-unit;
+  clear: both;
+  margin-bottom: $spacing-unit;
 
-    h2 {
-        font-size: 32px;
+  h2 {
+    font-size: 32px;
 
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
+    @include media-query($on-laptop) {
+      font-size: 28px;
     }
+  }
 
-    h3 {
-        font-size: 26px;
+  h3 {
+    font-size: 26px;
 
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
+    @include media-query($on-laptop) {
+      font-size: 22px;
     }
+  }
 
-    h4 {
-        font-size: 20px;
+  h4 {
+    font-size: 20px;
 
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
+    @include media-query($on-laptop) {
+      font-size: 18px;
     }
+  }
 
-    hr {
-      margin: 2em 0;
-    }
+  hr {
+    margin: 2em 0;
+  }
+}
+
+.post-footer {
+  p {
+    font-size: smaller;
+    font-style: italic;
+  }
 }
 
 .archive-link {
-    display: block;
-    width: 100%;
-    text-align: center;
+  display: block;
+  width: 100%;
+  text-align: center;
 
-    color: $grey-color-dark;
+  color: $grey-color-dark;
 }
 
 .gt {
-    strong {
-        color: goldenrod;
-    }
+  strong {
+    color: goldenrod;
+  }
 }
