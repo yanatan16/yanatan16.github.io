@@ -24,6 +24,10 @@
     }
 
     .beer-image {
+      @include media-query($on-palm) {
+        position: inherit;
+        max-height: 10em;
+      }
       position: absolute;
       right: 0;
       top: 0;
