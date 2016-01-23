@@ -7,7 +7,7 @@ ontap:
   method: Partial Mash
   distribution: Kegged
   description: Dark and malty with a ton of piney hops
-  image: null
+  image: /img/beer/cda.jpg
 - name: Pumpkin Pie Ale
   style: American Amber Ale
   abv: 6%

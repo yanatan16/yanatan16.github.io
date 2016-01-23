@@ -1,0 +1,22 @@
+<li id="{{ beer.name | slugify }}" class="beer">
+    <div class="beer--info">
+        <h3 class="beer-name">{{beer.name}}</h3>
+        <label class="beer-style">Style: {{ beer.style }}</label>
+        <label class="beer-abv">ABV: {{ beer.abv }}</label>
+        <label class="beer-ibu">IBU: {{ beer.ibu }}</label>
+        <div class="beer-srm {% if beer.srm > 15 %}beer-srm-dark{% else %}beer-srm-ligth{% endif %}" style="background-color: #{{ srm_data[beer.srm] }}">color</div>
+        <label class="beer-method">Method: {{ beer.method }}</label>
+        {% if beer.distribution %}
+        <label class="beer-distribution">Distribution: {{ beer.distribution }}</label>
+        {% endif %}
+        {% if beer.date %}
+        <label class="beer-date">Date Finished: {{ beer.date }}</label>
+        {% endif %}
+        {% if beer.image %}
+        <img class="beer-image" src="{{beer.image}}">
+        {% endif %}
+    </div>
+    {% if beer.description %}
+    <p class="beer-description">{{ beer.description }}</p>
+    {% endif  %}
+</li>
