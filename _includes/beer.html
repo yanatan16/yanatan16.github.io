@@ -10,7 +10,7 @@
         <label class="beer-distribution">Distribution: {{ beer.distribution }}</label>
         {% endif %}
         {% if beer.date %}
-        <label class="beer-date">Date Finished: {{ beer.date }}</label>
+        <label class="beer-date">Date {{ beer.distribution | capitalize }}: {{ beer.date }}</label>
         {% endif %}
         {% if beer.image %}
         <img class="beer-image" src="{{beer.image}}">
