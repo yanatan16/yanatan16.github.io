@@ -26,6 +26,7 @@ ontap:
   distribution: Bottled
   date: 1/3/2016
   description: Super-dry saison with rich citrus and floral aroma
+  image: /img/beer/saison.jpg
 - name: Breakfast Stout
   style: American Stout
   abv: 7.5%
@@ -42,7 +43,6 @@ upnext:
   ibu: 23
   srm: 13
   method: All Grain
-  distribution: Kegged
   status: Primary
   description: Oak-aged dubbel
 - name: West Coast IPA
@@ -51,8 +51,7 @@ upnext:
   ibu: 58
   srm: 7
   method: All Grain
-  distribution: Kegged
-  status: Recipe
+  status: Primary
   description: Light West Coast IPA with dank and piney hops
 history:
 - name: Peach Rye Pale Ale
