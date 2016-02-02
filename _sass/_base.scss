@@ -148,16 +148,14 @@ pre > code {
 }
 
 
-/* pre { */
-/*     padding: 8px 12px; */
-/*     overflow-x: scroll; */
+.highlighter-rouge > .highlight {
+  border-radius: 5px;
+  background: lighten($grey-color-light, 5%);
+  padding: 5px;
+}
 
-/*     > code { */
-/*         border: 0; */
-/*         padding-right: 0; */
-/*         padding-left: 0; */
-/*     } */
-/* } */
+
+
 
 
 
