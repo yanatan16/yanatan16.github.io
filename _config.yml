@@ -12,6 +12,7 @@ github_username:  yanatan16
 markdown: kramdown
 kramdown:
   input: GFM
+highlighter: rouge
 
 # Github Pages Supported Plugins
 gems:
