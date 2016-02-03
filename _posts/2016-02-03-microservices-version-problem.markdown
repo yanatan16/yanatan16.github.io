@@ -43,6 +43,8 @@ Consider services A and B with versions `A1` and `B1`, and system version `(A1,B
 
 Now, the team adds service C with version `C1`. A must be updated to `A3` to work with C. B now has an update, but it is independent of A and C. This is getting complicated quickly. Real systems have more services with many more versions, and it cannot be tracked [well] in one's head or in documentation.
 
+---
+
 ## Monolithic Versioning
 
 What these teams have lost is monolithic versioning: a single place where valid versions of the system is tracked as if in a monolithic repository. Here are two ways to get monolithic versioning back.
