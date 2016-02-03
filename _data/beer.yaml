@@ -53,6 +53,14 @@ upnext:
   method: All Grain
   status: Primary
   description: Light West Coast IPA with dank and piney hops
+- name: Hawaiian Gose
+  style: Gose
+  abv: 4.7%
+  ibu: 15
+  srm: 3
+  method: All Grain, Kettle Sour
+  status: Preparation
+  description: Kettle soured traditional gose flavored with Hibiscus
 history:
 - name: Peach Rye Pale Ale
   style: Pale Ale
