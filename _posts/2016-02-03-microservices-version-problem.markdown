@@ -47,7 +47,7 @@ Now, the team adds service C with version `C1`. A must be updated to `A3` to wor
 
 ## Monolithic Versioning
 
-What these teams have lost is monolithic versioning: a single place where valid versions of the system is tracked as if in a monolithic repository. Here are two ways to get monolithic versioning back.
+What these microservice-based systems have lost is monolithic versioning: a single place where valid versions of the system is tracked as if in a monolithic repository. Here are two ways to get monolithic versioning back.
 
 #### Monolithic repository
 
