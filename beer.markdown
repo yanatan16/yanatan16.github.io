@@ -16,6 +16,13 @@ order: 2
     {% endfor %}
 </ul>
 
+## Bottled
+
+<ul class="bottled">
+    {% for beer in beer_data.bottled %}
+        {% include beer.html beer=beer %}
+    {% endfor %}
+</ul>
 
 ## Next Up
 
@@ -32,3 +39,6 @@ order: 2
         {% include beer.html beer=beer %}
     {% endfor %}
 </ul>
+
+
+<script src="/js/beer.js"></script>
