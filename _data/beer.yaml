@@ -9,7 +9,8 @@ ontap:
   description: Dark and malty with a ton of piney hops
   date: 1/20/2016
   image: /img/beer/cda.jpg
-- name: Pumpkin Pie Ale
+
+- name: Pumpkin Spice Ale
   style: American Amber Ale
   abv: 6%
   ibu: 24
@@ -17,6 +18,17 @@ ontap:
   method: Partial Mash
   distribution: Kegged
   description: "Amber with roasted pumpkin and spices. Cloned from Atoka Brewery's Pumpkin Ale"
+
+- name: West Coast IPA
+  style: West Coast India Pale Ale
+  abv: 7%
+  ibu: 58
+  srm: 7
+  method: All Grain
+  distribution: Kegged
+  date: 2/18/2016
+  description: Light West Coast IPA with an aroma of tangerine and spruce trees.
+
 bottled:
 - name: French Saison
   style: Saison
@@ -28,6 +40,37 @@ bottled:
   date: 1/3/2016
   description: Super-dry saison with rich citrus and floral aroma
   image: /img/beer/saison.jpg
+
+upnext:
+- name: Dubbel Oaked
+  style: Belgian Dubbel
+  abv: 9%
+  ibu: 23
+  srm: 13
+  method: All Grain
+  status: Secondary Fermentation
+  description: Oak-aged dubbel
+
+- name: Gose
+  style: Gose
+  abv: 4.4%
+  ibu: 15
+  srm: 3
+  method: All Grain, Kettle Sour
+  status: Kettle Souring
+  description: Kettle soured traditional gose. A balance between brine and tart.
+
+- name: Red Rye IPA
+  style: IPA
+  abv: ?%
+  ibu: '>60'
+  srm: ~18
+  method: All Grain
+  status: Recipe Planning
+
+
+
+history:
 - name: Breakfast Stout
   style: American Stout
   abv: 7.5%
@@ -46,32 +89,6 @@ bottled:
   distribution: Bottled
   date: 7/18/2015
   description: "A sweet and spicy Rye Pale Ale with frozen peaches added in secondary. Great body and balance. Cloned from Terrapin's Rye Pale Ale."
-upnext:
-- name: Dubbel Oaked
-  style: Belgian Dubbel
-  abv: 9%
-  ibu: 23
-  srm: 13
-  method: All Grain
-  status: Secondary Fermentation
-  description: Oak-aged dubbel
-- name: West Coast IPA
-  style: West Coast India Pale Ale
-  abv: 7%
-  ibu: 58
-  srm: 7
-  method: All Grain
-  status: Primary Fermentation
-  description: Light West Coast IPA with dank and piney hops
-- name: Hawaiian Gose
-  style: Gose
-  abv: 4.7%
-  ibu: 15
-  srm: 3
-  method: All Grain, Kettle Sour
-  status: Kettle Souring
-  description: Kettle soured traditional gose flavored with Hibiscus
-history:
 - name: Double IPA
   style: Imperial India Pale Ale
   abv: 8%
