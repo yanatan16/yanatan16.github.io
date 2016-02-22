@@ -17,6 +17,7 @@ ontap:
   srm: 18
   method: Partial Mash
   distribution: Kegged
+  date: 1/20/2016
   description: "Amber with roasted pumpkin and spices. Cloned from Atoka Brewery's Pumpkin Ale"
 
 - name: West Coast IPA
@@ -28,6 +29,7 @@ ontap:
   distribution: Kegged
   date: 2/18/2016
   description: Light West Coast IPA with an aroma of tangerine and spruce trees.
+
 
 bottled:
 - name: French Saison
@@ -63,8 +65,8 @@ upnext:
 - name: Red Rye IPA
   style: IPA
   abv: ?%
-  ibu: '>60'
-  srm: ~18
+  ibu: 60
+  srm: 18
   method: All Grain
   status: Recipe Planning
 
