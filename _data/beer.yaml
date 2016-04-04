@@ -1,15 +1,62 @@
 ontap:
-- name: Pine Cone CDA
-  style: Cascadian Dark Ale
-  abv: 8.1%
-  ibu: 85
-  srm: 40
-  method: Partial Mash
-  distribution: Kegged
-  description: Dark and malty with a ton of piney hops
-  date: 1/20/2016
-  image: /img/beer/cda.jpg
+- name: French Saison
+  style: Saison
+  abv: 5.5%
+  ibu: 25
+  srm: 3
+  method: Extract
+  distribution: Bottled
+  date: 1/3/2016
+  description: Super-dry saison with rich citrus and floral aroma
+  image: /img/beer/saison.jpg
 
+- name: Dubbel Oaked
+  style: Belgian Dubbel
+  abv: 9%
+  ibu: 23
+  srm: 13
+  method: All Grain
+  status: Secondary Fermentation
+  description: Oak-aged dubbel
+
+upnext:
+- name: Gose
+  style: Gose
+  abv: 4.4%
+  ibu: 15
+  srm: 3
+  method: All Grain, Kettle Sour
+  status: Waiting for a tap
+  description: Kettle soured traditional gose. A balance between brine and tart.
+
+- name: Imperial Red Rye IPA
+  style: Rye IPA
+  abv: 8.9%
+  ibu: 85
+  srm: 18
+  method: All Grain
+  status: Dry Hopping/Aging
+  description: An amber IPA with notes of spicy rye and earthy hops.
+
+- name: Session Red Rye IPA
+  style: Session IPA
+  abv: 4%
+  ibu: 85
+  srm: 11
+  method: All Grain, Second Sparge
+  status: Fermenting
+  description: A tropical hops explosion in a light and bitter beer.
+
+- name: The Harden Funk
+  style: American Wild Ale
+  abv: 6%
+  ibu: 45
+  srm: 7
+  method: All Grain, 100% Brett
+  status: Fermenting
+  description: An experimental tropical pale ale fermented with Brett C and Lacto D.
+
+history:
 - name: Pumpkin Spice Ale
   style: American Amber Ale
   abv: 6%
@@ -30,49 +77,16 @@ ontap:
   date: 2/18/2016
   description: Light West Coast IPA with an aroma of tangerine and spruce trees.
 
-
-bottled:
-- name: French Saison
-  style: Saison
-  abv: 5.5%
-  ibu: 25
-  srm: 3
-  method: Extract
-  distribution: Bottled
-  date: 1/3/2016
-  description: Super-dry saison with rich citrus and floral aroma
-  image: /img/beer/saison.jpg
-
-upnext:
-- name: Dubbel Oaked
-  style: Belgian Dubbel
-  abv: 9%
-  ibu: 23
-  srm: 13
-  method: All Grain
-  status: Secondary Fermentation
-  description: Oak-aged dubbel
-
-- name: Gose
-  style: Gose
-  abv: 4.4%
-  ibu: 15
-  srm: 3
-  method: All Grain, Kettle Sour
-  status: Kettle Souring
-  description: Kettle soured traditional gose. A balance between brine and tart.
-
-- name: Red Rye IPA
-  style: IPA
-  abv: ?%
-  ibu: 60
-  srm: 18
-  method: All Grain
-  status: Recipe Planning
-
-
-
-history:
+- name: Pine Cone CDA
+  style: Cascadian Dark Ale
+  abv: 8.1%
+  ibu: 85
+  srm: 40
+  method: Partial Mash
+  distribution: Kegged
+  description: Dark and malty with a ton of piney hops
+  date: 1/20/2016
+  image: /img/beer/cda.jpg
 - name: Breakfast Stout
   style: American Stout
   abv: 7.5%

@@ -16,6 +16,7 @@ order: 2
     {% endfor %}
 </ul>
 
+{% if beer_data.bottled.length > 0 %}
 ## Bottled
 
 <ul class="bottled">
@@ -23,7 +24,9 @@ order: 2
         {% include beer.html beer=beer %}
     {% endfor %}
 </ul>
+{% endif %}
 
+{% if beer_data.upnext.length > 0 %}
 ## Next Up
 
 <ul class="next-up">
@@ -31,6 +34,7 @@ order: 2
         {% include beer.html beer=beer %}
     {% endfor %}
 </ul>
+{% endif %}
 
 ## Kicked
 
