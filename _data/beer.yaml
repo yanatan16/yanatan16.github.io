@@ -7,7 +7,7 @@ ontap:
   method: Extract
   distribution: Bottled
   date: 1/3/2016
-  description: Super-dry saison with rich citrus and floral aroma
+  description: Super-dry saison with light citrus and floral aroma
   image: /img/beer/saison.jpg
 
 - name: Dubbel Oaked
@@ -17,7 +17,7 @@ ontap:
   srm: 13
   method: All Grain
   status: Secondary Fermentation
-  description: Oak-aged dubbel
+  description: A rich dark beer with plum, fig, and oak flavors.
 
 upnext:
 - name: Gose
