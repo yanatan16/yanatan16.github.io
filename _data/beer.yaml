@@ -1,4 +1,36 @@
 ontap:
+- name: Arnold Palemer
+  style: Session Fruit Ale
+  abv: 5.5%
+  ibu: 24
+  srm: 5
+  method: All Grain, Kettle Sour
+  distribution: Kegged
+  description: A lemony and tea-infused session ale. Perfect for those dog days of summer!
+
+- name: Crag IPA with Brett
+  style: Brett IPA
+  abv: 6.6%
+  ibu: 60
+  srm: 8
+  method: All Grain, Brett Infection
+  distribution: Kegged
+  description: An (unexpected) twist on the favorite Crag IPA.
+
+- name: Gose
+  style: Gose
+  abv: 4.4%
+  ibu: 15
+  srm: 3
+  method: All Grain, Kettle Sour
+  distribution: Kegged
+  description: Kettle soured traditional gose. A balance between brine and tart.
+
+upnext:
+- name: Yam Barleywine
+- name: Milk Stout
+
+history:
 - name: French Saison
   style: Saison
   abv: 5.5%
@@ -10,24 +42,15 @@ ontap:
   description: Super-dry saison with light citrus and floral aroma
   image: /img/beer/saison.jpg
 
+
 - name: Dubbel Oaked
   style: Belgian Dubbel
   abv: 9%
   ibu: 23
   srm: 13
   method: All Grain
-  status: Secondary Fermentation
+  distribution: Kegged
   description: A rich dark beer with plum, fig, and oak flavors.
-
-upnext:
-- name: Gose
-  style: Gose
-  abv: 4.4%
-  ibu: 15
-  srm: 3
-  method: All Grain, Kettle Sour
-  status: Waiting for a tap
-  description: Kettle soured traditional gose. A balance between brine and tart.
 
 - name: Imperial Red Rye IPA
   style: Rye IPA
@@ -38,15 +61,6 @@ upnext:
   status: Dry Hopping/Aging
   description: An amber IPA with notes of spicy rye and earthy hops.
 
-- name: Session Red Rye IPA
-  style: Session IPA
-  abv: 4%
-  ibu: 85
-  srm: 11
-  method: All Grain, Second Sparge
-  status: Fermenting
-  description: A tropical hops explosion in a light and bitter beer.
-
 - name: The Harden Funk
   style: American Wild Ale
   abv: 6%
@@ -56,7 +70,6 @@ upnext:
   status: Fermenting
   description: An experimental tropical pale ale fermented with Brett C and Lacto D.
 
-history:
 - name: Pumpkin Spice Ale
   style: American Amber Ale
   abv: 6%
