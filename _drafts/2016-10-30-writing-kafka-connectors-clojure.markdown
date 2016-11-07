@@ -7,6 +7,8 @@ date: 2016-10-30 12:00:00
 
 I've been writing Kafka Connect Sink Connectors in Clojure for some specific use cases and I'd like to share some of the work I've done. For now, I'll focus on implementing basic Sink Connectors only, as I haven't written a highly dynamic Sink Connector or a Source Connector yet.
 
+<!--break-->
+
 ## Basics
 
 Kafka Connect has a Java API for implementing Connectors. Simply implement two classes and put them in a JAR to use them in Connect. Let's consider the two classes:

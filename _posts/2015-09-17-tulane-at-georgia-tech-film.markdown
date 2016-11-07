@@ -1,6 +1,6 @@
 ---
 layout: post
-section: gt
+section: misc
 title:  "Film Review: Tulane at Georgia Tech"
 date:   2015-09-17 12:00:00
 categories: georgia-tech

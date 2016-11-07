@@ -2,7 +2,7 @@
 layout: page
 title: Bikes
 permalink: /bikes/
-order: 3
+order: 4
 ---
 
 I like to build bikes. I've only built two single-speeds so far, but I have plans for a high-tech road bike, a lightweight cyclocross bike, a super-fast fixie with track wheels.
@@ -10,6 +10,12 @@ I like to build bikes. I've only built two single-speeds so far, but I have plan
 If you are in the Boulder/Denver area and would like a bike built for you, I'm always looking to improve my craft through practice. (See footer for contact info.)
 
 Many thanks to [Sheldon Brown's](http://sheldonbrown.com/) amazing website. It's a huge resource to amateur and professional bike builders everywhere.
+
+## Serena's Singlespeed
+
+I built a cool black and orange singlespeed for my sister-in-law as she goes off to college. The build was pretty inexpensive but feels really nice. Frame is Pure Fix, with upgraded headset to increase stability.
+
+Pictures to come!
 
 ## Savannah's Singlespeed
 

@@ -7,6 +7,8 @@ date: 2016-10-27 12:00:00
 
 I've been managing medium-sized microservice clusters for a while now. Managing these systems has never felt right to me; most of the time it sucks. Often the management tooling has been strewn between many apps and been either not featureful enough or too developer-focused. At Activision, I'd like to try and end this streak.
 
+<!--break-->
+
 When I talk about a microservice cluster, I'm talking about one or more distributed compute clusters and one or more databases that users deploy applications (aka apps) on. Management of these systems is deployment, debugging, and monitoring of apps and creation and monitoring of database assets.
 
 A good management system goes beyond the basics with tooling that takes into account the usage patterns. This helps to improve the actual architecture and applications themselves by giving better knowledge and power to the developers. The tooling can do this by taking advantage of the inherent structure of the services in the system. For example, my current system heavily relies on stream-based processing with Kafka. Thus, management tooling should revolve around the tree-like structure of streaming systems, with an emphasis on finding and managing relations between apps and streams. Previously, I worked on a large SaaS deployment that had a lot of publically accessible applications, with a single gateway; good management tooling would help to understand the gateway configuration of those public apps.

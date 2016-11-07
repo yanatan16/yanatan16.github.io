@@ -1,6 +1,6 @@
 ---
 layout: post
-section: gt
+section: misc
 title:  "Film Review: Alcorn State at Georgia Tech Offense"
 date:   2015-09-11 22:00:00
 categories: georgia-tech
