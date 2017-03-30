@@ -1,11 +1,58 @@
 ontap:
+- name: Northeast IPA
+  style: IPA
+  abv: 6.0%
+  ibu: 75
+  srm: 8
+  method: All Grain
+  distribution: Kegged
+  description: A juicy and fruity IPA with a thick body and huge aroma.
+  
+- name: Blackberry Cobbler
+  style: Fruit Beer
+  abv: 3.4%
+  ibu: 15
+  srm: 11
+  method: All Grain
+  distribution: Kegged
+  description: A slightly tart and malty sessionable beer.
+  
+- name: Idaho 7 SMASH Saison
+  style: Saison
+  abv: 5.8%
+  ibu: 39
+  srm: 6
+  method: All Grain
+  distribution: Kegged
+  description: A dry-hopped SMASH with Idaho 7 and Maris Otter, using French Saison yeast. Floral and melony!
+
+history:
+- name: Sundance Stout 1 - Dry Hopped
+  style: Irish Stout
+  abv: 6.3%
+  ibu: 42
+  srm: 33
+  method: All Grain
+  distribution: Bottled from Keg
+  description: Amazing! A smooth, creamy, chocolaty Irish stout.
+  recipe: https://www.brewersfriend.com/homebrew/recipe/view/419081/sundance-stout
+
+- name: Sundance Stout 2 - Wild Cherry
+  style: Fruit Stout
+  abv: 6.3%
+  ibu: 42
+  srm: 33
+  method: All Grain
+  distribution: Bottled from Keg
+  description: A tart, yet roasty, cherry stout brewed with Brett B.
+
 - name: Arnold Palemer
   style: Session Fruit Ale
   abv: 5.5%
   ibu: 24
   srm: 5
   method: All Grain, Kettle Sour
-  distribution: Kegged
+  distribution: Bottled from Keg
   description: A lemony and tea-infused session ale. Perfect for those dog days of summer!
 
 - name: Crag IPA with Brett
@@ -14,7 +61,7 @@ ontap:
   ibu: 60
   srm: 8
   method: All Grain, Brett Infection
-  distribution: Kegged
+  distribution: Bottled from Keg
   description: An (unexpected) twist on the favorite Crag IPA.
 
 - name: Gose
@@ -26,11 +73,6 @@ ontap:
   distribution: Kegged
   description: Kettle soured traditional gose. A balance between brine and tart.
 
-upnext:
-- name: Yam Barleywine
-- name: Milk Stout
-
-history:
 - name: French Saison
   style: Saison
   abv: 5.5%
