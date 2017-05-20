@@ -5,7 +5,7 @@ section: misc
 date: 2017-05-17 00:00:00
 ---
 
-I chose my first ultra marathon and my second trail race as a doozy. Quad Rock is used by most of the runners I met on course as a training run for 100 milers later in the season.
+I chose my first ultra marathon and my second trail race as a doozy. Quad Rock is used by most of the runners I met on course as a training run for 100 milers later in the season. 
 
 - **What**: [Quad Rock 50 Miler](http://gnarrunners.com/quad-rock-50/)
 - **When**: May 13, 2017
@@ -86,7 +86,7 @@ After 5 minutes, I started to believe I could continue. I focused on my routine,
 
 With a belly full of food and a renewed determination, I kept my eyes forward. I power hiked my way up the climb that had doomed me just minutes ago. I met a nice lady from Red Feather who is going to try her first 100k later this year. I passed her.
 
-I got to the tree cover, a mini-miricle. I caught up to a runner that had been with me for most of the last 7 miles. We talked. He's running Hardrock for his 8th time later this year. He was having a lot of trouble today though. He blamed it on doing repeats of the Manitou incline a couple days ago. Thats one possiblity. My moneys on the 82 degrees though. When we reached the summit of the climb, I jogged on ahead.
+I got to the tree cover, a mini-miracle. I caught up to a runner that had been with me for most of the last 7 miles. We talked. He's running Hardrock for his 8th time later this year. He was having a lot of trouble today though. He blamed it on doing repeats of the Manitou incline a couple days ago. Thats one possiblity. My moneys on the 82 degrees though. When we reached the summit of the climb, I jogged on ahead.
 
 For the next few miles, I continued to pass runners who had passed me on the way into the half. Each time I learned of their troubles and their plans for future ultras, I felt more confident in my own energy, more determined to finish, and more understanding of my heat exhaustion.
 
