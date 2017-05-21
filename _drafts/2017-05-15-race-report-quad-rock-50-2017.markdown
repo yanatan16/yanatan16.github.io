@@ -5,7 +5,7 @@ section: misc
 date: 2017-05-17 00:00:00
 ---
 
-I chose my first ultra marathon and my second trail race as a doozy. Quad Rock is used by most of the runners I met on course as a training run for 100 milers later in the season. 
+I chose my first ultra marathon and my second trail race as a doozy. It was a long, hard day. What follows is as much detail as I can remember about my experience at the race.
 
 - **What**: [Quad Rock 50 Miler](http://gnarrunners.com/quad-rock-50/)
 - **When**: May 13, 2017
@@ -21,7 +21,7 @@ None of this would be possible without the undying support of my wife, Savannah,
 
 ### Why This Race
 
-After training for and running the [Moab Trail Marathon]() with a goal in mind, I discovered how much I loved racing and the feeling of pushing my body for long endurance efforts. Prior to the marathon, I crewed my friend on the Pine to Palm 100 miler. Seeing her determination win the day and allow her to finish such a grueling race had reoriented my perspective on what was hard in life.
+After training for and running the [Moab Trail Marathon](http://joneisen.me/2016/11/07/moab-trail-marathon-race-report.html) with a goal in mind, I discovered how much I loved racing and the feeling of pushing my body for long endurance efforts. Prior to the marathon, I crewed my friend on the Pine to Palm 100 miler. Seeing her determination win the day and allow her to finish such a grueling race had reoriented my perspective on what was hard in life.
 
 I decided to train for an ultra marathon near my home in Boulder, CO. I also wanted one with a significant elevation profile, as that is pretty much what I run [well]. Quad Rock fit perfectly into my schedule.
 
@@ -82,7 +82,7 @@ Alan, one of my friends crewing me, ran me out. **As we were jogging along the f
 
 The next 23 miles retraced my steps from the last 23 miles. Which meant I had 2 miles of exposed singletrack climbing to do. The same 2 miles that had destroyed my confidence just 30 minutes prior. Despite the rousing pep talk from Alan, I was still skeptical of my ability to sustain my body for another 6 hours. But, with a trail in front of me and fuel in my pack, I kept moving.
 
-After 5 minutes, I started to believe I could continue. I focused on my routine, eating salt and calories every 30 minutes. I made sure to finish off a 50ml bottle every 30 minutes. My life revolved around 30 minute intervals. All I had to do was keep my legs moving, and I would keep racing.
+After 5 minutes, I started to believe I could continue. I focused on my routine, eating salt and calories every 30 minutes. I made sure to finish off a 50ml bottle every 30 minutes. **My life revolved around 30 minute intervals. All I had to do was keep my legs moving, and I would keep racing.**
 
 With a belly full of food and a renewed determination, I kept my eyes forward. I power hiked my way up the climb that had doomed me just minutes ago. I met a nice lady from Red Feather who is going to try her first 100k later this year. I passed her.
 

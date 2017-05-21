@@ -5,7 +5,7 @@ section: misc
 date: 2017-05-17 00:00:00
 ---
 
-I chose my first ultra marathon and my second trail race as a doozy. Quad Rock is used by most of the runners I met on course as a training run for 100 milers later in the season.
+I chose my first ultra marathon and my second trail race as a doozy. It was a long, hard day. What follows is as much detail as I can remember about my experience at the race.
 
 - **What**: [Quad Rock 50 Miler](http://gnarrunners.com/quad-rock-50/)
 - **When**: May 13, 2017
@@ -21,7 +21,7 @@ None of this would be possible without the undying support of my wife, Savannah,
 
 ### Why This Race
 
-After training for and running the [Moab Trail Marathon]() with a goal in mind, I discovered how much I loved racing and the feeling of pushing my body for long endurance efforts. Prior to the marathon, I crewed my friend on the Pine to Palm 100 miler. Seeing her determination win the day and allow her to finish such a grueling race had reoriented my perspective on what was hard in life.
+After training for and running the [Moab Trail Marathon](http://joneisen.me/2016/11/07/moab-trail-marathon-race-report.html) with a goal in mind, I discovered how much I loved racing and the feeling of pushing my body for long endurance efforts. Prior to the marathon, I crewed my friend on the Pine to Palm 100 miler. Seeing her determination win the day and allow her to finish such a grueling race had reoriented my perspective on what was hard in life.
 
 I decided to train for an ultra marathon near my home in Boulder, CO. I also wanted one with a significant elevation profile, as that is pretty much what I run [well]. Quad Rock fit perfectly into my schedule.
 
@@ -82,11 +82,11 @@ Alan, one of my friends crewing me, ran me out. **As we were jogging along the f
 
 The next 23 miles retraced my steps from the last 23 miles. Which meant I had 2 miles of exposed singletrack climbing to do. The same 2 miles that had destroyed my confidence just 30 minutes prior. Despite the rousing pep talk from Alan, I was still skeptical of my ability to sustain my body for another 6 hours. But, with a trail in front of me and fuel in my pack, I kept moving.
 
-After 5 minutes, I started to believe I could continue. I focused on my routine, eating salt and calories every 30 minutes. I made sure to finish off a 50ml bottle every 30 minutes. **My life revolved around 30 minute intervals. All I had to do was keep my legs moving, and I would keep racing.**
+After 5 minutes, I started to believe I could continue. I focused on my routine, eating salt and calories every 30 minutes. I made sure to finish off a 50ml bottle every 30 minutes. My life revolved around 30 minute intervals. All I had to do was keep my legs moving, and I would keep racing.
 
 With a belly full of food and a renewed determination, I kept my eyes forward. I power hiked my way up the climb that had doomed me just minutes ago. I met a nice lady from Red Feather who is going to try her first 100k later this year. I passed her.
 
-I got to the tree cover, a mini-miricle. I caught up to a runner that had been with me for most of the last 7 miles. We talked. He's running Hardrock for his 8th time later this year. He was having a lot of trouble today though. He blamed it on doing repeats of the Manitou incline a couple days ago. Thats one possiblity. My moneys on the 82 degrees though. When we reached the summit of the climb, I jogged on ahead.
+I got to the tree cover, a mini-miracle. I caught up to a runner that had been with me for most of the last 7 miles. We talked. He's running Hardrock for his 8th time later this year. He was having a lot of trouble today though. He blamed it on doing repeats of the Manitou incline a couple days ago. Thats one possiblity. My moneys on the 82 degrees though. When we reached the summit of the climb, I jogged on ahead.
 
 For the next few miles, I continued to pass runners who had passed me on the way into the half. Each time I learned of their troubles and their plans for future ultras, I felt more confident in my own energy, more determined to finish, and more understanding of my heat exhaustion.
 
@@ -94,7 +94,7 @@ Coming into the mile 32 aid station, I was a new man. I smiled. I knew what I wa
 
 The next 4 miles were going to be a brutal climb. I was prepared for it. I set off and started power hiking up the Mill Creek trail. I passed an exhausted runner who couldn't talk to me. I came upon John (from mile 10-13) soaking his shirt in a creek. We both joined the Mill Creek Pool Club to cool off. I hiked passed him. I met a runner named Carl who lives very close to me, doing his first ultra since recoving from a bad bicycle accident. I hiked passed him.
 
-When I arrived at the mile 37 aid station, I was surprised to find Carl and John not too far behind. **They had used me as a pacer to get through the tough climb. In that moment, I felt like a true ultrarunner.**
+When I arrived at the mile 37 aid station, I was surprised to find Carl and John not too far behind. They had used me as a pacer to get through the tough climb. In that moment, I felt like a true ultrarunner.
 
 #### Miles 38 - 50: Grind It Out
 
