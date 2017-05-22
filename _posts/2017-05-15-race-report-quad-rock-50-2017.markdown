@@ -29,7 +29,7 @@ I decided to train for an ultra marathon near my home in Boulder, CO. I also wan
 
 I had never run more than 40 miles in a week before I started training for this race. Ramping up to 50+ miles was a daunting requirement.
 
-Unfortunately it wasn't so easy. I endured a business trips to flat place, a rolled ankle, the flu, and a strained soleus muscle during my training. Luckily, after my flu disappated I was able to run 40+ in 7 of the next 8 weeks (5 at 50+) before I tapered. Ideally I would have run more like 12 50+ weeks. Even so, running this much was very enjoyable and I'd like to keep it up.
+Unfortunately it wasn't so easy. I endured usiness trips to flat places, a rolled ankle, the flu, and a strained soleus muscle during my training. Luckily, after my flu disappated I was able to run 40+ in 7 of the next 8 weeks (5 at 50+) before I tapered. Ideally I would have run more like 12 50+ weeks. Even so, running this much was very enjoyable and I'd like to keep it up.
 
 Because the course had so much elevation (they claim 11k+ but strava only claims 9600-9800), it was important to train for that aspect as well. The core of my training included 4 10k+ weeks. Again, this was less than I'd like but enough to feel prepared.
 
