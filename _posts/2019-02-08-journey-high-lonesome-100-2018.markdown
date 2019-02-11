@@ -27,6 +27,8 @@ When it happened, I broke. I couldn't handle the loss. I couldn't reconcile what
 
 Two years ago, I woke up from my slumber to realize that there was a way out. That was the beginning of my journey back to sanity.
 
+---
+
 #### CC
 
 ##### Mile 50 Aid Station of the 2016 Pine to Palm 100
@@ -53,7 +55,9 @@ At 1:30 AM, CC comes running up to the peak of the mountain, hurried in her brea
 
 She has done what I thought would be impossible. From unconsciousness to pushing yourself up a mountain with no energy in your body. She immediately became my hero in my mind.
 
-#### The Journey
+---
+
+#### Journey
 
 I'll never forget what I saw on that windy mountaintop in the middle of the night. CC's body and mind broke; she had a brush with death, only to get up and run. I saw pure determination.
 
@@ -64,6 +68,8 @@ Just like CC, I don't sign up for easy races. I ran the 2017 Quad Rock 50 as my 
 I started training for the HL100 in January of 2018. With 7 months until the race, I had a lot of work ahead of me to get ready. Throughout this time, I worked hard with my therapist to process Sam's death, determined to come to terms with the loss at last. The efforts worked in tandem. Training runs helped me work through my feelings, and therapy helped me find motivation to run.
 
 Through all this work, I finally found some measure of peace with Sam. I mended my relationship with my parents. Now, with my mind at peace, it was time to run the race.
+
+---
 
 #### Determination
 
