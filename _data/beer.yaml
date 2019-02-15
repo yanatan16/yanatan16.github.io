@@ -1,7 +1,25 @@
 upnext:
 - <nuthin>
 
-ontap:
+history:
+- name: Northeast IPA 2
+  style: IPA
+  abv: 6.0%
+  ibu: 75
+  srm: 8
+  method: All Grain
+  distribution: Kegged
+  description: A juicy and fruity IPA with a thick body and huge aroma.
+
+- name: Lavender Cider
+  style: Cider
+  abv: 7.0%
+  ibu: 0
+  srm: 1
+  method: Juice
+  distribution: Kegged
+  description: Lavender adjunct cider
+
 - name: Northeast IPA
   style: IPA
   abv: 6.0%
@@ -10,7 +28,7 @@ ontap:
   method: All Grain
   distribution: Kegged
   description: A juicy and fruity IPA with a thick body and huge aroma.
-  
+
 - name: Blackberry Cobbler
   style: Fruit Beer
   abv: 3.4%
@@ -19,7 +37,7 @@ ontap:
   method: All Grain
   distribution: Kegged
   description: A slightly tart and malty sessionable beer.
-  
+
 - name: Idaho 7 SMASH Saison
   style: Saison
   abv: 5.8%
@@ -29,7 +47,6 @@ ontap:
   distribution: Kegged
   description: A dry-hopped SMASH with Idaho 7 and Maris Otter, using French Saison yeast. Floral and melony!
 
-history:
 - name: Sundance Stout 1 - Dry Hopped
   style: Irish Stout
   abv: 6.3%

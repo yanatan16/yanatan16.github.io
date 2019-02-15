@@ -1,0 +1,8 @@
+version: '2'
+services:
+  site:
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - 4000:4000

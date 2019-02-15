@@ -17,6 +17,10 @@ My mind is spent. It's been 26 hours of since I started moving; 26 hours since I
 
 I stare at the ground. I'm afraid to look at my pacer, my hero. I've failed her. I've failed my brother. I've failed myself.
 
+<!--break-->
+
+![Shortly after the breaking point](/img/high-lonesome-breaking-point.jpg)
+
 ---
 
 #### Sam
@@ -90,3 +94,5 @@ I can do this. I control my body. I control my mind. I don't need sleep. I can o
 I hike the next 20 miles in 8 hours, finishing the race in 34:31.
 
 I pushed through it all to accomplish my goal. And somewhere out on that course, I left my pain behind.
+
+![Finishing](/img/high-lonesome-finish.jpg)

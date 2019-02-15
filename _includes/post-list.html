@@ -1,4 +1,4 @@
-{% assign posts = site.posts | where:"section",page.section %}
+{% assign posts = site.posts %}
 <ul class="post-list">
   {% for post in posts limit:9 offset:1 %}
     <li>
