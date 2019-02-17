@@ -9,9 +9,9 @@ date: 2019-02-08 00:00:00
 
 ##### 8 AM Aug 3, 2018 - The Colorado Trail near Salida, CO
 
-My body is spent. Every footstep squeezes the converging blisters on my feet. Every step shoots pain through the torn fibers of my quads. Every push with my trekking poles sears through my back. Every uphill tax my lungs until I wheeze. Every downhill feels like my quads are being burned in acid.
+My body is spent. Every footstep squeezes the converging blisters on my feet. Every step shoots pain through the torn fibers of my quads. Every push with my trekking poles sears through my back. Every uphill taxes my lungs until I wheeze. Every downhill feels like my quads are being burned in acid.
 
-My mind is spent. It's been 26 hours of since I started moving; 26 hours since I last stopped. Deep thought has left me long ago. Simple math abandoned me as the first sun set. Determination got me here, but it too is fading now.
+My mind is spent. It's been 26 hours since I started moving; 26 hours since I last stopped. Deep thought has left me long ago. Simple math abandoned me as the first sun set. Determination got me here, but it too is fading now.
 
 20 more miles to go. An impossible task. I simply cannot go one mile, much less twenty. The enormity of the task ahead overwhelms me. I break. I sit down on the trail and try to cry; my body fights me, rejecting the energy and hydration cost of tears. I yearn for sleep, for rest, for a respite from the pain.
 
