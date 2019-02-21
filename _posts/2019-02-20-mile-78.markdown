@@ -3,6 +3,7 @@ title: Mile 78
 layout: post
 section: misc
 date: 2019-02-20 00:00:00
+redirect_from: /2019/02/08/journey-high-lonesome-100-2018.html
 ---
 
 #### The Breaking Point
