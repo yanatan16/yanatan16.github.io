@@ -32,3 +32,7 @@ My buddy says, "how the fuck did you catch up?" Another runner starts calling me
 Maybe thats why I'm out here. Maybe I'm trying to find the point where I can truly open up my abilities. I'm not the most consistent, but I've got a comeback in me.
 
 15 hours later (that's another story), we **ran** into camp, six-abreast: conquerors, friends, Chiefs.
+
+I'll be back.
+
+_I can't thank my old and new friends out there on Niwot's enough: Sherpa, Bob, Bill, Michael, Conan, Alan, John, Miguel, and Brandt. I would have never finished without their support, navigation, constant chitchatting, Sasquatch sightings, headlamp borrowing, aid station hurrying, and silent encouragement._
