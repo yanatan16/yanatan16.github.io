@@ -15,7 +15,7 @@ kramdown:
 highlighter: rouge
 
 # Github Pages Supported Plugins
-gems:
+plugins:
   - jemoji
   - jekyll-redirect-from
   - jekyll-sitemap
