@@ -1,7 +1,7 @@
 ---
 title: Managing a microservice cluster
 layout: post
-section: index
+categories: programming
 date: 2016-10-27 12:00:00
 ---
 

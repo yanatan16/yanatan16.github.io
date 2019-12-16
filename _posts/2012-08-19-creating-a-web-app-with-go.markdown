@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: Creating a web app with Go
 date: Sun Aug 19 2012 20:23:33 GMT-0600 (MDT)
 redirect_from: /post/29800695185/
@@ -51,4 +50,3 @@ Using this interface, I defined `func BindController(svr *web.Server, path strin
 In the [end (this commit)](https://github.com/yanatan16/go-todo-app/tree/42ce62f47e3a71bcedeb5c8da683fd4d9b1df5ae), I was able to rid myself of the `controller` folder all-together. The total amount of Go-Code that isn’t a test or in the `helpers` folder is less than 200 lines and most of that is the model itself. This is a framework that can scale. It will never be as fast to write as rails or node, but the performance will beat rails and node at scale.
 
 Upcoming, I’ll go into a post about the speed of Go web servers (I’ll back up the claim I just made), and one about a few of the tricks I used in this todo app. For now, check the [source](http://github.com/yanatan16/go-todo-app)!
-

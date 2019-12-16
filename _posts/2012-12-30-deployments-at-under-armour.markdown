@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: devops
+categories: programming
 title: Deployments at Under Armour Part 2
 date: Sun Dec 30 2012 19:36:00 GMT-0700 (MST)
 redirect_from: /post/39269148417/
@@ -26,4 +25,3 @@ The workflow now is to modify a capistrano configuration file on our github ente
 The entire capistrano deployment is custom-written for our unique configuration and deployment tasks. The only capistrano open source tasks I used were [multi-stage deployments](https://github.com/capistrano/capistrano/wiki/2.x-Multistage-Extension) and the git module. I even created a new copy/rsync deployment strategy that uses a local cache and builds the compiled files on the deployments server and rsync’d the files to a remote cache to speed up deployment time (as opposed to copying). I’d like to open source this at some point in the future. Its a pretty useful deployment strategy that is optimized for speed and efficiency.
 
 These days, I am putting the finishing touches on version 2.0, which will simplify the configuration process to become project-based, instead of environment-based, introduce nightly tasks, add more IRC commands with better documentation, run mongo scripts on the local mongo boxes (as opposed to remotely, which can really damper deployments with large scripts), and add a fully automated rollback process, among other improvements. All in all, I wrote about 700 lines of ruby and 200 lines of python to create this system, which has given our development and operations team an easy way to deploy code to QA and production systems. With this process improvement, we ship more code more often, which helps us to “always be shipping.”
-

@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code contest
+categories: programming
 title: Stripe CTF3 Recap
 date: Wed Jan 29 2014 20:00:00 GMT-0700 (MST)
 redirect_from: /post/75008410654/
@@ -86,4 +85,3 @@ My [full solution](https://github.com/yanatan16/stripe-ctf3-level4).
 ------------------------------------------------------------------------
 
 Overall, this was a great competition. I thought the topics were well chosen, and I had a great time with it. My favorite levels were the gitcoin mining and distributed database. I’d been meaning to use raft at some point, and now I have! Thank you Stripe for putting in the hard work to create such a fun and rewarding opportunity. I look forward to receiving my t-shirt!
-

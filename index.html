@@ -1,8 +1,9 @@
 ---
-title: All
+title: Home
 layout: default
-section: index
 order: 1
 ---
-
-{% include index-page.html %}
+{% assign posts_rest = site.posts %}
+<div>
+  {% include post-list.html posts_rest=posts_rest %}
+</div>

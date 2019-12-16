@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code pebble
+categories: programming
 title: Bold Hour (Pebble Watch Face)
 date: Sun May 12 2013 20:11:00 GMT-0600 (MDT)
 redirect_from: /post/50310906853/
@@ -24,4 +23,3 @@ It was quite fun creating it, and since then, it has become the 9th rated watchf
 I can’t wait to see the next evolution of pebble apps.
 
 ![bold-hour screenshot](http://24.media.tumblr.com/aebd0153ff4e127cf8aac639d9b090ed/tumblr_mmpsuxKjt01ryx2sho1_250.png)
-

@@ -1,7 +1,7 @@
 ---
 title: Thoughts on Kafka Connect
 layout: post
-section: index
+categories: programming
 date: 2016-11-07 12:00:00
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: Golang and default values
 date: Sun Jun 23 2013 13:39:00 GMT-0600 (MDT)
 redirect_from: /post/53695478114/
@@ -95,4 +94,3 @@ Option 4: Full variadic argument parsing (javascript style)
 For API stability reasons, I suggest Option 3 or 4, as those will not break code relying on your API. Furthermore, Options 1, 2, and 3 are the best documented in code. Its for that reason that I use Option 3 (Config structs) the most in my code.
 
 Update: Thanks to [@davecheney](https://twitter.com/davecheney) for suggesting the type switch in the Option 4. Its much cleaner.
-

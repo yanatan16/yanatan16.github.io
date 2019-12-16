@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: My mongorc file
 date: Sat Aug 03 2013 21:33:21 GMT-0600 (MDT)
 redirect_from: /post/57301176300/
@@ -237,4 +236,3 @@ This is a great place to put application-specific helper functions for helping y
     })();
 
 Finally, auto-login into read-only mode and execute the closure. Logging into read-only mode has saved me so many times from making buggy not-ready changes because I thought I was local or in QA.
-

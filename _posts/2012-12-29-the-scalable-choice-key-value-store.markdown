@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development architecture
+categories: programming
 title: "The Scalable Choice: Key-Value Store"
 date: Sat Dec 29 2012 04:32:21 GMT-0700 (MST)
 redirect_from: /post/39120972753/
@@ -28,4 +27,3 @@ Why are Key-Value Stores the inherent choice for large scalability? Even Google�
 Reduced locking allows multiple “master” nodes (aka a “headless” cluster), which then allows for partition tolerance and high availability. Multi-data center is just one more layer of indirection above that, introducing latency-aware replication schemes. There are a myriad of other reasons for going to a KVS, and I’m not really an expert, so I’ll refer you to the [BigTable paper](http://research.google.com/archive/bigtable.html) and the [Dynamo paper (pdf)](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) for some expert opinion on the subject.
 
 When we move to a Key-Value Store, we’ll be moving from MongoDB, which will be step down in usability, because we lose the abstraction of querying. However, the advantages in scalability and administration will be significant enough to outweigh the costs. The choice almost seemed inevitable from our first thoughts about the next evolution of our datastore. As our user base scales globally, we have to scale our website to service those around the world.
-

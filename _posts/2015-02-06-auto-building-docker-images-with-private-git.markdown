@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 date: Fri Feb 06 2015 11:22:00 GMT-0700 (MST)
 title: Auto-building Docker Images with private git submodules
 redirect_from: /post/110265418306/
@@ -25,4 +24,3 @@ Docker Hub [suggests](http://docs.docker.com/docker-hub/builds/#github-submodule
 
 So I solved this delimma by creating [docker-autobuilder](https://github.com/yanatan16/docker-autobuilder). Its a very simple [openresty](http://openresty.org/) app that uses some lua to parse GitHub webhooks and run a docker build and push. Simply stick an ssh key with appropriate GitHub permissions and login to docker to autobuild to your hearts desire. And better yet, it runs in docker
 itself!
-

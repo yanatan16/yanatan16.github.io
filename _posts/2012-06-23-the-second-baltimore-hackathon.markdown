@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: misc
+categories: programming
 title: The Second Baltimore Hackathon
 date: Sat Jun 23 2012 16:02:00 GMT-0600 (MDT)
 redirect_from: /post/25739668525/
@@ -48,4 +47,3 @@ Our prizes were organized into 6 categories:
     interface, a great solution to the keyed entry system they have now.
 
 This was my first hackathon, and I thought the projects were very well done. Congratulations to the winners and good luck converting those prototypes to businesses! Check out the [website](http://baltimorehackathon.com) for more information. We owe a big thanks to all of our sponsors and participants. I hope to see many of y’all next year!
-

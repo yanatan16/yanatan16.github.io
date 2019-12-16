@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: Diagonal Lines in Sass
 date: Sun May 26 2013 12:43:00 GMT-0600 (MDT)
 redirect_from: /post/51408871092/
@@ -58,4 +57,3 @@ Now, if we start our Sass watcher, we can reference this file and use the functi
     }
 
 And whala! We’ve done it. Check out the [demo](http://bl.ocks.org/yanatan16/5653535/8ace84a61be6ba035cfd5b3f097b6093e633de95) for the full code.
-

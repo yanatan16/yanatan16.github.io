@@ -1,6 +1,6 @@
---- layout: post
-section: index
-categories: development popular
+---
+layout: post
+categories: programming
 title: "Concurrency Models: Go vs Erlang"
 date: Mon Dec 17 2012 18:06:00 GMT-0700 (MST)
 redirect_from: /post/38188396218/
@@ -63,4 +63,3 @@ The concurrency models seem similar, but are in fact very different due to the e
 -   Erlang’s scheduler is preemptive, which is a goal of Go’s but not the current state.
 
 As for Erlang’s exception model, it is safer than Go’s because of OTP. The model is still more formal than Go’s, but OTP has made it safer because of monitor/restart semantics. From talking with some more knowlegeable Erlang people, its clear to me that error/exit/throw and try/catch syntax is rarely used, and the more appropriate “error as a value” is used idiomatically. This is the same as is forced in Go (since Go has no throw except for panic, but don’t use that). Thus perhaps the two models are not as dissimilar as I first suggested. The informality of the model in Go is still attractive, but the safety guarantees are better in Erlang.
-

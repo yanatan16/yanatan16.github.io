@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development talks
+categories: programming
 date: Mon Sep 22 2014 11:21:44 GMT-0600 (MDT)
 title: Javascript Concurrency Patterns
 redirect_from: /post/98155451416/
@@ -96,5 +95,3 @@ I only talked about three of the most prominent patterns I use day-to-day. I sug
     ES6)](http://jlongster.com/Taming-the-Asynchronous-Beast-with-CSP-in-JavaScript)
 -   [Transducers.js](http://jlongster.com/Transducers.js--A-JavaScript-Library-for-Transformation-of-Data)
     (the new fad)
-
-

@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: Generators from Python to Go
 date: Sun Apr 21 2013 17:53:00 GMT-0600 (MDT)
 redirect_from: /post/48568953293/
@@ -77,4 +76,3 @@ And in Go, we could use one bidirectional channel, but I’m not a big fan. I’
 All four of these examples are simple, they just output the squares of the numbers zero through 9, but they illustrate how a commonly used pattern in Python can be easily adapted to Go.
 
 *Note*: Please forgive the encoded symbols, I’m working on fixing it.
-

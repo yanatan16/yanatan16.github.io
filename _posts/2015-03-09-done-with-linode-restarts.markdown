@@ -1,9 +1,8 @@
 ---
 layout: post
-section: index
+categories: programming
 title:  Done with linode maintenance
 date:   2015-03-09 19:30:00
-categories: devops
 ---
 
 This past week, we (at [Rafflecopter](http://make.rafflecopter.com)) were dealing with [Linode](http://linode.com)'s Xen Hypervisor [security updates](http://status.linode.com/incidents/2dyvn29ds5mz), the cause of which will be announced tomorrow, March 10. All I've got to say is *PHEW*. I'm glad its over with.

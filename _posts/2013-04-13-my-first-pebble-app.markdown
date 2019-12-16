@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code pebble
+categories: programming
 title: My First Pebble App
 date: Sat Apr 13 2013 12:43:39 GMT-0600 (MDT)
 redirect_from: /post/47883135336/
@@ -22,4 +21,3 @@ The pebble SDK is in its infancy, but still pretty functional for the basic stuf
 I think I’ll see if I can create something with more functionality and usefulness next time, but this was a fun first step. [Check it out!](http://yanatan16.github.io/pebble-binary)
 
 ![](http://yanatan16.github.io/pebble-binary/img/binary_screenshot.jpg "Pebble-Binary Screenshot")
-

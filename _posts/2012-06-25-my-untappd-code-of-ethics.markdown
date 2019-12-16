@@ -1,6 +1,5 @@
 ---
 layout: post
-section: index
 categories: misc
 title: My Untappd Code of Ethics
 date: Mon Jun 25 2012 20:55:00 GMT-0600 (MDT)
@@ -34,4 +33,3 @@ I strive to ethically challenge myself to stay the course every day. That is emb
     check-in is a no-no. Say no to light beer.
 
 You may disagree with my ethics, but that’s OK. Disagreement is what America stands for, just look at Congress.
-

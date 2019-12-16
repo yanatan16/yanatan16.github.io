@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: Iterators using channels in Go
 date: Fri Jan 25 2013 15:51:51 GMT-0700 (MST)
 redirect_from: /post/41471675675/
@@ -84,4 +83,3 @@ Theres only one problem with this implementation. What happens if we break off t
     }
 
 This implementation shows how channels can be used to create iterators over any type in Go with minimal overhead and while keeping abstractions in place. For a working demo, checkout [this example on play.golang.org](http://play.golang.org/p/NIdDOIDzPU)
-

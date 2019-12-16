@@ -1,7 +1,7 @@
 ---
 title: "Race Report: Quad Rock 50 Miler"
 layout: post
-section: misc
+categories: running
 date: 2017-05-17 00:00:00
 ---
 

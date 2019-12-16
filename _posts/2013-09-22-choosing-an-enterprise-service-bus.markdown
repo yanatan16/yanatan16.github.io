@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development architecture
+categories: programming
 title: Choosing an Enterprise Service Bus
 date: Sun Sep 22 2013 13:44:00 GMT-0600 (MDT)
 redirect_from: /post/61988455027/
@@ -34,4 +33,3 @@ The biggest problem in managing and monitoring a distributed system is a constan
 Every system has different requirements, and different tradeoff decisions are made. As we at [Rafflecopter](http://rafflecopter.com) expand our system, we want to nail down our ESB. We’re building and expanding a web application with a scaling number of users and backend systems such as analytics, recommendations, and social connections. For a system like this, we chose the pub/sub pattern because asynchronous communcation will be the core unit of communication in the system. If request/reply semantics are needed in the rare case, we’ll use http. Additionally, we don’t fall into the “needing extreme performance” group, so we decided to stick wth a brokered system.
 
 Back when I used to work for the government doing embedded computing, we made different choices, going with a brokerless sysytem and a binary protocol for the bare-bones speed requirements and giving both RPC and Pub/Sub patterns available. But in today’s world of big servers and complicated applications running in the milliseconds (not microseconds), the advantages of a brokered system weigh heavily in the tradeoff decision.
-

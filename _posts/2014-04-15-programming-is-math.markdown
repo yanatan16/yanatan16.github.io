@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: philosophy
+categories: programming
 title: Programming is Math
 date: Tue Apr 15 2014 21:40:36 GMT-0600 (MDT)
 redirect_from: /post/82860743939/
@@ -24,4 +23,3 @@ I have a lot of issues with the way “math” is taught in (American) schools. 
 So I’ve talked about two primary things which are required of a good mathematician: abstraction and problem solving. Oddly (or not) enough, this is exactly what makes a good programmer. By creating frameworks and multi-purpose libraries, we are creating abstractions so multiple applications from differing fields can use the same tested code for their benefit. The problem solving skills required to solve proofs in math is very similar to solving a problem in programming, be it debugging, finding that exactly correct abstractions, or solving a distributed systems challenge.
 
 Every time you program, your performing the same tasks a mathematician does, except your language is machine code, and mathematicians speak academia.
-

@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development contest code
+categories: programming
 title: Stripe Capture The Flag
 date: Sun Aug 26 2012 12:55:22 GMT-0600 (MDT)
 redirect_from: /post/30257181644/
@@ -43,4 +42,3 @@ The vulnerabilities that I exploited during the competition were:
 I’m now a much more security-aware coder, and I’ll develop more secure web code in the future. Thank you Stripe! And, I get a T-shirt! :D.
 
 I’ll write up my solutions after next Wednesday, when the competition ends.
-

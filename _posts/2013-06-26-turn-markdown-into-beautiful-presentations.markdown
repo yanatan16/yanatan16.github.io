@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: Turn markdown into beautiful presentations
 date: Wed Jun 26 2013 19:25:00 GMT-0600 (MDT)
 redirect_from: /post/53976752448/
@@ -33,4 +32,3 @@ For example, here’s a couple README’s that are now presentations:
 -   <http://revealme.herokuapp.com/yanatan16/itertools>
 
 Update: Revealme now supports gist-based files, a horizontal-only option, and github flavored markdown.
-

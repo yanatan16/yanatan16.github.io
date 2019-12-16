@@ -1,12 +1,11 @@
-{% assign first_post = site.posts | first %}
 <div class="post-preview">
-  <a class="preview-title-link" href="{{ first_post.url | prepend: site.baseurl }}">
-    <h1 class="post-title">{{ first_post.title }}</h1>
+  <a class="preview-title-link" href="{{ post1.url | prepend: site.baseurl }}">
+    <h1 class="post-title">{{ post1.title }}</h1>
   </a>
-  <p class="post-meta">{{ first_post.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if first_post.meta %} • {{ page.meta }}{% endif %}</p>
-  <div class="preview-content">{{ first_post.content | split:"<!--break-->" | first }}</div>
+  <p class="post-meta">{{ post1.date | date: "%b %-d, %Y" }} under {{ post1.categories[0] }}</p>
+  <div class="preview-content">{{ post1.content | split:"<!--break-->" | first }}</div>
 
-  {% if first_post.content contains "<!--break-->" %}
-    <a class="preview-more-link" href="{{ first_post.url | prepend: site.baseurl }}#break">(full-post)</a>
+  {% if post1.content contains "<!--break-->" %}
+    <a class="preview-more-link" href="{{ post1.url | prepend: site.baseurl }}#break">(full-post)</a>
   {% endif %}
 </div>

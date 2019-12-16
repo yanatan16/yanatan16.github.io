@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: misc
+categories: index
 title: Taking a Leap
 date: Fri Jul 20 2012 14:47:00 GMT-0600 (MDT)
 redirect_from: /post/27648295976/
@@ -28,4 +27,3 @@ I have been very interested in moving my career this way for a while. I built my
 I’m looking forward to learning a lot in the next few years and bringing myself up to speed on web application development so I can be as good at that as I have been at embedded signal processing.
 
 P.S. I get to take a boat to work now :)
-

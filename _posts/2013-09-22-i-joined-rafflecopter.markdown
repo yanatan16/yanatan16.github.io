@@ -1,6 +1,5 @@
 ---
 layout: post
-section: index
 categories: misc
 title: I joined Rafflecopter
 date: Sun Sep 22 2013 13:47:39 GMT-0600 (MDT)
@@ -16,4 +15,3 @@ tags: me, job, rafflecopter
 
 
 A couple weeks ago, I joined [Rafflecopter](http://rafflecopter.com) to help them build and scale a soon-to-be announced offering to connect brands and influencers.
-

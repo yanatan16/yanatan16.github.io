@@ -1,0 +1,13 @@
+---
+layout: default
+---
+{% assign category = page.category %}
+{% assign posts = site.categories[category] %}
+{% assign post1 = posts | first %}
+<div class="{{ category }}">
+
+  {% include preview.html post1=post1 %}
+
+  {% assign posts_rest = posts | slice:1,1000 %}
+  {% include post-list.html posts_rest=posts_rest %}
+</div>

@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: pycodejam - A CodeJam solution runner for python
 date: Sat Dec 22 2012 13:08:08 GMT-0700 (MST)
 redirect_from: /post/38565060255/
@@ -38,4 +37,3 @@ Suppose the problem was to take 3 lines of integers, element-summing the first t
 The pycodejam parsers know how to interpret basic code jam input files. The simple parsers provided in the `codejam.parsers` module likes `ints`, `floats`, `words`, and `lines` assume there are a constant number of lines per case input. Once they figure that out, its a simple matter to interpret each line as an array of integers (as the `ints` parser does). For more complicated input files, such as those with variable lines per case, there’s a nice decorator called `custom_iter_parser` located in the [parsers](https://github.com/yanatan16/pycodejam/blob/master/codejam/parsers.py) module.
 
 `pycodejam` is available on pypi and can be installed with `pip`. Checkout the [github repository](https://github.com/yanatan16/pycodejam) for more details. I’ll be adding some api documentation shortly.
-

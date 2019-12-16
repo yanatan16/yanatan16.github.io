@@ -1,9 +1,8 @@
 ---
 layout: post
-section: index
+categories: programming
 title: Providing DevOps Modernization Services
 date: 2015-11-12 13:00:00
-categories: infrastructure devops
 ---
 
 TLDR: I'm now offering specific DevOps Modernization Services. If you or your company are interested, check out some of the [services I offer](http://joneisen.works/devops/) and [contact me](mailto:jon@joneisen.works).

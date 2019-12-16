@@ -1,9 +1,8 @@
 ---
 title: "Microservices: Documenting Inter-Service APIs"
 layout: post
-section: index
+categories: programming
 date: 2016-03-07 18:00:00
-categories: architecture
 ---
 
 _This is the second in a series on the perils of microservices. Check out [Microservices: The Version Problem](/2016/02/03/microservice-version-problem.html) too._

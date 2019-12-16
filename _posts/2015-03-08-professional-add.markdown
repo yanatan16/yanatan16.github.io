@@ -1,9 +1,8 @@
 ---
 layout: post
-section: index
+categories: programming
 title:  Professional ADD
 date:   2015-03-08 08:03:00
-categories: philosophy
 ---
 
 > "What do you want to do when you grow up?"

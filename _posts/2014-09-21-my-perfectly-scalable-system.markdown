@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development architecture philosophy
+categories: programming
 date: Sun Sep 21 2014 11:27:23 GMT-0600 (MDT)
 title: My perfectly scalable system
 redirect_from: /post/98069470756/
@@ -48,4 +47,3 @@ Everyone talks about this one but its really really true. Test your code from un
 I have a theory of developers. If its easy, they’ll do it. If its hard, the won’t. And while that theory probably isn’t groundbreaking, its my philosophy when developing tools for developers. So when I make a deployment system, I make it easy to use. Either chat-based or CLI-based or web-based, it doesn’t really matter. All that matters is that I should be able to push a change and deploy it in a matter of minutes without thinking about the process. One must of course think about monitoring post-deploy, but the act of deploying should be a red-button “one-click and go” kind of thing. This also implies reliable deployments, so they shouldn’t fail a lot. If they do, go back to the drawing board. If you have easy and reliable deployments, new developers and old will never feel uncomfortable once learned. You will also deploy faster, which is always good to notice errors faster and fix faster, etc.
 
 And thats the core of my dream system. I am always striving to improve the systems I work on to get there.
-

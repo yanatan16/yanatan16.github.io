@@ -1,7 +1,7 @@
 <header class="site-header">
 
   <div class="wrapper">
-  	{% include hire-me.html %}
+    {% comment %}{% include hire-me.html %} {% endcomment %}
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
@@ -9,7 +9,7 @@
       <div class="trigger">
         {% assign links = site.pages | sort: "order" %}
         {% for link in links %}
-          {% if link.title %}
+          {% if link.title and link.hide != true %}
             {% assign link_text = link.title | downcase | replace:' ','-' %}
             {% if link.title == page.title %}
               <a class="page-link selected">({{link_text}})</a>

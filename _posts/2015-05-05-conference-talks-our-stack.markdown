@@ -1,9 +1,8 @@
 ---
 layout: post
-section: index
+categories: programming
 title:  "I don't like talks about your stack"
 date:   2015-05-05 23:00:00
-categories: devops
 ---
 
 I don't like talks about your stack. I don't care for you to describe to tens (hundreds?) of people what you put into production and why its good. I'll tell you why.

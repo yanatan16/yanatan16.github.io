@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: A Sublime Text 2 Bash Completion Script
 date: Wed Apr 10 2013 07:25:00 GMT-0600 (MDT)
 redirect_from: /post/47618192514/
@@ -43,4 +42,3 @@ Suppose I put this in a file called `subl` on my \$PATH. Then I can type `subl m
 Now I can type `subl myp[tab]` and it will autocomplete for me!
 
 By the way, Under Armour is looking for a [Front-end architect](https://career8.successfactors.com/career?career_ns=job_listing&company=ua&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=5042&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=K%2fpaKqgxk88QlOgkVTaL8KN9ISA%3d) and [DBA](https://career8.successfactors.com/career?career_ns=job_listing&company=ua&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=5022&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=K%2fpaKqgxk88QlOgkVTaL8KN9ISA%3d). If you’d like to be a part of one of the coolest workplaces in Baltimore, check it out.
-

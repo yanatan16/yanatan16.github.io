@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: Rewriting haskell-spsa to be monadic
 date: Wed Jan 22 2014 09:28:21 GMT-0700 (MST)
 redirect_from: /post/74179055408/
@@ -42,4 +41,3 @@ We can see in that piece of code that the core optimization functions are more e
 Finally, we have the exported `StateSPSA` runner, which runs the SPSA instance with a given guess and returns the final guess.
 
 For more details, check out the [github](https://github.com/yanatan16/haskell-spsa) and the [examples](https://github.com/yanatan16/haskell-spsa/tree/master/example), or download it from [hackage](http://hackage.haskell.org/package/spsa) and start hacking!
-

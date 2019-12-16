@@ -6,7 +6,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta post-meta-left">
-      {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+      {{ page.date | date: "%b %-d, %Y" }} under {{ page.categories[0] }}
     </p>
 
     {% if page.crossposted %}
@@ -22,8 +22,7 @@ layout: default
   </article>
 
   <div class="post-footer">
-      <p>Send comments to <a href="https://twitter.com/{{site.twitter_username}}" target="_blank">@{{site.twitter_username}}</a>.
-      You can follow my work via <a href="https://twitter.com/{{site.twitter_username}}" target="_blank">Twitter</a> or <a href="/feed.xml" target="_blank">RSS</a>.</p>
+      <p>Send comments to <a href="mailto:jon@joneisen.works" target="_blank">jon@joneisen.works</a>.
   </div>
 
 </div>

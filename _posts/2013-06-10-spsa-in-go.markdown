@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: SPSA in Go
 date: Mon Jun 10 2013 19:33:16 GMT-0600 (MDT)
 redirect_from: /post/52672521368/
@@ -36,4 +35,3 @@ Here’s some example code that uses it from the docs.
       Delta: Bernoulli{1},
     }
     theta := spsa.Run(1000)
-

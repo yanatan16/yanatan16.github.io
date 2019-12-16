@@ -1,7 +1,7 @@
 ---
 title: "Race Report: Moab Trail Marathon"
 layout: post
-section: misc
+categories: running
 date: 2016-11-07 12:00:00
 ---
 

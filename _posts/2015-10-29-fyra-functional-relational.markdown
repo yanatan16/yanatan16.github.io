@@ -1,9 +1,8 @@
 ---
 layout: post
-section: index
+categories: programming
 title:  fyra and Functional Relational Programming
 date:   2015-10-29 12:00:00
-categories: tech
 ---
 
 Introducing my latest OSS side project, [fyra](https://github.com/yanatan16/fyra), an experimental implementation of Functional Relational Programming, as described in the paper _[Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf)_.

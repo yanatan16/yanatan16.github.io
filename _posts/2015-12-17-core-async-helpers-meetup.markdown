@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: clojure
+categories: programming
 title: Core.async Helpers
 ---
 

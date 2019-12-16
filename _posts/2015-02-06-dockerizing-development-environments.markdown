@@ -1,9 +1,8 @@
 ---
 layout: post
-section: index
+categories: programming
 date: Fri Feb 06 2015 12:04:42 GMT-0700 (MST)
 title: Dockerizing Development Environments
-categories: development rafflecopter
 redirect_from: /post/110268202956/
 
 # Old tumblr stuff
@@ -16,4 +15,3 @@ tags: docker, development-environment
 
 
 I just wrote about dockerizing development environments at [make.rafflecopter.com](http://make.rafflecopter.com/dockerizing-development-environments.html). Go check it out.
-

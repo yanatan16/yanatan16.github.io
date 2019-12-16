@@ -1,9 +1,8 @@
 ---
 layout: post
-section: index
+categories: programming
 title:  'The Dream of DevOps'
 date:   2015-05-04 01:30:00
-categories: devops
 ---
 
 The word "DevOps" has a lot of different meanings. Some people mean automating traditional operations tasks like server configuration. Some people mean writing some bash scripts. Some people are just talking about the _culture_ of DevOps, which usually encompasses developers and operations people working together.

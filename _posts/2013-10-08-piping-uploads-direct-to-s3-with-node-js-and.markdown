@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: Piping uploads direct to S3 with node.js and express
 date: Tue Oct 08 2013 08:57:00 GMT-0600 (MDT)
 redirect_from: /post/63468698622/
@@ -47,4 +46,3 @@ to S3!
 
 Note: cross-blogged at
 [make.rafflecopter.com](http://make.rafflecopter.com/pipe-uploads-to-s3.html)
-

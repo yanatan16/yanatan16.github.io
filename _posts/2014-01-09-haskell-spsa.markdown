@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: Haskell SPSA
 date: Thu Jan 09 2014 20:05:51 GMT-0700 (MST)
 redirect_from: /post/72830370364/
@@ -34,4 +33,3 @@ Here, the meat of the package lies in this one function. First note the definiti
 Internally, we notice the `where` clause, where `constrainF` and `lossF` are just extracting parameters from the record syntax defined above. `opt` is a function defined locally within the `optimize`'s function scope which performs a single round of optimization. The top line of the function performs a `foldl` (also called a reduction or `reduce` in other languages) which accumulates a single value from a list, in this case a zip of three lists, the `ak`, `ck`, and `delta` (perturbation vector). The fold will take an input of the original estimated answer `t0` and output the final estimated answer (`tN` if you will). The actual definition of `opt` is taken almost directly from [golang-spsa](https://github.com/yanatan16/golang-spsa), so thats not too interesting in a haskell sense.
 
 I’ve written this library 3 times now. As for the speed of the library, it does run pretty fast, but I can’t make direct comparisons to the other fast libaries out there. But one thing it maintains is a mathematical simplicity that few other languages can match. The Go version didn’t maintain any of the niceness that my [python version](https://gist.github.com/yanatan16/5420795) had, but the haskell version has speed and simplicity going for it, which is great.
-

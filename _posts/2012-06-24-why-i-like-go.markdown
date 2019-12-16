@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: philosophy development
+categories: programming
 title: Why I like Go
 date: Sun Jun 24 2012 21:16:00 GMT-0600 (MDT)
 redirect_from: /post/25828323094/
@@ -54,4 +53,3 @@ A channel of errors! Never have I seen such a succinct abstraction of how errors
 Finally, Go is modern. It has maps (dicts) built-in. It handles UTF-8 natively. It is garbage collected ([Don’t worry about speed](http://shootout.alioth.debian.org/u32/which-programming-languages-are-fastest.php?calc=chart&gpp=on&java=on&go=on&hipe=on)). It comes with a webserver built-in. It handles package retrieval. It formats source files for you. It has a test framework built-in. It has iterators built-in (see the range command). It can do formatted and default-formatted output (like python).
 
 So Go is great for web servers (quick prototyping, easy concurrency), Go can be reused for command line easily, and its just fun! If you’re tempted, [try Go!](http://golang.org)
-

@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: A recommendations algorithm in one query
 date: Fri Oct 11 2013 21:41:29 GMT-0600 (MDT)
 redirect_from: /post/63791286966/
@@ -34,4 +33,3 @@ Now we want to perform a simple [collaborative filtering](http://en.wikipedia.or
 Line 1 is neo4j boilerplate for starting from a given node (our user). Line 2 is a match pattern that finds a length 3 path between `(u)` and `(p)` with the given node types, relation types and directions. Line 3 says that we shouldn’t recommend from repetitive paths, i.e. those that traverse the same relation twice. Line 4 is our return statement, saying we want to return the projects to recommend (those on the end of the path) and we want to accumulate repeated projects into a count of how many different paths to that project were found. Line 5 is a basic ordering so we get the highest score projects first.
 
 This is a very simple algorithm and many things can be done to make it more complicated, for instance adding weights or different types of relations and nodes. Happy recommending!
-

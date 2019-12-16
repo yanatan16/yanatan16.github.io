@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development architecture
+categories: programming
 title: Why startups should use whatever database they want
 date: Sun Dec 22 2013 10:48:13 GMT-0700 (MST)
 redirect_from: /post/70801899961/
@@ -33,4 +32,3 @@ SQL and scripting are two sides of the same coin. Relational databases decided t
 The datastore type you should choose should be based on the ability for people (and robots) who will use it. If you’re going to have a lot of business people who have prior experience with SQL querying your database, then you should probably go relational. If you are a node.js shop and you’re team will be doing the data science, go for Mongo or Couch.
 
 My point is one datastore is not better than the other. You will do the same amount of work on your database over time. It is easier to setup Mongo but [slightly] harder to migrate. It is easier to do simple queries but [slightly] harder to do advanced queries. Scaling is just plain hard for both types. So pick your database based on the people.
-

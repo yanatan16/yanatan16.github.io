@@ -1,13 +1,13 @@
 ---
 title: Butterflies in the Woods
 layout: post
-section: misc
+categories: running
 date: 2019-04-30 12:00:00
 ---
 
 Let's set the stage. I'm on an out-and-back section of Niwot's Challenge, a mere 4 hours into the race. Niwot's is inspired from the [Barkley Marathons](http://barkleymovie.com/), completing it requires collecting pages from books stashed deep in the woods. My sling containing my maps and two book pages was ripped off in thick scrub oak, and I've lost them.
 
----
+<!--break-->
 
 First thought: _Sherpa John_ (the Race Director) _will disqualify me for losing my maps. I'll be forced to end my day early. Well, I might as well go get pages from the books to prove I did the section._
 

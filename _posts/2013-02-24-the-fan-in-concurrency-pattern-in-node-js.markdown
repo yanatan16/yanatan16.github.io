@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: The fan-in concurrency pattern in node.js
 date: Sun Feb 24 2013 21:46:00 GMT-0700 (MST)
 redirect_from: /post/43961435963/
@@ -66,4 +65,3 @@ And here’s how one might save a (potentially long) list of mongoose models:
     }
 
 Its relatively easy to extend this model for timeouts. You may also want a version that doesn’t save the objects in case you don’t need the return values. I’m sure there are other implementations of this pattern out there, but I wasn’t able to find any. If there’s a good npm package out there with concurrency patterns already implemented, I’d like to hear about it. Rob Pike talks about this pattern in [this video](http://blog.golang.org/2012/07/go-videos-from-google-io-2012.html) about Go from Google I/O 2012.
-

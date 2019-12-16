@@ -1,9 +1,8 @@
 ---
 layout: post
-section: misc
+categories: sports
 title:  "Film Review: Alcorn State at Georgia Tech Offense"
 date:   2015-09-11 22:00:00
-categories: georgia-tech
 ---
 
 I'm starting a little experiment this year where I as an amateur fan of college football watch my favorite team (Georgia Tech) and review its performance. I'll be trying to take a single play-by-play approach, combined a bit with some analytics, although a single game is a relatively small sample size.

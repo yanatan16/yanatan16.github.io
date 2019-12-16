@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: philosophy development
+categories: programming
 title: Orchestral Composition and Software Development
 date: Thu Jun 14 2012 12:27:31 GMT-0600 (MDT)
 redirect_from: /post/25102536639/

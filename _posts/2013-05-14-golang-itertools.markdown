@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: Golang Itertools
 date: Tue May 14 2013 08:02:01 GMT-0600 (MDT)
 redirect_from: /post/50419771247/
@@ -58,4 +57,3 @@ Here’s a few examples of what you can do:
         return od[str.(string)]
       }, New(od.Order...))
     }
-

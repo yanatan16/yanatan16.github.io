@@ -1,8 +1,7 @@
 ---
 layout: post
-section: index
+categories: programming
 title: A Guide to Native PostgreSQL Foreign Data Wrappers
-categories: tech
 date: 2015-11-20 23:00:00
 ---
 

@@ -1,9 +1,8 @@
 ---
 layout: post
-section: index
+categories: programming
 title:  Freelancing
 date:   2015-10-22 14:00:00
-categories: misc
 ---
 
 TLDR: I've become a freelancer. Check out my resume site at [joneisen.works](http://joneisen.works).

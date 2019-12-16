@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: A Makefile for Go Projects
 date: Wed Jun 20 2012 08:04:49 GMT-0600 (MDT)
 redirect_from: /post/25503842796/
@@ -24,4 +23,3 @@ I created the Makefile.golang file in this [gist](https://gist.github.com/295112
 `make` will format (with gofmt), install dependencies, and build all the packages listed in the Makefile. `make test` will run tests for all packages. `make install` and `make clean` work as expected as well.
 
 To use, simply make sure you have GNU make and Go1 installed. Put it in your top level package under the GOPATH. Configure the package lists to all your packages you’d like to build, and whalah!
-

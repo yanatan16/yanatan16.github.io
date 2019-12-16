@@ -1,8 +1,7 @@
-{% assign posts = site.posts %}
 <ul class="post-list">
-  {% for post in posts limit:9 offset:1 %}
+  {% for post in posts_rest %}
     <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} under {{ post.categories[0] }}</span>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </li>
   {% endfor %}

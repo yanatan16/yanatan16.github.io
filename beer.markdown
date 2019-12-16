@@ -2,7 +2,7 @@
 layout: page
 title: Beer
 permalink: /beer/
-order: 3
+hide: true
 ---
 
 {% assign beer_data = site.data.beer %}

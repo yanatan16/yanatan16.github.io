@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code
+categories: programming
 title: Creating a content lock in MongoDB
 date: Mon Oct 08 2012 15:28:00 GMT-0600 (MDT)
 redirect_from: /post/33185206905/
@@ -50,4 +49,3 @@ Then, once your done modifying the object, release the lock and update the versi
     }
 
 This allows you to have multiple agents modifying and reading the same complex object and using a lock stored in MongoDB.
-

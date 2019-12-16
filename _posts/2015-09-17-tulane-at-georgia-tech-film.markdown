@@ -1,9 +1,8 @@
 ---
 layout: post
-section: misc
+categories: sports
 title:  "Film Review: Tulane at Georgia Tech"
 date:   2015-09-17 12:00:00
-categories: georgia-tech
 ---
 
 OK. [FCS Opponent Alcorn State](/georgia-tech/2015/09/11/alcorn-state-at-georgia-tech-film-offense.html) down. Next man up: Tulane. Last year, Tulane and GT had a close game. Tulane took an early lead but was shut out in the second half for a 38-21 Tech win. The rematch this year? Not so much. Tech rolled to a 65-10 victory, scoring 60 for the second week in a row, and setting a modern day scoring record as well. Let's see how it happened.

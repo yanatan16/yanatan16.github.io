@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: philosophy
+categories: programming
 date: Wed Jul 23 2014 15:03:00 GMT-0600 (MDT)
 title: Simplicity of Form and Function
 redirect_from: /post/92663247801/
@@ -30,4 +29,3 @@ In creating a complex system, there are many parts, some of which may be simple 
 These two paradigms lie on two ends of a simplicity spectrum. I don’t know which simplicity is better absolutely. I prefer simplicity of function because that is how we build abstractions up. But simplicity of form creates beautiful concepts.
 
 Thanks to [JR](http://twitter.com/runningskull) for stimulating arguments and help editing on this post.
-

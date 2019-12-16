@@ -1,9 +1,8 @@
 ---
 title: "Microservices: The Version Problem"
 layout: post
-section: index
+categories: programming
 date: 2016-02-03 12:00:00
-categories: architecture
 ---
 
 Microservices provide a great way to for organizations to create large complex systems easier. They make it easier to grok code. They force the developers to create composable, yet de-coupled parts of a system. They allow more developers to work on a large system with less communication overhead.

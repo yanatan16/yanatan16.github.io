@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development code pebble
+categories: programming
 title: Pebble Discs - deconstructed
 date: Sat Feb 08 2014 08:58:00 GMT-0700 (MST)
 redirect_from: /post/76005641249/
@@ -39,4 +38,3 @@ Here we draw the face disc (center is similar) and hour disc (minute is similar)
 
 Boom. We’ve got a beautiful minimalistic watchface.. Everything else is boilerplate. Check out the [full code](https://github.com/yanatan16/pebble-discs/blob/master/src/pebble-discs.c)
 and go make [your own watchface](http://developer.getpebble.com).
-

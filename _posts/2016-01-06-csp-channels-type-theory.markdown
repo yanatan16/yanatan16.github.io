@@ -1,9 +1,8 @@
 ---
 title: CSP Channels in Type Theory
 layout: post
-section: index
+categories: programming
 date: 2016-01-06 12:00:00
-categories: type-theory csp
 ---
 
 [Communicating Sequential Processes][csp] (CSP) has become a [popular][go-concurrency] [solution][core-async] for simplifying concurrent programming. In its modern implementations, it is the communication of [green threads][green-threads] via channels, a uni-directional, possibly-bufferred, closeable queue of data.

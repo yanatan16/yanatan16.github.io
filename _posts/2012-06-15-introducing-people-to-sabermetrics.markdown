@@ -1,6 +1,5 @@
 ---
 layout: post
-section: index
 categories: baseball
 title: Introducing People to Sabermetrics
 date: Fri Jun 15 2012 22:55:00 GMT-0600 (MDT)
@@ -76,4 +75,3 @@ Once someone understand what Batting Average is, and what it is not,
 they can start to think about the game in a new light. Hopefully,
 they’ll dig deeper, but maybe not. At least, they’ll know not to say
 “He’s not even hitting .300” anymore.
-

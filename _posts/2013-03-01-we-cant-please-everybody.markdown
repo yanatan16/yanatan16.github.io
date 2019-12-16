@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: philosophy
+categories: programming
 title: We can't please everybody
 date: Fri Mar 01 2013 20:55:03 GMT-0700 (MST)
 redirect_from: /post/44344332207/
@@ -46,4 +45,3 @@ While I do agree with this sentiment, software should be easy to use, not hard; 
     change it with an environment variable, or just hit `q` to quit.
 
 These are all choices made for the greater good, but some of which do not benefit the more experienced users. Sometimes we’re frustrated by those choices, but we must understand them, and work around them, like `heroku fucking:console`.
-

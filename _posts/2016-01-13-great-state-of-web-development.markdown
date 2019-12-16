@@ -1,6 +1,6 @@
 ---
 layout: post
-section: index
+categories: programming
 title: The Great State of Web Development
 date: 2016-01-13 12:00:00
 ---

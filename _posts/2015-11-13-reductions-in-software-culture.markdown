@@ -1,8 +1,7 @@
 ---
 layout: post
-section: index
+categories: programming
 date: 2015-11-13 00:00:00
-categories: philosophy tech
 title: Reductions in Software and Startup Culture
 ---
 

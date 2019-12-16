@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development devops
+categories: programming
 title: Making Clean and Reusable Salt States
 date: Tue Jun 10 2014 16:30:00 GMT-0600 (MDT)
 redirect_from: /post/88414528746/
@@ -56,4 +55,3 @@ Use everything I’ve said together to *program* saltstates using configuration 
 
 Theres so much more you can build on top of a system like this. It will save you code *and sanity*. You can create tens or hundreds of apps that are only differentiated by small configurations. You can deploy different revisions to different servers whenever you want. Good luck
 building a generic saltstack app deployment system of your own!
-

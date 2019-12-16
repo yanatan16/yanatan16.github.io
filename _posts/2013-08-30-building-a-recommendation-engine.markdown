@@ -1,7 +1,6 @@
 ---
 layout: post
-section: index
-categories: development
+categories: programming
 title: Building a Recommendation Engine
 date: Fri Aug 30 2013 08:45:09 GMT-0600 (MDT)
 redirect_from: /post/59775425253/
@@ -33,4 +32,3 @@ Finally, we needed an algorithm to use. I browsed google scholar and IEEE Xplore
 Basically, given that a user has purchased/rated/viewed/etc two items, those two items are related somewhat, so increment a relatedness value. Go through all your users’ interactions and do this. Then you’ll have a matrix of the affinity between products. Then use one of a few methods to boil that down to a matrix of similarity values (dot product, cosine, Pearson correlation, etc). Once you have that, you can export a list of similar products to a database on a per-product basis. Once you have an ordered list of similar products for each product, you can easily create item-based recommendations in your application runtime.
 
 Thats the basic anatomy of a Recommendations Engine. In a follow-up post, I’ll go over how I built the internal components and do a side-post on programming with disco.
-
