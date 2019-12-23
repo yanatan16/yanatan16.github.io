@@ -6,6 +6,6 @@
   <div class="preview-content">{{ post1.content | split:"<!--break-->" | first }}</div>
 
   {% if post1.content contains "<!--break-->" %}
-    <a class="preview-more-link" href="{{ post1.url | prepend: site.baseurl }}#break">(full-post)</a>
+    <a class="preview-more-link" href="{{ post1.url | prepend: site.baseurl }}#break">full-post</a>
   {% endif %}
 </div>

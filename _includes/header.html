@@ -3,7 +3,7 @@
   <div class="wrapper">
     {% comment %}{% include hire-me.html %} {% endcomment %}
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a id="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
       <div class="trigger">
@@ -12,9 +12,9 @@
           {% if link.title and link.hide != true %}
             {% assign link_text = link.title | downcase | replace:' ','-' %}
             {% if link.title == page.title %}
-              <a class="page-link selected">({{link_text}})</a>
+              <a class="page-link selected">{{link_text}}</a>
             {% else %}
-              <a class="page-link {% if page.section and page.section == link.section %}selected{% endif %}" href="{{ link.url | prepend: site.baseurl }}">({{link_text}})</a>
+              <a class="page-link {% if page.section and page.section == link.section %}selected{% endif %}" href="{{ link.url | prepend: site.baseurl }}">{{link_text}}</a>
             {% endif %}
           {% endif %}
         {% endfor %}

@@ -5,7 +5,6 @@ description: >
   The cogitation of a know-it-all code typist.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://joneisen.me" # the base hostname & protocol for your site
-twitter_username: jm_eisen
 github_username:  yanatan16
 
 # Build settings

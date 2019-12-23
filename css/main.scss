@@ -6,17 +6,21 @@
 
 
 // Our variables
-$base-font-family: 'Anonymous Pro', 'Courier New', monospace;
+$base-font-family: 'Open Sans', sans-serif;
+$mono-font-family: 'Anonymous Pro', monospace;
 $base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
 $tiny-font-size:  $base-font-size * 0.75;
 $base-line-height: 1.5;
 
+$font-weight: 400;
+$bold-font-weight: 700;
+
 $spacing-unit:     30px;
 
 $text-color:       #000102;
 $background-color: #fff;
-$brand-color:      darken(#597fa5, 10%);
+$brand-color:      darken(#fcba03, 10%);
 
 $grey-color:       #597fa5;
 $grey-color-light: lighten($grey-color, 40%);
