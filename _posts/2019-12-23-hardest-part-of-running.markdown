@@ -29,3 +29,11 @@ My therapist tells me to be nicer to myself. Perhaps that would stop the spiral 
 The only way to break the cycle is to actually get out and run. To feel the agility of trail, the speed of pavement, the heavy breathing of uphill, the exhileration of downhill, the beauty of the forest, the discovery of adventure.
 
 Sometimes, I just have to force myself because I know its good for me.
+
+**Update 1/2/2020:**
+
+From Christmas to New Year's Eve, I challenged myself to run 100 miles in 7 days. A lot of runners run 100 miles per week normally. This is not me. I have never had a training week over 75 miles... ever. And, when I'm tired, I average 11 minute miles. So 100 miles would take at least 1,000 minutes, or 16+ hours. Add in that I can't really just run flat because I'm a mountain lover and you've got 20+ hours of running to get this done.
+
+It was hard to motivate to get out the door every day. But I was able to get it done. Being off work helped, but to get out and run 3 hours every day was really hard. I ran a lot of "junk" miles on my usual 10K loop around the house. I also went on two really fun long runs up in the Boulder skyline trails.
+
+This challenge hit me exactly where I weak, motivation to just get out. This is how I continue to challenge myself to be better. I got it done, and it feels good.
