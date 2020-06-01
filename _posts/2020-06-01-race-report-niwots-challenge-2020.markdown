@@ -13,7 +13,7 @@ Unfamiliar with Niwot's Challenge? [Check it out](https://humanpotentialrunning.
 
 This is a detailed report. I might write a short story at some point about community at Niwots.
 
-Niwots was originally scheduled for April, but due to COVID restrictions, it was postponed until after the Stay At Home orders expired in Colorado. This gave everyone extra time to train on the course in good (non-snowy) conditions. Most participants took advantage of the time, and I'd say this group had the most combined course knowledge of any niwots.
+Niwots was originally scheduled for April, but due to COVID restrictions, it was postponed until after the Stay At Home orders expired in Colorado. This gave everyone extra time to train on the course in good (non-snowy) conditions. Most participants took advantage of the time, and I'd say this group had the most combined course knowledge of any running of Niwots.
 
 ### Prep
 
@@ -40,6 +40,8 @@ And then, at 6AM, Sherpa lit his pipe, and we were off onto Suffer.
 Suffer is a very difficult 12 miles with 8000 feet of vertical and the worst terrain on the whole course. It's a slog. The fastest time I've ever heard anyone do it in is 6.5 hours. My goal was under 8 hours.
 
 I knew I had to run all night (at least) so I didn't want to blow up early. After rushing up the first tiny 50 foot hill, I realized I was going too fast and immediately pulled up to wait for Joe. Marvin and Wes Sandoval, the elite runners and mountain bikers from Leadville shot past me at a good pace. John Clarke followed them. When Joe caught me, I started again, this time at a mellower but determined pace. We caught John halfway up fighting with some scrub oak.
+
+It was already getting hot at 7am. It stayed hot all day.
 
 I ended up in front of a line of 10ish people: John, Joe, a bunch of virgins and the race director Sherpa. I started picking the best line up the mountain. I had been up here only twice prior but the line was ingrained in my brain. Our ascent took only 55 minutes, which Sherpa remarked was the fastest he'd ever climbed it.
 
@@ -107,12 +109,16 @@ The wall was steep, as per usual. But the ever changing light of sunrise to the 
 
 We carefully descended back to the maintained trail and ran down past the creek and waterfall to the correct drainage turn. Marvin and I co-led this drainage climb as I wasn't very familiar with the best line. We ended up being a little far left and high. Marvin thought we were already up on the ridge. I was too tired to point out his error. Luckily, John wasn't and told us we were still below the ridge. We corrected and got back to hiking up. Then, I recognized the area, seeing the clearing we were supposed to be in below us. I noted that our target saddle was at our 2 o'clock. We hiked up to it without much trouble. We hit the book around 7 am, 25 hours into the race.
 
+It was starting to get hot again, so I took off my heavy cotton pants and tied them around my waist. I should have just worn shorts all night anyway.
+
 We easily navigated up the ridge, across the power lines, onto the jeep track, onto the maintained road, over the ridges to the final high point and final book on the course at 8:30am. At this point, all the navigational challenges are done and theres only 5ish miles of downhill maintained trail left. With 3.5 hours to spare, we knew we were going to finish. Marvin and Wes were excited but tired. Wes had a blister on his heel the size of a quarter that popped and felt better. John was tired and wanted to drop back from the group. I kept pushing him to keep running. Joe was heat exhausted, tired, sleep deprived, and had a blister on his entire foot; but he found the pain cave and ran down that fucking trail. I felt generally fine. My feet were swollen and I had to loosen my shoelace, but otherwise, it was normal end of ultra stuff. We jogged down the trail and got to the bottom. John ran most of it with us, but dropped near the end. Four of us ran into camp together at 9:15, 27:15 into the race. John came in 10 minutes later.
 
 {% include image.html description="Sunrise from the wall." url="/img/niwots-2020/last book.jpg" %}
 
 
 ### Thoughts
+
+Other than our group of five, only 4 time finisher and deity starter Brandt Ketterer finished. I'm proud I got this done on what ended up being a hot and overgrown course.
 
 #### Navigation
 
