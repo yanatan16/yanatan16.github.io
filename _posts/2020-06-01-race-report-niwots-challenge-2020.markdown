@@ -1,5 +1,5 @@
 ---
-title: Race Report: Niwot's Challenge
+title: Race Report Niwot's Challenge
 layout: post
 categories: running
 date: 2020-06-01 14:00:00
@@ -10,6 +10,8 @@ On May 30, 2020, I set out to complete Niwot's Challenge for the second time. I 
 <!--break-->
 
 Unfamiliar with Niwot's Challenge? [Check it out](https://humanpotentialrunning.com/niwots-challenge/). [A race story on my previous completion](http://joneisen.me/running/2019/04/30/niwots-challenge-race-report.html).
+
+This is a detailed report. I might write a short story at some point about community at Niwots.
 
 Niwots was originally scheduled for April, but due to COVID restrictions, it was postponed until after the Stay At Home orders expired in Colorado. This gave everyone extra time to train on the course in good (non-snowy) conditions. Most participants took advantage of the time, and I'd say this group had the most combined course knowledge of any niwots.
 
@@ -111,6 +113,10 @@ We easily navigated up the ridge, across the power lines, onto the jeep track, o
 
 
 ### Thoughts
+
+#### Navigation
+
+My navigation was very accurate most of the day. When I got tired in the dark, I made mistakes, probably about an hours worth. If I hadn't been with a group, I probably would have made another hours worth of mistakes elsewhere. Overall, very good but could be better.
 
 #### Group
 
