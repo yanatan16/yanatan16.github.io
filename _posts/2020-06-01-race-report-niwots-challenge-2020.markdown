@@ -1,5 +1,5 @@
 ---
-title: Race Report Niwot's Challenge
+title: "Race Report: 2020 Niwot's Challenge"
 layout: post
 categories: running
 date: 2020-06-01 14:00:00
