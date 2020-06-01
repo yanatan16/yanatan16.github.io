@@ -105,7 +105,7 @@ We ran down to the next creek without issue. I had a brief scare with the fisher
 
 The wall was steep, as per usual. But the ever changing light of sunrise to the east made it magical to behold. It took us about 45 minutes to complete the ascent up the 1600 foot wall. Marvin led us over the false summit and onto the book. We put away our headlamps, happy to have the light of day back.
 
-{% include image.html description="Sunrise from the wall." url="/img/niwots-2020/sunrise.jpg" %}
+{% include image.html description="Sunrise from the wall." url="/img/niwots-2020/sunrise.jpeg" %}
 
 We carefully descended back to the maintained trail and ran down past the creek and waterfall to the correct drainage turn. Marvin and I co-led this drainage climb as I wasn't very familiar with the best line. We ended up being a little far left and high. Marvin thought we were already up on the ridge. I was too tired to point out his error. Luckily, John wasn't and told us we were still below the ridge. We corrected and got back to hiking up. Then, I recognized the area, seeing the clearing we were supposed to be in below us. I noted that our target saddle was at our 2 o'clock. We hiked up to it without much trouble. We hit the book around 7 am, 25 hours into the race.
 
@@ -113,7 +113,7 @@ It was starting to get hot again, so I took off my heavy cotton pants and tied t
 
 We easily navigated up the ridge, across the power lines, onto the jeep track, onto the maintained road, over the ridges to the final high point and final book on the course at 8:30am. At this point, all the navigational challenges are done and theres only 5ish miles of downhill maintained trail left. With 3.5 hours to spare, we knew we were going to finish. Marvin and Wes were excited but tired. Wes had a blister on his heel the size of a quarter that popped and felt better. John was tired and wanted to drop back from the group. I kept pushing him to keep running. Joe was heat exhausted, tired, sleep deprived, and had a blister on his entire foot; but he found the pain cave and ran down that fucking trail. I felt generally fine. My feet were swollen and I had to loosen my shoelace, but otherwise, it was normal end of ultra stuff. We jogged down the trail and got to the bottom. John ran most of it with us, but dropped near the end. Four of us ran into camp together at 9:15, 27:15 into the race. John came in 10 minutes later.
 
-{% include image.html description="Sunrise from the wall." url="/img/niwots-2020/last book.jpg" %}
+{% include image.html description="Sunrise from the wall." url="/img/niwots-2020/last book.jpeg" %}
 
 
 ### Thoughts
@@ -154,7 +154,7 @@ Overall, this completion was not nearly as emotional as the first time. Last yea
 
 I'll leave you with some pics I took while training on the course.
 
-{% include image.html description="Sunrise from the wall." url="/img/niwots-2020/training 1.jpg" %}
-{% include image.html description="Sunrise from the wall." url="/img/niwots-2020/training 2.jpg" %}
-{% include image.html description="Sunrise from the wall." url="/img/niwots-2020/training 3.jpg" %}
-{% include image.html description="Sunrise from the wall." url="/img/niwots-2020/training 4.jpg" %}
+{% include image.html description="Sunrise from the wall." url="/img/niwots-2020/training 1.jpeg" %}
+{% include image.html description="Sunrise from the wall." url="/img/niwots-2020/training 2.jpeg" %}
+{% include image.html description="Sunrise from the wall." url="/img/niwots-2020/training 3.jpeg" %}
+{% include image.html description="Sunrise from the wall." url="/img/niwots-2020/training 4.jpeg" %}
