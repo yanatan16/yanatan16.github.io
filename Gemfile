@@ -1,4 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'github-pages', '~> 206'
-gem "kramdown", ">= 2.3.0"
+gem 'github-pages', '~> 207'
