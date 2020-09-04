@@ -8,9 +8,9 @@ active: true
 
 _Challenge yourself to run the Boulder Skyline!_
 
-The Boulder Skyline is a classic of the Boulder area. It connects Boulder’s five highest summits connecting some of its most iconic trails. Whether you’ve never run the skyline or you’ve run it a hundred times, this challenge is for you. This challenge lasts from the Fall equinox (September 22, 2020) to the Winter solstice (December 21, 2020)
+The Boulder Skyline is a classic of the Boulder area. It connects Boulder’s five highest summits connecting some of its most iconic trails. Whether you’ve never run the skyline or you’ve run it a hundred times, this challenge is for you. The challenge is to run the most Boulder skyline traverses.
 
-Entry is cheap and goes to a good cause. I'll validate all runs and keep a leaderboard on this website. I'll also setup a Facebook page so we can share pictures and experiences with each other.
+It lasts from the Fall equinox (September 22, 2020) to the Winter solstice (December 21, 2020). Entry is cheap and goes to a good cause. I'll validate all runs and keep a leaderboard on this website. I'll also setup a Facebook page so we can share pictures and experiences with each other.
 
 I hope y'all will join me, your friends, and fellow Boulderites in pushing ourselves on one of the best local running routes.
 
