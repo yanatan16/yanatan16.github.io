@@ -1,0 +1,23 @@
+<header class="site-header">
+  <div class="wrapper">
+    <a id="site-title" href="{{ site.baseurl }}/races">{{ site.race_title }}</a>
+
+    <nav class="site-nav">
+      <div class="trigger">
+        {% assign links = site.pages | where:"race","true" | where:"active":"true" %}
+        {% for link in links %}
+        {% if link.title %}
+        {% assign link_text = link.title %}
+        {% if link.title == page.title %}
+        <a class="page-link selected">{{link.title}}</a>
+        {% else %}
+        <a class="page-link {% if page.race_name and page.race_name == link.race_name %}selected{% endif %}" href="{{ link.url | prepend: site.baseurl }}">{{link.title}}</a>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+      </div>
+    </nav>
+
+  </div>
+
+</header>

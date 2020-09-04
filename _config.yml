@@ -7,6 +7,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://joneisen.me" # the base hostname & protocol for your site
 github_username:  yanatan16
 
+# Race Stuff
+race_title: Jon Eisen's Races
+
 # Build settings
 markdown: kramdown
 kramdown:
