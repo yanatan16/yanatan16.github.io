@@ -35,6 +35,8 @@ For hikers, the Skyline will take 7-10 hours. For runners, it will take 4-6. Add
 
 Note that both Bear Peak's and Flagstaff Mountain's true summits are off-trail. For Flagstaff, it is sufficient to get to the high point of the Ute trail, where the 4-way trail intersection is, near the summit area. And for Bear, it is sufficient to reach the summit pole just shy of the scramble.
 
+**SAFETY**: The Skyline Traverse is hard. Do not underestimate how long it will take. Check the weather before you go out. Bring a rain jacket just in case. Bring enough water. Go with experienced runners/hikers if you are unsure. If you ever feel unsafe, you can exit the couse at many points by descending to the East (towards Boulder).
+
 ## Entry
 
 To enter, you must donate $10 (or more!) to the [Boulder Area Trails Coalition (BATCO)](http://www.bouldertrails.org) in support of the [Trail Around Boulder](http://www.bouldertrails.org/trail-around-boulder/).
