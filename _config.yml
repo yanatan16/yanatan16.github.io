@@ -1,6 +1,6 @@
 # Site settings
 title: Jon Eisen
-email: jon@joneisen.works
+email: jon@joneisen.me
 description: >
   Data, running, code, running, homebrewing, running, etc
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -8,7 +8,7 @@ url: "https://joneisen.me" # the base hostname & protocol for your site
 github_username:  yanatan16
 
 # Race Stuff
-race_title: Jon Eisen's Races
+race_title: Races by Cowboy
 
 # Build settings
 markdown: kramdown
