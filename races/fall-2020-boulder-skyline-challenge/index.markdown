@@ -22,7 +22,7 @@ I hope y'all will join me, your friends, and fellow Boulderites in pushing ourse
 
 ## Route
 
-The route can be run in either a Northbound or Southbound direction. You must summit the following peaks (Northbound order): South Boulder Peak, Bear Peak, Green Mountain, Flagstaff Mountain, and Mount Sanitas.
+The route can be run in either a Northbound or Southbound direction. In a single-segment run/hike, you must summit the following peaks (Northbound order): South Boulder Peak, Bear Peak, Green Mountain, Flagstaff Mountain, and Mount Sanitas.
 
 Any combination of trails that summits these 5 peaks qualifies as a Skyline Traverse. To compete on time, however, you must run the "official Fastest Known Time" route, starting and ending at South Mesa Trailhead and Mount Sanitas Trailhead. Please refer to the `fastestknowntime.com` link below for specific route information.
 
