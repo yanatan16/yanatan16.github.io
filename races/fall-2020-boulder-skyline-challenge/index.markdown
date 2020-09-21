@@ -20,6 +20,8 @@ Entry is cheap and goes to a good cause. I'll validate all runs and keep a leade
 
 I hope y'all will join me, your friends, and fellow Boulderites in pushing ourselves on one of the best local trail routes.
 
+[Submit your run/hikes here](https://docs.google.com/forms/d/e/1FAIpQLScNAN8OChr28dc17BuSRbvdxX5qxGJaP3rhUGI9MXHOqA3CFw/viewform?usp=sf_link)
+
 ## Route
 
 The route can be run in either a Northbound or Southbound direction. In a single-segment run/hike, you must summit the following peaks (Northbound order): South Boulder Peak, Bear Peak, Green Mountain, Flagstaff Mountain, and Mount Sanitas.
@@ -53,7 +55,7 @@ Results will be tracked for all competitors. We will have leaderboards for the s
 
 ## Submitting Results
 
-_Submission form will be available on September 22._
+[Submit your results](https://docs.google.com/forms/d/e/1FAIpQLScNAN8OChr28dc17BuSRbvdxX5qxGJaP3rhUGI9MXHOqA3CFw/viewform?usp=sf_link)
 
 Please submit your runs within 5 days of running them. Please record your runs/hikes on your phone or GPS watch, and upload your runs/hikes to Strava, MapMyRun, Garmin, etc, and make your runs publicly accessible. Raw GPX files will not be accepted. All submissions are subject to validation. Submissions can be emailed to [me](mailto:jon@joneisen.me?subject=Skyline Challenge) (subject: Skyline Challenge) or by using the form linked above.
 
