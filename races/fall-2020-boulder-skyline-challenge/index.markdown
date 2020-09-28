@@ -4,6 +4,7 @@ title: Fall 2020 Boulder Skyline Challenge
 race_name: Fall 2020 Boulder Skyline Challenge
 race: true
 active: true
+redirect_from: /skyline
 ---
 
 <figure class="image race-logo">
