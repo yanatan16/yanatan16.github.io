@@ -21,7 +21,11 @@ Entry is cheap and goes to a good cause. I'll validate all runs and keep a leade
 
 I hope y'all will join me, your friends, and fellow Boulderites in pushing ourselves on one of the best local trail routes.
 
-[Submit your run/hikes here](https://docs.google.com/forms/d/e/1FAIpQLScNAN8OChr28dc17BuSRbvdxX5qxGJaP3rhUGI9MXHOqA3CFw/viewform?usp=sf_link)
+[<button>Submit your run/hikes here</button>](https://docs.google.com/forms/d/e/1FAIpQLScNAN8OChr28dc17BuSRbvdxX5qxGJaP3rhUGI9MXHOqA3CFw/viewform?usp=sf_link)
+
+## Leaderboard
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQJWRnGHmvEDwVGJMmU6Z42mT3sYo3viwn4T9HPL36L87r5_g_m0E_bjOCDUpI1FpmOvFdGSzoYbswD/pubhtml?gid=826706589&amp;single=true&amp;widget=true&amp;headers=false" style="height: 400px; width: 100%;"></iframe>
 
 ## Route
 
@@ -47,12 +51,6 @@ To enter, you must donate $10 (or more!) to the [Boulder Area Trails Coalition (
 Then forward me ([jon@joneisen.me](mailto:jon@joneisen.me)) your PayPal receipt to register. Please put "Skyline Challenge" in the subject line! Also make sure the email includes your name, gender (M/F/NB), and preferred email (if different than the one you forward from).
 
 What do you get for your entry? A sticker! That's right. In addition to all the warm fuzzies you'll get from donating to help build and maintain local trails, you'll also receive a Boulder Skyline Traverse sticker designed by local artist [Anthony Cozzi](http://snowblinded.com). Sticker's will be ordered from local printer [StickerGiant](https://www.stickergiant.com). Distribution will be handled in a later email.
-
-## Leaderboard
-
-_Leaderboard link will be available on September 22._
-
-Results will be tracked for all competitors. We will have leaderboards for the skylines completed, double skylines completed, fastest FKT route runs, fastest average time (mininum 3 completions), and most time spent on the Skyline.
 
 ## Submitting Results
 
