@@ -12,7 +12,7 @@ On Saturday April 17, 2021, the 7th running of Niwot's Challenge commenced. My r
 - What is Niwot's Challenge? Niwot's Challenge (aka "Niwot's") is a footrace inspired by the [Barkley Marathons](https://en.wikipedia.org/wiki/Barkley_Marathons). Competitors must navigate an off-trail, bushwhacking, difficult, vert-intense, course using map and compass alone. See the [Official Course Website](https://humanpotentialrunning.com/niwots-challenge/).
 - How long is Niwot's Challenge? Niwot's length has changed over the years. The 2021 edition has two unique 25 mile loops ("Burn" and "Chiefs") that must be completed in under 30 hours to achieve "Chief" status. After completing the Chiefs loop, one can choose to turn around and do both loops in reverse to achieve "Diety" status.
 - When is Niwot's Challenge? On the weekend closest to 4/20. In proper Colorado form.
-- Who runs Niwot's Challenge? Sherpa John Lacroix ("Sherpa") is the race director.
+- Who directs Niwot's Challenge? Sherpa John Lacroix ("Sherpa") is the race director.
 - Where is Niwot's Challenge? Somewhere west of Denver, CO. Seriously, this is kinda a secret. I will be redacting location and trail names from this report.
 - Where can I read more?
     - [2020 Race Report in which I finished guiding others](https://joneisen.me/running/2020/06/01/race-report-niwots-challenge-2020.html)
@@ -26,7 +26,7 @@ Due to some trespassing issues with some landowners who's property we were unkno
 
 With Suffer gone, Sherpa made it his mission to convert the Burn loop, previously the "easy loop," into a 25 miles of difficult terrain. He withheld all information on the changes in his secretive emails.
 
-I joined the first group scouting mission onto the new Burn's northern section to learn that the new loop was going to be quite difficult. I went to two more book setting outings to learn the rest of the loop's southern section. I learned that in total, the new Burn loop was going to be the physically hardest 25 miles in Niwot's history. Sherpa had put together a masterpiece. Burn involves seven major climbs and descents, totalling over 11,000 feet of vertical climb, 4 miles of difficult to traverse drainages, 2+ miles of "side-hilling" (that is, walking across steep slopes), cacti, snow, deep snow, more snow, two named peaks, and heat. Initially, I theorized that the loop wouldn't be completable in perfect conditions in under 13 hours.
+I joined the first group scouting mission onto the new Burn's northern section to learn that the new loop was going to be quite difficult. I went to two more book setting outings to learn the rest of the loop's southern section. I learned that in total, the new Burn loop was going to be the physically hardest 25 miles in Niwot's history. Sherpa had put together a masterpiece. Burn involves seven major climbs and descents, totalling over 11,000 feet of vertical climb, 4 miles of difficult to traverse drainages, 2+ miles of "side-hilling" (that is, walking across steep slopes), cacti, snow, deep snow, more snow, two named peaks, and heat. Initially, I theorized that the loop wouldn't be completable in perfect conditions in under 14 hours.
 
 {% include image.html description="A Book Setting Day" url="/img/niwots-2021/booksettingday.jpeg" %}
 
@@ -38,7 +38,7 @@ In late January and Febrary, I was able to get back into training form, climbing
 
 I got out on course 7 times total, all but one on the Burn loop. I attempted two complete loops but bailed due to time on both (darn you Burn!). But, by race day, I had seen every inch of Niwot's in both directions. I was ready.
 
-{% include image.html description="Brandt fording the river" url="/img/niwots-2021/bailing.jpeg" %}
+{% include image.html description="Chief Wrong Way going the wrong way" url="/img/niwots-2021/bailing.jpeg" %}
 
 ### Pre-Race
 
@@ -52,7 +52,7 @@ Gearwise, I wasn't prepared for a wet race day. During the scouting missions, I 
 
 Also, I wasn't really sure how cold it would be up there. It could be 15 and snowing or 36 and partially sunny. Dressing for the day was difficult. I ended up bringing a bunch of layers: wool baselayer, tough waterproof layers on top of that.
 
-At 5:30 we had the drawing of lots to see which direction on Burn we'd have to run that day. I wasn't too concerned as I could navigate either and left it up to the Niwot's gods to decide. They were kind and gave me my preferred route, counter-clockwise. This meant that after book 1, I'd have to get Books 2-14 in reverse order.
+At 5:30 we had the drawing of lots to see which direction on Burn we'd have to run that day. I wasn't too concerned as I could navigate either and left it up to the Niwot's gods to decide. They were kind and gave me my preferred route, clockwise. This meant that after book 1, I'd have to get Books 2-14 in reverse order.
 
 {% include image.html description="A cool old car we found one day scouting" url="/img/niwots-2021/coololdcar.jpeg" %}
 
@@ -65,6 +65,8 @@ At 6am, Sherpa lit his Gandalf pipe and I headed off at a quick hiking pace up t
 We now entered the "Three Stooges" area of the course. We climbed up Moe for our first real climb. I was determined to not stop very much (outside of delayering of course). So at the top when everyone was consulting maps, I remembered to turn opposite the barbed wire fence and just kept on hiking and running along the ridge down to Book 13. I was slightly off hitting the lone aspen book, but found it quickly enough before anyone had caught up to me. I grabbed my page and soon a whole group showed up. We had seven of us together there. Four were just trying to stick with Brandt, John Clarke, and I. JC and Brandt and I had trained on the course many times and knew it quite well. We ate a snack and headed up Curly.
 
 Curly is pretty easy if you go all the way to the summit, which it so happens is easy not to do. I made sure we went all the way to the summit. The group took a break at the top. I didn't want to encourage slower travel so I just started desending. This is around the time that I realized I had lost my compass and brought the wrong map, so I had to rely on my intuition and memory alone. Luckily, those are my two best navigational attributes. I found the right ridge easily enough and descended directly to Book 12. The group was hot on my heels and we headed up the final stooge, Larry. Now Larry is actually a _No Fuck Up_ zone where messing up is quite difficult. We navigated up and down and up again successfully all the way to Book 11. We found the book, ate a snack and headed up the Spine to Never Never Land.
+
+<h4 align="center" style="font-style:italic">This is around the time that I realized I had lost my compass and brought the wrong map, so I had to rely on my intuition and memory alone.</h4>
 
 Never Never Land is a navigationally difficult area of the course where everything looks the same and its easy to mistake which drainage or ridge you're on. I have little tricks to navigate this area. Like knowing to look for a ridge with no descernable features. Trust me. We got across the Spine and into the Never Never Land and down to Book 10 perfectly.
 
@@ -92,9 +94,9 @@ Book 5 is an out-and-back and I saw the group just a minute after they left the 
 
 I jogged the downs and power hiked the ups as well as I could along the road and around the rocks to Book 4. I made it there while Brandt and JC were still collecting their pages. I took a moment to eat a big bite of burrito and then caught up with them. Brandt remarked on how short I was behind for. It felt longer to me.
 
-We navigated down Chair Rock Express to the bottom and dropped into the creek and stopped for water. Then we climbed up to Book 3. At this point, the group was straining. Brandt, always the consistent one, was out ahead with one of the Veal's. The other Veal was in back with JC. Nate and I kept the middle. At this point I was assessing my chances of continuing onto Chiefs. I decided to delay the decision to teh final descent to and climb out of Book 2.
+We navigated down Chair Rock Express to the bottom and dropped into the creek and stopped for water. Then we climbed up to Book 3. At this point, the group was straining. Brandt, always the consistent one, was out ahead with one of the Veal's. The other Veal was in back with JC. Nate and I kept the middle. At this point I was assessing my chances of continuing onto Chiefs. I decided to delay the decision to the final descent to and climb out of Book 2.
 
-We finished the difficult climb to Book 3, celebrated with some of the cold water we had just filled up on and continued on. This area is called New Burmuda, because of how easy it is to get lost and into the wrong drainage (hint: they're all wrong, the course is on ridges). But in the CCW direction, its actually quite easy to navigate. We found the correct ridges, the old firebreak road, and the descent to Book 2 easily. My knee was hurting for no reason on the descents. I think it was because I was trying to stay off my hurt foot. At this point I called it. I had made some critical errors and needed to be honest. I couldn't continue onto Chiefs without risking more injury. I told Brandt. At Book 2, we assessed who wanted to continue. Nate said he didn't know yet, and JC was clear he wanted to go.
+We finished the difficult climb to Book 3, celebrated with some of the cold water we had just filled up on and continued on. This area is called New Burmuda, because of how easy it is to get lost and into the wrong drainage (hint: they're all wrong, the course is on ridges). But in the CCW direction, its actually quite easy to navigate. We found the correct ridges, the old firebreak road, and the descent to Book 2 easily. My knee was hurting for no reason on the descents. I think it was because I was trying to stay off my hurt foot. At this point I called it. I had made some critical gear errors and needed to be honest. I couldn't continue onto Chiefs without risking more injury. I told Brandt. At Book 2, we assessed who wanted to continue. Nate said he didn't know yet, and JC was clear he wanted to go.
 
 So we started the final climb. Everyone was exhausted from this huge loop. Brandt made it up quickly with the Veals. I got up next and told him to go on, I'd wait for JC and Nate. Everyone got up the climb and we walked to the trail. Now just a few miles of good old groomed trail down to camp. We spread out as we all ran back.
 
@@ -102,17 +104,21 @@ The final miles of any long run are a special time. They are a mix of boredom an
 
 I declared my day was done. I breathed. My 2021 Niwots was over.
 
+<h4 align="center" style="font-style:italic">The final miles of any long run are a special time. They are a mix of boredom and elation, relief and suffering. I enjoyed these miles, as I knew my day was done.</h4>
+
 {% include image.html description="Brandt and I, looking at the iconic Book 5 (📷Nate)" url="/img/niwots-2021/hiking.jpeg" %}
 
 ### Results
 
-Brandt, JC, Nate, the Veals, and I completed Burn in 13:55. Brandt and JC headed out on Chiefs but were defeated by the cold and snow and returned to camp sometime during the night.
+Brandt, JC, Nate, and I completed CW Burn in 13:55. Brandt and JC headed out on Chiefs but were defeated by the cold and snow and returned to camp sometime during the night.
 
-Mike and Todd and a couple others completed Burn in 14:30. Mike and Todd headed out on Chiefs but were defeated similarly.
+The Veals walked in the final miles and completed CW Burn in 14:20
 
-Alan and Joe bailed on Book 9 (clockwise) due to snow. A group of four strong women bailed on book 3 (counter-clockwise) due to darkness and unfamiliarity.
+Mike and Todd and a couple others completed CCW Burn in 15:30. Mike and Todd headed out on Chiefs but were defeated similarly.
 
-Four men in the clockwise direction, including Michael and Drew completed Burn 7 minutes over the time limit in 18:07.
+Five men in the counter-clockwise direction, including Michael and Drew completed Burn 7 minutes over the time limit in 18:07.
+
+Four women bailed on the clockwise Burn just two books from completing the loop due to darkness. Everyone else bailed for various other reasons.
 
 ### Thoughts
 
@@ -120,7 +126,7 @@ When I think about Niwots, now a couple weeks removed,
 
 - I remember all the fun times I had out on the course with my friends, Alan, Joe, Brandt, JC, Nate, the Veals, Mike, Sherpa, Sam, Todd, Bob, and many more.
 - I think of how fun it is to navigate based on things like barbed wire fences, "ridges with no descernable features", rocks that are in two places at once (see Quantum Rock Gulch) and particular distinct dead trees.
-- I am proud of a strong sub 14 hour finish time on Burn. That loop is fucking hard. I would challenge any strong Barkley-style athlete to this loop.
+- I am proud of a strong sub 14 hour finish time on a very not-perfect conditions Burn. That loop is fucking hard. I would challenge any strong Barkley-style athlete to this loop.
 - The weather played a large role in this year's results, but my DNF is the result of my own preparation. I didn't have a solution to the cold and wet. Something to work on.
 - My foot is healing. I just had a dude put needles in it. It feels better.
 - I'm really fit from all that vert training, so now its time to take it to more running.
