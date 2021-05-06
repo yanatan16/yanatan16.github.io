@@ -96,7 +96,7 @@ I jogged the downs and power hiked the ups as well as I could along the road and
 
 We navigated down Chair Rock Express to the bottom and dropped into the creek and stopped for water. Then we climbed up to Book 3. At this point, the group was straining. Brandt, always the consistent one, was out ahead with one of the Veal's. The other Veal was in back with JC. Nate and I kept the middle. At this point I was assessing my chances of continuing onto Chiefs. I decided to delay the decision to the final descent to and climb out of Book 2.
 
-We finished the difficult climb to Book 3, celebrated with some of the cold water we had just filled up on and continued on. This area is called New Burmuda, because of how easy it is to get lost and into the wrong drainage (hint: they're all wrong, the course is on ridges). But in the CCW direction, its actually quite easy to navigate. We found the correct ridges, the old firebreak road, and the descent to Book 2 easily. My knee was hurting for no reason on the descents. I think it was because I was trying to stay off my hurt foot. At this point I called it. I had made some critical gear errors and needed to be honest. I couldn't continue onto Chiefs without risking more injury. I told Brandt. At Book 2, we assessed who wanted to continue. Nate said he didn't know yet, and JC was clear he wanted to go.
+We finished the difficult climb to Book 3, celebrated with some of the cold water we had just filled up on and continued on. This area is called New Burmuda, because of how easy it is to get lost and into the wrong drainage (hint: they're all wrong, the course is on ridges). But in the CW direction, its actually quite easy to navigate. We found the correct ridges, the old firebreak road, and the descent to Book 2 easily. My knee was hurting for no reason on the descents. I think it was because I was trying to stay off my hurt foot. At this point I called it. I had made some critical gear errors and needed to be honest. I couldn't continue onto Chiefs without risking more injury. I told Brandt. At Book 2, we assessed who wanted to continue. Nate said he didn't know yet, and JC was clear he wanted to go.
 
 So we started the final climb. Everyone was exhausted from this huge loop. Brandt made it up quickly with the Veals. I got up next and told him to go on, I'd wait for JC and Nate. Everyone got up the climb and we walked to the trail. Now just a few miles of good old groomed trail down to camp. We spread out as we all ran back.
 
@@ -116,9 +116,9 @@ The Veals walked in the final miles and completed CW Burn in 14:20
 
 Mike and Todd and a couple others completed CCW Burn in 15:30. Mike and Todd headed out on Chiefs but were defeated similarly.
 
-Five men in the counter-clockwise direction, including Michael and Drew completed Burn 7 minutes over the time limit in 18:07.
+Five others, going in the counter-clockwise direction, including Michael and Drew completed Burn 7 minutes over the time limit in 18:07.
 
-Four women bailed on the clockwise Burn just two books from completing the loop due to darkness. Everyone else bailed for various other reasons.
+Everyone else dropped for one reason or another.
 
 ### Thoughts
 
