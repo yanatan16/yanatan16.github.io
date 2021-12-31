@@ -9,15 +9,17 @@
       <div class="trigger">
         {% assign links = site.pages | sort: "order" %}
         {% for link in links %}
-          {% if link.title and link.hide != true and link.layout != "race" %}
-            {% assign link_text = link.title | downcase | replace:' ','-' %}
-            {% if link.title == page.title %}
-              <a class="page-link selected">{{link_text}}</a>
-            {% else %}
-              <a class="page-link {% if page.section and page.section == link.section %}selected{% endif %}" href="{{ link.url | prepend: site.baseurl }}">{{link_text}}</a>
-            {% endif %}
-          {% endif %}
-              {% endfor %}
+        {% if link.title and link.hide != true and link.layout != "race" %}
+        {% assign link_text = link.title | downcase | replace:' ','-' %}
+        {% if link.title == page.title %}
+        <a class="page-link selected">{{link_text}}</a>
+        {% else %}
+        <a class="page-link {% if page.section and page.section == link.section %}selected{% endif %}"
+          href="{{ link.url | prepend: site.baseurl }}">{{link_text}}</a>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+        <a class="page-link" href="https://joneisen.works">joneisen.works</a>
       </div>
     </nav>
 
