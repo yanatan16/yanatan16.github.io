@@ -16,13 +16,26 @@ layout: default
     {% endif %}
   </header>
 
-
   <article class="post-content">
-      {{ content | replace:'<!--break-->','<span id="break"></span>' }}
+    {{ content | replace:'
+    <!--break-->','<span id="break"></span>' }}
   </article>
 
-  <div class="post-footer">
-      <p>Send comments to <a href="mailto:jon@joneisen.works" target="_blank">jon@joneisen.works</a>.
+  <div class="post-prev-next-nav">
+    {% if page.next.url %}
+    <div class="next">
+      <span class="post-meta">{{ page.next.date | date: "%b %-d, %Y" }} under {{ page.next.categories[0]
+        }}</span>
+      <a class="post-link" href="{{ page.next.url | prepend: site.baseurl }}">{{ page.next.title }}</a>
+      &raquo;
+    </div>
+    {% endif %}
+    {% if page.previous.url %}
+    <div class="prev">
+      &laquo;
+      <a class="post-link" href="{{ page.previous.url | prepend: site.baseurl }}">{{ page.previous.title }}</a>
+      <span class="post-meta">{{ page.previous.date | date: "%b %-d, %Y" }} under {{ page.previous.categories[0]
+        }}</span>
+    </div>
+    {% endif %}
   </div>
-
-</div>

@@ -7,7 +7,7 @@
 
     <nav class="site-nav">
       <div class="trigger">
-        {% assign links = site.pages | sort: "order" %}
+        <!-- {% assign links = site.pages | sort: "order" %}
         {% for link in links %}
         {% if link.title and link.hide != true and link.layout != "race" %}
         {% assign link_text = link.title | downcase | replace:' ','-' %}
@@ -18,8 +18,10 @@
           href="{{ link.url | prepend: site.baseurl }}">{{link_text}}</a>
         {% endif %}
         {% endif %}
-        {% endfor %}
-        <a class="page-link" href="https://joneisen.works">joneisen.works</a>
+        {% endfor %} -->
+        <a class="works-link" href="https://joneisen.works">joneisen.works</a>
+        <a class="instagram-link" href="https://www.instagram.com/mildly_athletic/">Instagram</a>
+        <a class="github-link" href="https://github.com/yanatan16">Github</a>
       </div>
     </nav>
 
