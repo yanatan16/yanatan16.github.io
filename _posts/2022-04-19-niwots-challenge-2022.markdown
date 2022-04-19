@@ -79,7 +79,13 @@ I led us out of hell. I hiked patiently and consistently. Not much talking. I sa
 
 One final climb left, and it was quickly over (or, at least quicker than the last climb). It was windy at the final book, so I didn't hang out much. It was time to get this thing over with. We made the last few turns and found the trail. As we had done all night, we hiked it out. I was spent. Brandt's leg was feeling better only thanks to drugs. Nate had probably said 15 words since midnight. But we hiked it out. And finished in 28:01.
 
-### Thoughts
+#### Others
+
+Justin destroyed the course in less than 22 hours. Super impressive dude. Check out [his race report](https://www.14ers.com/php14ers/tripreport.php?trip=21609).
+
+Lauren was the one headlamp I saw starting the Chief's loop a couple hours after us. I never saw her again, but she completed the course in 33:15, missing the cutoff for the race, but finishing in our hearts.
+
+### Personal Thoughts
 
 I'm happy with this result. I haven't completed an overnight race in almost 2 years (since 2020 Niwot's actually). This is absolutely the toughest course Niwot's has ever had. I solved a lot of issues that I had last year and the year before, but there's still more to solve. I think my training could use some tweaking, and I need to do full course runthroughs two weeks prior to the race.
 
@@ -98,3 +104,4 @@ I said to Brandt that I need to take a year off this race when we were hiking th
 - Burritos ate: 5
 - Oat milk lattes drank: 2
 - Beers consumed before falling asleep at home: 0.5
+
