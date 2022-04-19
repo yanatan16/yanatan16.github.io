@@ -87,14 +87,14 @@ I said to Brandt that I need to take a year off this race when we were hiking th
 
 ### Stats
 
-Burn time: 12:01
-Aid time: 0:44
-Chief's time: 15:16
-Number of Niwot's Challenge completions: 3
-Poops on course: 2
-Number of times actually considering quitting: 0
-Number of times actually considering the deity attempt: 0
-Nav mistakes: a lot
-Burritos ate: 5
-Oat milk lattes drank: 2
-Beers consumed before falling asleep at home: 0.5
+- Burn time: 12:01
+- Aid time: 0:44
+- Chief's time: 15:16
+- Number of Niwot's Challenge completions: 3
+- Poops on course: 2
+- Number of times actually considering quitting: 0
+- Number of times actually considering the deity attempt: 0
+- Nav mistakes: a lot
+- Burritos ate: 5
+- Oat milk lattes drank: 2
+- Beers consumed before falling asleep at home: 0.5
