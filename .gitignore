@@ -5,3 +5,5 @@ vendor
 .bundle
 
 .bundle
+
+.jekyll-cache/
