@@ -1,5 +1,5 @@
 ---
-title: How Northrop Grumman Screwed Me
+title: How my first employer Screwed Me
 layout: post
 categories: programming
 date: 2022-08-07 13:00:00
