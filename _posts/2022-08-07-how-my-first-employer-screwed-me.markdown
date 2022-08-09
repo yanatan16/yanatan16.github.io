@@ -5,7 +5,7 @@ categories: programming
 date: 2022-08-07 13:00:00
 ---
 
-This is the first in a series I am going to write about how most of the companies I've worked for have screwed me over in one way or another. In my early career, I tended to develop loyalty toward my company. I think this was a taught behavior from our society. Unfortunately, I learned the hard way that loyalty almost never extends back to the employee.
+In my early career, I tended to develop loyalty toward my company. I think this was a taught behavior from our society. Unfortunately, I learned the hard way that loyalty almost never extends back to the employee. I believe we should be open and talk about these situations, as they are all too common. No names are included here.
 
 My first corporate gig was straight out of college, literally 2 weeks after graduation in 2009. I accepted a position with a large defense contractor in their new graduate rotation program. I was told my job would be in Baltimore, but upon my arrival, I was informed that my job would actually be down in Annapolis, 45min-1.5hrs away. I didn't think much of it and worked hard for the Annapolis office for 10 months, even playing a key research role in closing a $10+mil contract.
 
