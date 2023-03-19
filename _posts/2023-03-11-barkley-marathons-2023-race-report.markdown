@@ -232,7 +232,7 @@ I want to thank everyone who helped me along my journey.
 - Sherpa John Lacroix started and continues to direct the Niwot's Challenge in Colorado. This race showed me that I have a knack for off-trail navigation. It allowed me to get a taste of what the Barkley involves in a closer environment.
 - Nickademus was an excellent coach for the last year. I am deeply thankful for his guidance and support, along with the heavy training that pushed me to new heights. I won't forget the lessons I learned training this past year.
 - My PT, Michael (Red Hammer Rehab), was so integral to staying healthy this past year. I have learned a lot and I really appreciate his flexibility. I booked multiple appointments with less than 24 hours notice, and he was always happy to help troubleshoot a new issue.
-- My wife, who I married only 9 days before Barkley started, has been the best support a man could ask for. Her unwaivering support of me has allowed me to achieve higher and farther than was previously possible. I am so thankful for her and our relationship. I will be spending the next months trying to give her some semblance of the support she has given me during my training.
+- My wife, who I married only 9 days before Barkley started, has been the best support a man could ask for. Her unwaivering support of me has allowed me to achieve higher and farther than was previously possible. She even alleviated the anxiety I had about getting my license plate and took care of that for me. I am so thankful for her and our relationship. I will be spending the next months trying to give her some semblance of the support she has given me during my training.
 - Thanks laz. Thanks for giving me a chance.
 
 
