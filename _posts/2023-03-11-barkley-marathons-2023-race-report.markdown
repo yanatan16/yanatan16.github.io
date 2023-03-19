@@ -7,6 +7,10 @@ date: 2023-03-19 10:30:00
 
 On Tuesday, March 14, 2023, I ran in the infamous Barkley Marathons. If you would like to learn more about the Barkley, it was well-portrayed in the documentary: [The Barkley Marathons: The Race That Eats Its Young](https://www.imdb.com/title/tt2400291/). But my story starts many years before.
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+  <img style="max-height: 600px; max-width: 100%;" src="/img/barkley-2023/gate.jpeg"/>
+</div>
+
 <!--break-->
 
 ### The Short Story
@@ -80,9 +84,9 @@ On the day before the race, we drove up to Frozen Head for the race. John Clarke
 
 A line formed near the first campsite: check-in had started. I eagerly got my license plate and headed up there. The line was mostly formed of virgins super-eager to check-in in their first year. Vets were milling about, checking out the map, and waiting for the long line to die down.
 
-<div style="display: flex; justify-content: center; gap: 1em; margin: 1em 0;">
-  <img height="600" src="/img/barkley-2023/license-plates.jpeg"/>
-  <img height="600" src="/img/barkley-2023/checkin.jpeg"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+  <img style="max-height: 600px; max-width: 100%;" src="/img/barkley-2023/license-plates.jpeg"/>
+  <img style="max-height: 600px; max-width: 100%;" src="/img/barkley-2023/checkin.jpeg"/>
 </div>
 
 I met up with Andrea Kooiman and Dawn Greenwalt, who I knew from training calls with Lightfoot Coaching, as well as Wes Thurman and John Clarke (crew for Wes) from Colorado. The line took forever, but eventually, I got to sit down across from laz. We chatted briefly. He told me what he was telling everyone:
@@ -105,8 +109,8 @@ Finally, I headed to the gate. Laz made a small speech, taking a moment of silen
 
 ### The Race
 
-<div style="display: flex; justify-content: center; gap: 1em; margin: 1em 0;">
-  <img height="600" src="/img/barkley-2023/start.jpeg"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+  <img style="max-height: 600px; max-width: 100%;" src="/img/barkley-2023/start.jpeg"/>
 </div>
 
 He lit the cigarette and we were off. I knew Barkley starts were mad dashes, but this was more than I had expected. I let people pass me on the road, not wanting to be forced into red-lining the first climb. I found myself somewhere in the middle at the trail turnoff, then onto Wrong Way Ridge. I pushed up that first climb, keeping the group in front of me in sight. My heart is beating out of my chest. _I'm running the Barkley!_
@@ -167,8 +171,8 @@ Somewhere back in camp, the time ticked past 26 hours and 40 minutes, meaning my
 
 Finally we arrived at book 1. Every section was taking forever now. We found Nicky and the two dudes who had been with her all day (not sure their names) standing on the road saying that they couldn't find the book. I decided to go look for myself. I found it right where we got it about 27 hours earlier. It wasn't obvious where it was from the clue though. We picked up everyones pages and made the final 200 foot ascent up and over Wrong Way Ridge. Katie disappeared to the left. Kyle and I descended the ridge. Eventually we met up on the road and jogged into the gate together.
 
-<div style="display: flex; justify-content: center; margin: 1em 0;">
-  <video controls height="600">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; margin: 1em 0;">
+  <video controls style="max-height: 600px; max-width: 100%;">
     <source src="/img/barkley-2023/loop2finish.MP4"/>
   </video>
 </div>
@@ -177,8 +181,8 @@ Laz joked that he knew that each of us thought we could finish the Barkley, that
 
 Jim played me taps first. I stood there solemnly. Long ago, I had described myself on some social media platform as a "Future Barkley Marathons DNF." This moment was my dream. A dream come true. Barkley had spoken to me. Barkley had called me. I had answered. I trained. I prepared. I believed. And now, I had failed.
 
-<div style="display: flex; justify-content: center; margin: 1em 0;">
-  <video controls height="600">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; margin: 1em 0;">
+  <video controls style="max-height: 600px; max-width: 100%;">
     <source src="/img/barkley-2023/taps.MOV"/>
   </video>
 </div>
@@ -237,3 +241,7 @@ I want to thank everyone who helped me along my journey.
 After I got some sleep, I was able to become a spectator of the race, seeing Aurelian, John, and Karel execute a spectacular feat of running history up close. I'm in awe of their performance and ability. It was truly an honor to witness.
 
 I'm pretty sure a finish is beyond my abilities. But I have more to give than I gave this year. I'll be back.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+  <img style="max-height: 600px; max-width: 100%;" src="/img/barkley-2023/pages.jpeg"/>
+</div>
