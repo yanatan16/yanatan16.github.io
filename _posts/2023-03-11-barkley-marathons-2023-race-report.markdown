@@ -245,3 +245,12 @@ I'm pretty sure a finish is beyond my abilities. But I have more to give than I 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
   <img style="max-height: 600px; max-width: 100%;" src="/img/barkley-2023/pages.jpeg"/>
 </div>
+
+### Update (3/27/2023)
+
+Laz has released the offical results on his [facebook page](https://www.facebook.com/lazarus.lake.7/). Apparently, I spent over 90 minutes in camp. I arrived at the gate in 25th place and left in 30th place. By my estimation, I finished the second loop around 28:30, in approximately 22nd place.
+
+```
+25 Jon Eisen USA 11:13:00 12:45:34 1:32:34
+```
+
