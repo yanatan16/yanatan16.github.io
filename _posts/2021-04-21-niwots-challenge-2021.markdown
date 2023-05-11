@@ -5,7 +5,7 @@ categories: running
 date: 2021-05-03 21:00:00
 ---
 
-On Saturday April 17, 2021, the 7th running of Niwot's Challenge commenced. My race report follows.
+On Saturday April 17, 2021, the 8th running of Niwot's Challenge commenced. My race report follows.
 
 <!--break-->
 

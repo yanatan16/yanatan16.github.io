@@ -5,7 +5,7 @@ categories: running
 date: 2022-04-19 08:00:00
 ---
 
-On Saturday April 16, 2022, the 8th running of Niwot's Challenge commenced. I ran it for the fourth time and finished for the third time.
+On Saturday April 16, 2022, the 9th running of Niwot's Challenge commenced. I ran it for the fourth time and finished for the third time.
 
 <!--break-->
 
