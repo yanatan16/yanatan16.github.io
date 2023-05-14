@@ -23,7 +23,7 @@ _What is Niwot's Challenge?_ Niwot's Challenge (aka "Niwot's") is a footrace ins
 
 - _Injuries_: My ankles were a bit tight and bothersome since I rolled them in the lead-up to Barkley and re-rolled about a month before Niwot's. So I finally decided to try Leukotape to strengthen my bad ankle against a possible roll. My PT had previously suggested it, and one time I met Max King, who also does this. Here's a [link to Max explaining how to tape your ankle](https://www.instagram.com/reel/Crd14vAuQ1s/?utm_source=ig_web_copy_link). Incredibly, this worked super well, and I'll be doing it for every long technical run I do.
 
-- _Nutrition_: In the week leading up to the race, I kept coffee to ~10oz a day and only had one alcoholic beverage in the week. I learned from my failed nutrition at Barkley and adapted into many varied and easy-to-eat snacks totaling ~3000 calories per lap. In addition to my usual allotment of Spring Energy Awesome Sauce and Wolf Packs, I included gouda cheese cubes, plantain chips (very caloricaLly dense!), Oreos, and Twix bars.
+- _Nutrition_: In the week leading up to the race, I kept coffee to ~10oz a day and only had one alcoholic beverage in the week. I learned from my failed nutrition at Barkley and adapted into many varied and easy-to-eat snacks totaling ~3000 calories per lap. In addition to my usual allotment of Spring Energy Awesome Sauce and Wolf Packs, I included gouda cheese cubes, plantain chips (very calorically dense!), Oreos, and Twix bars.
 
 ### Race Day
 
@@ -43,6 +43,10 @@ As we left book 2, there was a question of which drainage at a small confluence 
 
 We reached book 5 where two Chiefs (i.e. Niwot's 50-miler past finishers), JC and Justin, met us with beers and snacks at the summit book. This is the first time we've had an aid station on the race! It was awesome to see and chat with them. As my intention was to have fun, I even drank most of a beer, although I did know it wasn't a good idea. After a short break we headed out.
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+  <img style="max-height: 600px; max-width: 100%;" src="/img/niwots-2023/book-5.jpg"/>
+</div>
+
 As we were crossing the burn scar (which takes like an hour+), it was getting really hot. We refilled water in the creek and kept going. I was navigating in the lead, and Abram and the Veals were following. It was around here last year that I accepted traveling with Brandt and Nate instead of trying to drop them. And similarly this year, I accepted that my efficient movement was not going to drop Abram and the Veals.
 
 After grabbing book 7 (out of 14), we saw 4 runners from the clockwise direction. It was about 5:45 into the race. After seeing the results from the burn loop, I think it's safe to say that this point (in the lowest point on the saddle ridge between the Attic and the ridge to Quantum Rock Gulch) is the halfway mark of Burn. Which means both teams were about on a 11:30 pace, which would be the fastest Burn loops run by people not named Justin Swantek.
@@ -56,6 +60,11 @@ We moved through the contouring section towards book 10 seemingly well. As we ar
 I hiked up over the steep wall between us and Abram's scouting and sure enough, the drainage widened out and the creek went underground. I recognized the  piles of dead trees the forest service had gathered in a fuel reduction effort. This was starting to look like the drainage to book 10. Sure enough a few minutes later, I spotted the black rocks where the book hides. Book 10 is a known difficult navigation on the counter-clockwise loop, so I'm not upset that I messed up the nav. I'm more upset that my intuition pointed me in the wrong direction to fix my mistake. But, I now know more about what that drainage looks like way way way below the book. All in all, we lost about 45 minutes on the book.
 
 I was convinced this threw away a chance at a good Burn time, but it didn't stress me (because a good time wasn't my goal for the race). I just kept moving. The next few books weren't a problem to navigate to. But, my legs and lungs were starting to be affected by the heat. My climbing speed was slowing. Even though I felt slow, Andrew and Jordan dropped back on the last big-ish climb, and I didn't see them again til camp.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+  <img style="max-height: 600px; max-width: 49%;" src="/img/niwots-2023/book-10.jpeg"/>
+  <img style="max-height: 600px; max-width: 49%;" src="/img/niwots-2023/book-11.jpeg"/>
+</div>
 
 As Abram and I climbed the last pitch, I told him if he wanted to continue to the Chiefs Loop, I'd go with him. Most people are scared of navigating their first Chiefs loop alone at night. I knew Abram wanted to go onto Chiefs. I also knew that I could probably travel through Chiefs slightly faster without him. But, on the other hand, I would have a lower chance of mistakes with another person around. I checked in with my intention and decided to play tour guide on Chiefs tonight.
 
@@ -101,11 +110,19 @@ After he caught up and we had started up the drainage, I saw Brandt and Wes comi
 
 After what seemed like not as much time as it should have, we made our way out of the Hell drainage. We casually started hiking the ridge system up to the high point of the Chiefs loop and the final book, Book J. After that, we just had the long deadfall-laden descent to the trail. We walked. As we reached the trail, I told Abram we were jogging down the 1500 foot descent. It was 24 switchbacks to camp. I counted them aloud and jogged ahead. Abram ran the whole trail descent.
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+  <img style="max-height: 600px; max-width: 100%;" src="/img/niwots-2023/abram-and-i.jpeg"/>
+</div>
+
 As we climbed to book J and descended to camp, thoughts of the deity loop filled my head.
 
 _Would I continue? It was past my personal cutoff time of 27 hours. But then again, we were about to complete a Chiefs loop of 14:something. Perhaps I could do that again. Brandt had said he wasn't going to go out. Did I want to go out by myself? I did kind of. But mostly, I wanted to have fun. Perhaps loop 3 would be more fun than loop 2? But it doesn't seem that way right now. What if I didn't finish in time to leave on loop 4? All I really want right now is some pizza and to see my wife. If I leave on loop 3, I won't be around to see the other finishers finish. I don't know..._
 
 When I arrived at camp, I saw my wife had surprised me by driving out to see me finish. Immediately, this answered the questions in my head. I would quit here and hang out at camp. Physically, I knew I could continue. But today wasn't about pushing my limits; it was about having fun. My friend Kevin was still out on course, and I wanted to see him finish. My wife had driven all the way here to see me. I didn't want to go leave her.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+  <img style="max-height: 600px; max-width: 100%;" src="/img/niwots-2023/finish-with-abram.jpeg"/>
+</div>
 
 ### Personal Thoughts
 
@@ -128,7 +145,12 @@ When I arrived at camp, I saw my wife had surprised me by driving out to see me 
 - Number of times actually considering the deity attempt: many
 - Nav mistakes: one major, a few minor
 - Number of Niwot's Challenge 50-miler completions: 4
+- Mylar baloons collected on Race Day: 6
 - Ratio of first-time finishers who have been guided by me in the last 4 years: 5 out of 6
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+  <img style="max-height: 600px; max-width: 100%;" src="/img/niwots-2023/mylar-baloon.jpg"/>
+</div>
 
 ### Addendum: How does Barkley compare to Niwots?
 
