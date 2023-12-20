@@ -5,7 +5,7 @@ categories: running
 date: 2023-12-20 10:30:00
 ---
 
-This past Saturday June 17, 2023, I ran the second edition of the [Ring the Springs 100 miler](https://www.aravaiparunning.com/ring-the-springs/), hosted by Aravaipa Running.
+This past Saturday June 17, 2023, I ran the second edition of the [Ring the Springs 100 miler](https://www.aravaiparunning.com/ring-the-springs/), hosted by Aravaipa Running. Miranda and I did a [recap podcast](https://runningwithproblems.run/episodes/s1-ep4-special-ring-the-springs) on this race, so check that out on your local podcast app.
 
 <!--break-->
 
@@ -26,6 +26,19 @@ _Day Before_: We (Miranda and I) drove down from Boulder the night before. The w
 
 I was excited to get started. I even stood in the front of the corral, but didn't go out with the front pack. For the first 6 miles or so, I was in about 10th place, running reasonably quickly on the bike path. I had to stop at a portable toilet at the first aid station, which is somewhat unusual for me. After I got out, I wasn't sure what place I was in, which was good, because I shouldn't be tracking which place I'm in anyway. Over the next 12 miles up to Gold Camp, I just tried to run steady. I got to Gold Camp at 3:15, which is pretty fast for the first 18 miles of a hundred. Miranda was there to meet me. I declined to sit down and drink a lemonade. I just refilled gels and hydration and continued.
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+    <figure>
+    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/pikes_in_the_morning.jpeg"/>
+    <figcaption>Pikes Peak was quite beautiful that morning.</figcaption>
+    </figure>
+    <figure>
+    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/tunnel.jpeg"/>
+    <figcaption>A cool tunnel experienced while I felt good.</figcaption>
+    </figure>
+</div>
+
+
+
 ### Bonking on the Mountain
 #### Gold Camp Up (18mi) - Gold Camp Down (45mi) ####
 
@@ -44,6 +57,13 @@ After what seemed like forever and getting passed by everyone, I finally made it
 
 The last 11 miles back to Gold Camp went much better, as I was able to consistently run and eat real food. Finally, I made it back to Gold Camp. I came into the aid and immediately tried to use the portable toilet again, but this time to no avail. I told Miranda no more Skratch. I drank a lemonade and a protein shake, filled up on to-go snacks, and headed down the mountain and back to Colorado Springs.
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+    <figure>
+    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/cool_lake.jpeg"/>
+    <figcaption>This beautiful lake was cool until I realized I would be down there in 10 miles.</figcaption>
+    </figure>
+</div>
+
 ### Finding the Groove Again
 #### Gold Camp Down (45mi) - Palmer (68mi)
 
@@ -52,6 +72,17 @@ This section went by pretty quickly. I turned on my Mile 76 playlist (my 100-mil
 Another 12 mile section over to Palmer gave me some time to think and run. I ran most of the route, taking a few walking breaks here or there. By the time I reached the trails, the sun had set enough and I turned on my headlamp at 9pm. Palmer Park was super muddy from the rain. There were also far less course markings in this park than there had been on any other part of the course, so I had to be careful to make sure I was going the correct way. We ran around some cool geologic formations, and eventually, I made it to the Palmer AS.
 
 I met Nathan there, who was going to pace me. I still felt pretty good. I ate some pasta, refilled everything, and we headed out back into Palmer Park.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+    <figure>
+    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/everything_will_be_ok.jpeg"/>
+    <figcaption>Probably the mantra of the race.</figcaption>
+    </figure>
+    <figure>
+    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/pikes_peak.jpeg"/>
+    <figcaption>Unsurprisingly, Pikes Peak is still astounding.</figcaption>
+    </figure>
+</div>
 
 ### Navigating Course Vandalism
 #### Palmer (68mi) - Pulpit Rock (80mi)
@@ -89,6 +120,21 @@ When I crossed the finish, I felt all that inevitability had caught me. I had do
 
 Jamil asked me how bad the course markings were. I described them as being pretty bad in that one section, but overall, not too bad. "Sometimes, in trail running, you get some free miles."
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+    <figure>
+    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/christian_castle.jpeg"/>
+    <figcaption>Christian Castle.</figcaption>
+    </figure>
+    <figure>
+    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/my_finish.jpeg"/>
+    <figcaption>Finishing.</figcaption>
+    </figure>
+    <figure>
+    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/miranda_finish.jpeg"/>
+    <figcaption>Miranda Finishing.</figcaption>
+    </figure>
+</div>
+
 ## Reflections
 
 I'm writing this way late... like 6 months later. It's taken me a while to come to terms with the outcome of this race. It's not the race result that's bothered me, which is one of my best overnight race results. Tenth place, top 20% of the race, with consistent effort all night long, and I kept my cool when it got hard (or hard to navigate).
@@ -97,4 +143,11 @@ The day after the race, I went for a walk with Miranda and our dog, Summit. I fe
 
 Without going into the day-by-day, fast-forward 4 months, past many ups and downs. I thought I was cured multiple times, only to go back into the pain hole. I took my rest seriously, breaking from running for over 4 weeks (non-consecutively). I had a lot of trouble doing an easy build back, but I eventually figured it out. I ran less than 25 miles per week all of September... which was hard for me. Eventually though, I was able to fully recover from the injury, and as of this writing in December 2023, I'm back into training at a mild 40-45 miles per week.
 
-This race showed me I do have a shot at a sub-24 100 miler, and I'm planning on attempting that by apply to San Diego 100 next year.
+This race showed me I do have a shot at a sub-24 100 miler, and I'm planning on attempting that by apply to San Diego 100 next year. Also, it showed that Miranda and I can have a great weekend of racing individually and have fun together.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+    <figure>
+    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/miranda_podium.jpeg"/>
+    <figcaption>Miranda won the 50K.</figcaption>
+    </figure>
+</div>
