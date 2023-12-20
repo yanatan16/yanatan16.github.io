@@ -56,3 +56,11 @@ Regardless of what you choose, I usually add about 2lbs of meat+seafood plus one
     - If you don't get the proportions right (which is all but guaranteed in Colorado), you may have to cover your paella with tin foil to capture heat to cook the rice on the top. This will extend the cook time because the captured heat is also capturing moisture.
 7. Remove the Paella from the heat. Serve immediately, using a scraping tool to get the charred rice from the bottom into every dish.
 8. Garnish with lemon slices and a negroni.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+  <img style="max-height: 400px; max-width: 100%;" src="/img/paella/paella1.jpg"/>
+  <img style="max-height: 400px; max-width: 100%;" src="/img/paella/paella2.jpg"/>
+  <img style="max-height: 400px; max-width: 100%;" src="/img/paella/paella3.jpg"/>
+  <img style="max-height: 400px; max-width: 100%;" src="/img/paella/paella4.jpg"/>
+  <img style="max-height: 400px; max-width: 100%;" src="/img/paella/paella5.jpg"/>
+</div>
