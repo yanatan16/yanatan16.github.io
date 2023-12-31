@@ -2,7 +2,7 @@
 title: 2023 Running Year In Review
 layout: post
 categories: running
-date: 2023-01-16 12:00:00
+date: 2023-12-31 16:00:00
 ---
 
 I've been writing this year-end recap in long-form blog style since 2020.
@@ -21,9 +21,9 @@ I had one goal in 2023: Run the Barkley Marathons as best I could. Did I accompl
 
 But the numbers also matter. Let's quantify this year, with comparisons to last year's numbers (my best yet).
 
-- Milage: 2120 miles (2022: 2617 miles)
-- Vert: 416,352 feet (2022: 540,515 feet)
-- Time Spent Running: 555hr 17min (2022: 625hr 59min)
+- Milage: 2125 miles (2022: 2617 miles)
+- Vert: 417,569 feet (2022: 540,515 feet)
+- Time Spent Running: 556hr 30min (2022: 625hr 59min)
 - Injury Time: 4 months (2022: None)
 - PRs:
   - 5K in Colorado (22:39)
