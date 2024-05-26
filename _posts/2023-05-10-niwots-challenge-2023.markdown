@@ -5,7 +5,7 @@ categories: running
 date: 2023-05-10 18:00:00
 ---
 
-On Saturday May 6, 2022, the 10th running of Niwot's Challenge commenced. I ran it for the 5th consecutive year and finished for the fourth time.
+On Saturday May 6, 2023, the 10th running of Niwot's Challenge commenced. I ran it for the 5th consecutive year and finished for the fourth time.
 
 <!--break-->
 
