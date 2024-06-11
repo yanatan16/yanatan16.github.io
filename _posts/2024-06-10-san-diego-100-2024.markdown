@@ -5,7 +5,7 @@ categories: running
 date: 2024-06-10 18:00:00
 ---
 
-On Friday June 7, 2024, I ran the [San Diego 100 Mile Endurance Race](https://sandiego100.com) for my first time. It would be my fourth official 100-mile finish and in my opinion, my best result at the distance so far, finishing in 30th place in 26:40 ([splits](https://www.ultralive.net/sd100#tracking/runner/174)).
+On Friday June 7, 2024, I ran the [San Diego 100 Mile Endurance Race](https://sandiego100.com) for my first time. It would be my fourth official 100-mile finish and in my opinion, my best result at the distance so far, finishing in 30th place in 26:40 ([splits](https://www.ultralive.net/sd100#tracking/runner/174) and [strava](https://www.strava.com/activities/11606704116)).
 
 <!--break-->
 
