@@ -42,7 +42,7 @@ I had a huge knot in my chest. I felt so nervous. But once I got my drop bags dr
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
 <figure>
   <img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/start.jpg"/>
-  <figcaption>Flat Runner.</figcaption>
+  <figcaption>Excited/Anxious.</figcaption>
   </figure>
 </div>
 
