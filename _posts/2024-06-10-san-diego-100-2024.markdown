@@ -1,0 +1,248 @@
+---
+title: 2024 San Diego 100 Race Report
+layout: post
+categories: running
+date: 2024-06-10 18:00:00
+---
+
+On Friday June 10, 2024, I ran the [San Diego 100 Mile Endurance Race](https://sandiego100.com) for my first time. It would be my fourth official 100-mile finish and in my opinion, my best result at the distance so far, finishing in 30th place in 26:40 ([splits](https://www.ultralive.net/sd100#tracking/runner/174)).
+
+<!--break-->
+
+### Race Preparedness and Intentions
+
+I was very dedicated to training for this race. Throughout December to March, my coach ([Mark Marzen of Golden Endurance](https://www.golden-endurance.com/staff)) had me working on speed, first short intervals, then tempo, then VO2-Max work. Then, in April, we kicked off volume/endurance training with the [Oriflamme 50K](https://secondwindtrailrunning.com/oriflamme50k), intending for the desert race to start heat training at the same time. I ran just over six hours for 31st out of 132 runners (top 25%). Top 25% is generally my high end outcome, so this indicated I was doing pretty well with my training.
+
+Cut to getting back home in Boulder from Oriflamme, and I went down hard with some sickness, probably Covid. 3 days of fever, plus a couple more still off running. I look up and I'm 7 weeks out from SD100 with the biggest week under my belt being a measly 53 miles (for comparison, my first 100 had a 75 mile week; Teanaway in 2022 had an 85). Coach planned 4 weeks of high volume. I still felt very weak from the sickness and lack of race recovery, but I figured, I can't really hurt myself volume training slowly. So I jumped into volume training. That first week, I did 67mi/14k in 16+ hours, which is a bit on the slow side for me. But, I hoped that my body would recover while I trained so much. And luckily it did. By the end of that block, I was doing more milage in less time, even with accumulated fatigue of the block. During the volume block, I also ran [Niwot's Challenge Burn Loop](/running/2024/05/25/niwots-challenge-2024.html), PRing my Burn Loop time by 30 minutes in a heat exhausted state. And I came within 36 seconds of my Dash 'n' Dine 5K PR. So while I had a bunch of bad runs in this block, I was recovering well and had good outcomes too. By the time I started tapering, 11 days out from the race, I was very ready for it.
+
+Coach also had me doing a lot of sauna time to prepare for the possible extreme heat of the race. In total, I went to the sauna 20 times in 5 weeks (mostly in the last 3 weeks before the race) and spent 30 minutes in the sauna, on average.
+
+As for my intentions, I wanted to try and run a sub-24 hour 100 miler. Looking back on that goal, if I had done my research, I should have known it would be extremely difficult for me. In general, my best performances are in the top 20-25% of the field. Sub-24 at SD100 generally is top 5-10% of the field. But, that's how I went into the race, and that's how I created the time estimates for my crew.
+
+It's well known I get a lot of pre-race anxiety. And for this race, we were driving down to San Diego in an electric car (first electric road trip) with our travel-anxious dog, and I also get travel anxiety. So not the best setup for reducing anxiety. But, I did one thing right, I took the week off work. I swear I'm going to do this for every 100 from now on. Releasing myself from work really helped focus me on what I needed to get done. I packed early, created a detailed plan for my race, created crew checklists so they wouldn't forget things, and had a lot of confidence in myself. All this really helped lower my anxiety to just what traveling and the dog would cause. On the eve of the race, I was as calm as a cucumber (pretty sure all fruits are calm right?).
+
+My spreadsheets were particularly nice this race. I started with a timing plan generated from [ultrapacer.com](https://ultrapacer.com), then I created a Crew Timeline of rough times they would need to be at any given place. Then I added a nutrition plan, trying to document how much energy drink ([Gnarly Fuel2O Orange Drank](https://thefeed.com/products/gnarly-nutrition-fuel2o-orange-drank?variant=40185371951167)) and gels ([Maurten Gel 100](https://thefeed.com/products/maurten-gel-100?variant=12802655813695&queryID=e301953bdf7efb7a49893b587968ce30)) I would need in various sections. This allowed me to plan drop bags (which mostly contained just nutrition). Finally, I created a Crew Checklist, with some instructions coming from the nutrition plan (Put in 6 gels; Fill bottles with 2 scoops), some instructions being maintenance (Remove trash, reapply sunscreen, etc), and some being day/night changes (change shirt; replace headlamp with spare). My crew loved the detailed notes so that we forgot less, and they knew they were doing their job as I expected.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+    <figure>
+  <img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/flat-runner.jpg"/>
+    <figcaption>Flat Runner.</figcaption>
+    </figure>
+  
+</div>
+
+My crew initially consisted of my wife [Miranda](https://www.instagram.com/moderately_athletic) (Main Crew, Final Pacer) and Adera (Pacer). I invited my parents as well to come spectate the start, a couple aid stations, and the finish. A couple days before the race, another couple friends reached out to help and I figured it'd be more the merrier. So we added LeAnna to come crew for the daytime crewed aid stations and [Greg](https://www.instagram.com/ultramansd/) to pace me from 41 to 59. Greg ended up staying afterwards and crewed me all night long, which was really helpful. He showed up at a couple crewable aid stations that I didn't expect to have anyone, and it was always great seeing his face.
+
+### Race Day
+
+On race morning, I calmly prepared my feet, ate some food, and Miranda drove me and my mom to the race start line. About 10 minutes later, I realized I had left my pre-filled bottles and bladder in the refrigerator of our AirBnB. My first problem to be solved of the day. According to the race schedule, there's no time to turn around or else I wouldn't get my drop bags in on time. Luckily, I had two spare bottles and a handheld bottle for extra water that I could take to replace the forgotten ones. My crew could pick up the forgotten bottles after I started.
+
+I had a huge knot in my chest. I felt so nervous. But once I got my drop bags dropped off, my bottles filled and set, and my bib on, I took a deep breath and relaxed into excitement. I was about to embark on a grand adventure and there was no sense rushing.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+<figure>
+  <img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/start.jpg"/>
+  <figcaption>Flat Runner.</figcaption>
+  </figure>
+</div>
+
+
+The forecast for the race was hot hot heat. A high of 81 in Cuyamaca Rancho meant all day direct sunshine with very little shade. Turns out it was third hottest iteration of the race.
+
+This year, the race had an all new course. It used to be mostly an out-and-back on the PCT, with a few mini loops and out-and-backs along the way. Now it was 95% a single contiguous loop around Lake Cuyamaca, Cuyamaca Rancho State Park, the Mt Laguna area, the PCT, and the southwestern edge of Anza-Borrego Desert State Park. This big change made a lot of previous race times kind of moot, so I didn't really know if this was harder or easier, but most people I talked to thought it'd be a bit harder, but pretty close.
+
+The RDs BJ and Angela gave a pre-race briefing, and before too long, we were off.
+
+#### Start - Green Valley (Mile 29)
+
+I started in the middle of the pack. The start wound around Lake Cuyamaca on a mowed grass trail that crossed two streams (i.e. mudpits) where footbridges ~~are~~ used to be. The pack slowed to a walk and sometimes a full stop. No sense rushing around people with over 100 miles to go. I just waited patiently. Eventually we got onto some consistent singletrack and fire roads. I ran easy. Chit-chatted with a nice girl from Spokane. A few miles in, we got to a small climb and descent. Generally speaking, I climb and descend better than I run flats/slight slopes, so I started moving up the field slowly. A really nice descent later, the trail turned overgrown and rutted, which I didn't mind too much, so I kept moving up.
+
+As we approached the base of Stonewall Peak, I heard lots of cheering. There wasn't supposed to be an aid station until mile 12. Turns out, the RDs (dressed in costume!) and a bunch of volunteers came over there for a big cheering water stop. I enjoyed that, then immediately turned uphill. Climbing Stonewall was very nice. A mix of technical rocky sections and slopy runnable switchbacks. We topped it out (well, the shoulder) and turned to descend the backside. I had run this back in January 2023, when I was training for Barkley, so I knew what to expect. It was a very technical and rocky descent. It was time to see if my quads were ready for a big day. I didn't hold back, I bombed it. It felt great. Most people I passed at a large differential speed. One or two matched my pace. We reached the bottom, and I slowed back to my easy flat pace and traversed over to the first aid station, Trout Pond.
+
+Trout Pond Aid was overrun with runners. There had to be 20+ runners under the two 10x10 foot tents. I had my race nutrition plan set, so all I needed was some water. I browsed the food table, but honestly didn't need anything. I tried to use the portable toilet, but alas, I did not need it. A few minutes wasted, but nothing major. I walked out of the aid, now very much over the nerves of starting the race.
+
+I saw Meghan up ahead of me on the immediate climb of Middle Peak. I jogged uphill to catch up to her. We hiked the climb together, passing more people on the way up. Meghan and I had met at the Ocean Beach Run Club Grand Canyon trip in 2022. She was running her first 100 miler. After summiting Middle Peak (well... the shoulder actually), the trail turn down another technical section. I had already climbed in position enough to be running with people closer to my pace, so I didn't need to pass a lot. Towards the bottom though, I eventually left Meghan and passed a small group right before the trail turned up Canejos Trail, a very rocky, but mildly steep ascent. I continued at a strong but easy pace, passing a few more runners, before hitting the asphalt and turning up to the peak. I hiked up to the summit (ok, we didn't go to the radio tower at the summit, but this one's at least not on the shoulder!) and got my first real aid. The heat was coming in, so I learned how to fill my [ice bandana](https://www.runinrabbit.com/products/ice-raddana-whiteblack-1). I ate some potatoes and oranges. Got my drop bag out, filled my two bottles with my own Gnarly drink, stuffed the gels into my bag, and took off. I did not refill my handheld third bottle though, which turned out to be a mistake.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+<figure>
+  <img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/cuyamaca-selfie.jpg"/>
+  <figcaption>Selfie on Cuyamaca.</figcaption>
+  </figure>
+</div>
+
+As I jogged down the asphalt, I saw so many very tired looking runners. The farther down the out-and-back section I got, the worse people looked. The heat was already taking it's toll. I turned off onto the long swooping fire road descent and just tried to keep a good pace as I came down. This section just took a long time. Road turned to singletrack, which turned back to road, and back to singletrack. All exposed. It was 11AM now and the heat of the day was here. And it was going to stay until at least 6PM. I finished a bottle and realized I did not have enough water for this section. Nothing to do now but ration. At least it wasn't as bad as Niwot's (lol).
+
+Eventually I made it to Green Valley aid, where my crew was waiting. I knew I had missed about a half liter of water on that descent, so I immediately told Miranda when I saw her that "I need a reset. I'll take the lemonade." Instead of going in and out as I had done in the first two aids, I knew I needed to replenish some lost fluids before it became dire. I drank a lemonade and a protein shake (mistake!), ate some oranges and pickles, reapplied my sunscreen, hugged my parents and my crew, and took off at a walk. I had my full complement of 3 liters of water on me, with 12 miles of exposed hot sections in front. Meghan would pass me in the aid station and stay about 10 minutes ahead of me for the rest of the race to get 3rd place female!
+
+#### Green Valley (29) to Sweetwater (41)
+
+Immediately after leaving Green Valley Aid, I felt sick to my stomach. I had ingested too much too quickly. There was nothing to do about it now. I would have to walk it off. I started climbing. I couldn't do a strong hike for fear of accelerating my heart rate too much. A runner came down the trail going the wrong way: "Are you ok?" "Oh, I'm fine. I'm just calling it before I die out here."
+
+About 45 minutes later, I topped out the climb, having been passed by a bunch of runners. But, I was starting to feel a bit better. I decided to take a gel. Even if I had some nausea, I had to keep eating. The trail turned into a road and it started descending. Now... if you get to the point in a 100 miler where you can't at least jog a slight road downhill, you're bonking hard. I was not bonking hard, so I jogged. And then I threw up. And again. And again, everything this time. And once more just to be sure. A runner ahead of me called back, "Are you ok?" I couldn't speak. But even if I could, I didn't know the answer. Only time would tell. Maybe I would end up like that runner going backwards had worried about. But I had to trust in my body. So I threw my hands up in an "I don't know" motion. He asked for my bib number. I recovered just enough to yell it back to him.
+
+30 seconds after I threw the entire contents of my stomach up, I was running again, feeling better than I had in the last 10 miles. Ten minutes later, I tried a gel on my stomach. It held up. Alright, disaster avoided, puke and rally. Let's go.
+
+I joined up with Luke, (oddly, just as I was going off course and he was coming back from the same wrong turn) another runner I had met at the Grand Canyon with OB Run Club. He was also running his first 100 miler. I enjoyed spending some miles with him and we discussed our lives. It helped pass the time on the Saddleback trail, which I had been warned was not that great. But I enjoyed it. It was mostly a singletrack cut through meadows and drainages. Occasionally, it would require some care moving across a small drainage, creek, or over some deadfall. But overall, it was cooler than earlier because there was more shade available in the area. Or maybe I just felt better. We reached the Sweetwater River crossing, which was a few feet deep. I immediately took off my bag and squatted down into the water, going neck deep for 45 seconds. The photographer Chris Berger was in the water and got a great shot of me cooling down. I felt soooo good afterwards. It propelled me for at least 4 miles of good running. We reached a water stop, where Scotty Mills (I think) gave me a very refreshing push popsicle. I refilled a bottle and headed out quickly, leaving Luke. He would drop about 40 minutes behind me, but stay consistent through the back half of the race and finish in 27:17.
+
+The next six miles were hot, but I just ran and hiked consistently, keeping the heart rate moderate. I bombed the last technical downhill into the mile 41 aid station, Sweetwater. Feeling good and back caught up on nutrition and hydration, I didn't stay long. No more protein shakes for me. My crew switched out my hydration and nutrition. I drank some Hawaiian Punch. Face wiped, teeth brushed, and sunscreen reapplied, it was time to be off. Greg would join me for the next 20ish miles.
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+  <figure><img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/sweetwater.jpg"/><figcaption>At Sweetwater.</figcaption></figure>
+  <figure><img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/sweetwater-crew.jpg"/><figcaption>Miranda and Greg.</figcaption></figure>
+</div>
+
+#### Sweetwater (41) to Penny Pines 1 (59)
+
+We still had two major climbs left on the race, but the heat of the day would break before I would finish them. Greg and I started off. Two miles on meadowy singletrack. I jogged it OK. We got passed by a couple strong-looking runners, but I didn't worry about it. I enjoyed reconnecting with Greg. The climb was on a lightly used trail called the Harvey Moore Trail. It climbed steep in sections, but also with long shallow sections. I wanted to run uphill, but the heat was really getting to me. I had been in it all day and just couldn't jog or run in the exposed sunlight. It was past 5PM now. I just had to survive. We reached a tiny creek flooding across a dirt road. It was maybe an inch deep. I needed a cooldown so bad that I laid my backside down from butt to head. Not as good as the river crossing, but good enough to cool me down to keep going. We summited the climb in front of us and a cool wind blew over me, chilling the recently soaking clothes I was wearing, and for the first time all day, I felt cold. It was amazing.
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+<figure><img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/moore-running.jpg"/><figcaption>Running.</figcaption></figure>
+<figure><img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/moore-creek.jpg"/><figcaption>Lying in the creek.</figcaption></figure>
+</div>
+
+Some fun technical descent down to a road, then jogging along the road, then a water stop where Greg knew the volunteer. I took an Izze from him and enjoyed about half of it before the fizzyness was too much. I poured the rest out and we ran down the asphalt road into the mile 52 aid station, Hammer's Hideaway, just over 12 hours into the race. A near-12 50 mile first half was a good showing, but a bit behind 24 hour pace.
+
+The creek laydown and half Izze, when combined with the heat finally breaking as we neared 6PM, really revived me. I wasn't interested in eating too much at the aid station. Greg helped me fill up my bottles. I took a shot of pickle juice. Feeling good, I headed out, with Greg going to finish up and catch up to me. I used the time to hike so as not to get too far ahead of Greg.
+
+The next climb was Noble Canyon, an infamous climb in SD100 because of how runnable it is, but historically coming in the heat of the day. With the heat just breaking, we climbed it at sunset with the sun at our backs, occasionally cooking us and occasionally hidden behind canyon walls. I took the climb methodically, jogging flats and downs (which there were a surprising number of) and strongly hiking the ups. Three other dudes joined up with my pace. We had a nice train going. Greg chatted away with them while I led the train, head down, no energy for chatting myself. Noble took a while, but eventually, I made it just as we turned our headlamps on, into Penny Pines 1, and into the night.
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+  <figure><img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/noble-running.jpg"/><figcaption>Noble Canyon.</figcaption></figure>
+</div>
+
+#### Penny Pines 1 (59) to Red Tailed Roost (71)
+
+Penny was a madhouse with people everywhere, but I was glad to see my crew for the first time in a while. I ate some delicious chicken noodle soup. My palette fatigue with Gnarly was getting too much and I switched to water for the rest of the race. I changed into a dry shirt, Miranda opting for long sleeve, although it was debatable. I took off all my wet accessories: arm sleeves, ice bandana, and hat. Packed in my wind jacket. I drank an Oat Milk Latte and it was time to head out.
+
+Back on my own, I was clearly slowed down from much earlier in the race, but I was feeling good. I put on a podcast in my airpods and went off into the night. I had hear the meadows section would be nontechnical. At first it was. I was passed by a couple runners running really well. I stuck on their backs until they slowed up and I passed them again. Then we turned off onto the Sunset trail, where the running ended.
+
+Now I'm a big fan of technical trail. But this trail was small and overgrown to the point that the rocks were obscured by grass and growth. Every time I tried to run, I tripped and almost fell. I couldn't even run downhills. This was a bit frustrating, but I didn't worry too much. This was where I first used what would become my mantra of the race: "The only way out is through." I would need to move through this terrain to get to better terrain. I patiently moved through and eventually found my way out into Meadows Aid.
+
+I thought my crew would be there, but they had to pull out of Meadows to get a nap in. Luckily Greg made it over there and let me know before I ran around looking for them. I was in and out pretty quick and off to Red Tailed.
+
+The route between Penny and Red Tailed was the nontechnical section I was looking for. I probably could have run it faster, but at this point, I felt it was too early to start working hard and too late to run easy. So I hiked the nontechnical shallow uphill and eventually made it to Red Tailed without much else going on.
+
+Except that I got a poop in out on the trail. My first of the race. Felt great.
+
+#### Red Tailed Roost (71) to Pioneer Mail (85)
+
+At Red Tailed, Adera and Miranda excitedly welcomed me in. They brought me broth and avocados. I changed headlamps. And I left with Adera.
+
+Now Adera was making a comeback to running after the winter in San Diego. She had trained to come pace me, and we were both stoked to be running together. This was her first time at a 100 mile race crewing or pacing, and only her second night run ever. I wasn't entirely sure how it would go, but I was sure it would be enjoyable and help pass the miles.
+
+The first mile out of the aid was on a slight uphill road, which I took as a good reason to walk. We made sure not to miss the turn (which is basically a hairpin) onto the PCT, where I would be for the next 20 miles. I had been looking forward to the PCT all day. In the daytime, it is one of the most stunning views in the area, with a sheer 2000+ foot drop to the desert floor on your eastern side at times. We would catch it mostly at night, but that would still give us excellent stars and darkness (unfortunately it was a new moon, so not much moonlight to behold the darkness with).
+
+Feeling loose after a walking mile, we moved well through the darkness, chit-chatting away. I don't remember much about the next few miles, but they ticked by slowly, and we made it to Per's Cabin. They were playing some crazy music as we ran the quarter mile downhill off the PCT to the aid. In the fun atmosphere of the aid, after downing some broth, I took a tiny breakfast burrito to go and stuck a Perogi in my mouth as we left. Hiking back up, I gagged on the perogi as I was trying to swallow. I had to stop moving and cough it up. Oof.
+
+Back on the PCT, I started feeling tired. I remembered the old saying "When you feel good, slow down. When you feel bad, eat something." So I pulled out the breakfast burrito and took a bite. Chewing was so hard. I had to stop, sit down, and chew. It took forever to get a single bite down my throat. I packed the rest of the burrito up and said "No more chewing." I didn't take another bite of solid food until well after the race.
+
+I thought of Teanaway a couple years ago, where I flagged hard between 2am and 4am. It was nearing 2am now. I had 4 miles to the next aid station, where I could get some coke. I decided that would be too long, so I took a NoDoz and two Ibuprofen. And soon, I was running better, chatting more, and in a much better mood. It's a wonder what caffeine and some pain killers can do for you in these races.
+
+We ran into Penny Pines 2 (a much less busy aid station than Penny 1) nice and happy. We both had to use the restroom, and I got my second poop off without a hitch (nice!). I ate lots of broth and avocado while Adera was away. And we took off together for our final 4 miles.
+
+The last 4 miles to Pioneer Mail were mellow. I was feeling good, but not pushing too hard. Maybe in retrospect, I feel I could have moved better here, but then again, maybe that would have cost me in the end.
+
+
+#### Pioneer Mail (85) to Finish (~~100~~ 101)
+
+At Pioneer, Adera and Miranda switched pacing duties. I did my broth and avocado thing, refilled on gels, and we headed out. I walked the first mile with Miranda as the sun rose, mostly uphill and absolutely stunning views of the sunrise. But then, it was time to work. We had a long 6 mile downhill to Sunrise aid station. I ran and tried to keep running. My mantra repeated in my head. I would desperately want to stop and pant and walk, but I refused my mind's desire. The running would continue. I was now feeling out the walls of the Pain Cave.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+<figure><img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/sunrise.jpg"/><figcaption>Sunrise.</figcaption></figure>
+</div>
+
+The miles ticked by very slowly. I yearned for the Sunrise aid station to be one objective closer to my terminus. I ran and ignored my brain. Finally we made to the turnoff to Sunrise. I made it to the aid. We didn't stay long. A bottle refill. Greg was there. He took my unnecessary headlamp. He said "Only 9 miles to go!" I just groaned. 9 miles seemed like an eternity.
+
+We jogged off, passing the former 3rd place female, Paloma, who was flagging a bit on the last segment. I couldn't worry about anybody other than me. Every step was hard. Every step was harder.
+
+> The only way out is through.
+
+The trail took a wide turn around the base of a hill, then across a drainage, and onto another hill, following the highway for miles. I couldn't worry about where we were or how far it was to go. Just get around this hill. Then the next one.
+
+> The only way out is through.
+
+The space in front of me was where I needed to go. I had to go through the space. The road turned North as the trail kept West. Ok. Maybe that's progress.
+
+> The only way out is through.
+
+I cried. I just cried. Happiness washed over me. Without losing a step. I kept moving. I had more work to do. Tears must wait. More hills. More drainages.
+
+> The only way out is through.
+
+I had to go through this pain. I had to go through this difficulty. This was what was waiting for me. This was the experience I signed up for. This was why I was out here. The sun was out, and the heat was starting up again.
+
+> The only way out is through.
+
+We hit a road. My feet hated the rocks underfoot. The road had more rocks. I hated it. But I loved it. Because it meant we were closer. Closer to the next turn. And the next. And the next. And eventually, the last.
+
+> The only way out is through. The only way out is through. The only way out is through.
+
+I repeated it to myself. Except it wasn't silent anymore. I was speaking aloud my inner thoughts. Tears wanted to come. But work had to be done. We turned off onto some singletrack in the shade. I couldn't hold the running pace for very long now. Maybe a minute before I had to break to a walk.
+
+Two men passed us in the trees, running much better than I. I didn't care. But I tried to keep up. I couldn't.
+
+> The only way out is through.
+
+Finally, the horse stables. Finally, the break in the fence. I must go through it. I must emerge onto the lakeside and finish this endeavor.
+
+> Come on! Come on! Run! Run!
+
+Circling the lake took an eternity. I couldn't run it all. I encouraged myself aloud, pushing myself with my mind. Then we were 100 yards away. All my crew were waiting before the finish line jumping and cheering for me. Miranda encouraged me.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+<figure><img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/final-work.jpg"/><figcaption>The pain is on my face.</figcaption></figure>
+</div>
+
+> The only way out is through.
+
+I dug deep one last time and found a "sprint". I ran past all my friends. "Where do I go?" "Up the hill!" One last hill... might as well sprint it. I crossed the finish line. Relief and joy. Need to catch my breath
+
+Chris Gerber was on the ground taking photos of me. I caught my breath and reach out my hand to help him up. I had just run 100 miles, but I was still a gentleman. Angela brought over the medal, and I asked for a hug. I hugged my mom and my dad and every person I knew out there (so many!).
+
+Greg found me a seat. And I couldn't hold it in any more. I let all that emotion out. I just bawled, ugly cried, into my hands. Only my Dad and Greg really saw. Everyone else was running around seeing other people or getting stuff for me. I didn't say anything. I just cried. I was so happy that I had finished. So happy that I had pushed so hard.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+  <figure><img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/finish-relief.jpg"/><figcaption>Relief.</figcaption></figure>
+  <figure><img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/finish-gerber.jpg"/><figcaption>Exhaustion.</figcaption></figure>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+  <figure><img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/finish-mom.jpg"/><figcaption>Hugging my mom.</figcaption></figure>
+  <figure><img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/finish-dad.jpg"/><figcaption>Hugging my dad.</figcaption></figure>
+  <figure><img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/finish-crying.jpg"/><figcaption>Crying.</figcaption></figure>
+  <figure><img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/finish-adera.jpg"/><figcaption>Adera and I.</figcaption></figure>
+</div>
+
+### Personal Thoughts
+
+This was clearly my best performance at the 100-mile distance yet. The time is 2 minutes slower than my PR at Ring the Springs 100 last year, but I'd easily say San Diego 100 was a harder course. It didn't meet my 24-hour goal, but I couldn't care less. I did what my real goal was, run a *consistent* and *hard* effort.
+
+**Placement**: I finished in the top 12% of starters, which is my highest placement at a 100-miler (and second highest at a 100+ person ultra). I think that when things get hard, I stay consistent, and therefore I move up in rankings.
+
+**Consistency**: I never bonked; just the stomach getting upset at Mile 30-33. But, I recovered really well from that. I encountered issues from forgetting my bottles at the start, the puking at mile 33, heat affecting me throughout the day, more difficult trail than expected at mile 63, getting tired at mile 76, and of course, the pain cave push through at the final ~~15~~ 16 miles. I took care of all those issues.
+
+**Hard Work**: I'm super proud of my hard work on the back 16 miles. Figuring out how to push at the end of an ultra has been a long journey for me. This effort shows how far I've come from death marching in my first 100, or from DNF'ing 3 100-milers in a row, or falling apart two years ago at Teanaway at mile 94.
+
+**Nutrition**: It turns out that if you eat 300 calories of carbs an hour, you can fucking go as long as you want. After years of fueling with Spring Energy, I switched to Maurtens (due to my Food Pollen Allergy popping up at [Ring the Springs](/running/2023/12/20/ring-the-springs.html) last year, well before the nutrition shortfalls were discovered), which are just straight carbs with no flavor. And it's kind of perfect. Not for everyone, but if you just want the nutritional value and none of anything else, I highly recommend the Maurtens.
+
+**Mantra**: You don't plan your mantra. It's just what comes up over and over and over again as things get harder and harder. In past events, I've used "Everything ends, including this stupid climb". Today's was beautiful. "The only way out is through" is a mangled quote from Robert Frost. It came to mean not just that I cannot quit, but that I must move through the space in front of me, that there are no shortcuts, and that I must go through this pain to emerge the person I want to be on the other side.
+
+**The Race**: SD100 is something special. A huge tight-knit community that is super super supportive. Honestly one of the most helpful volunteer staffs I've ever known (up there with High Lonesome!) The course is beautiful high desert country and quite challenging for the quoted vert!
+
+### Thanks
+
+Many thanks to my wife, Miranda Williamson, for her tireless work crewing and pacing me. She continues to be the best wife a man could ever want. Thanks to the rest of my crew, Adera, Greg, and LeAnna, all of whom came out to support me out of their own desires to help me, which I appreciate greatly. Special call out to Greg who helped out a ton all night in the race after his pacing was done.
+
+Big thanks to my coach Mark Marzen for getting me to this point with my training. From sauna work to dealing with the Covid bouts to being easy on me when I had to visit my parents, I really appreciate his coaching.
+
+I really appreciate my mother and father attending the race. My father has Leukemia, and this may have been his last chance to see me doing what I love. I truly appreciate that he fought through all the difficulties he had to come out to support me.
+
+Thanks to all the volunteers and the two Race Directors: BJ and Angela. The race was amazing! I can't wait to come back to crew, volunteer, or run again!
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
+  <figure><img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/awards.jpg"/><figcaption>Awards are sweet.</figcaption></figure>
+</div>
+
