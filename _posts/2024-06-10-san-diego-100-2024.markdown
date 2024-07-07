@@ -5,7 +5,7 @@ categories: running
 date: 2024-06-10 18:00:00
 ---
 
-On Friday June 10, 2024, I ran the [San Diego 100 Mile Endurance Race](https://sandiego100.com) for my first time. It would be my fourth official 100-mile finish and in my opinion, my best result at the distance so far, finishing in 30th place in 26:40 ([splits](https://www.ultralive.net/sd100#tracking/runner/174)).
+On Friday June 7, 2024, I ran the [San Diego 100 Mile Endurance Race](https://sandiego100.com) for my first time. It would be my fourth official 100-mile finish and in my opinion, my best result at the distance so far, finishing in 30th place in 26:40 ([splits](https://www.ultralive.net/sd100#tracking/runner/174) and [strava](https://www.strava.com/activities/11606704116)).
 
 <!--break-->
 
@@ -42,7 +42,7 @@ I had a huge knot in my chest. I felt so nervous. But once I got my drop bags dr
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
 <figure>
   <img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/start.jpg"/>
-  <figcaption>Flat Runner.</figcaption>
+  <figcaption>Excited/Anxious.</figcaption>
   </figure>
 </div>
 
@@ -245,4 +245,8 @@ Thanks to all the volunteers and the two Race Directors: BJ and Angela. The race
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
   <figure><img style="max-height: 600px; max-width: 100%;" src="/img/sd100-2024/awards.jpg"/><figcaption>Awards are sweet.</figcaption></figure>
 </div>
+
+*Update*: Almost exactly one week after I finished SD100, my father passed away, with me at his bedside. In the last weeks before he died, we had finally gotten what we wanted out of each other from our rekindled adult relationship. I wanted him to see and understand me, and seeing me finish SD100 was enough for that. He wanted to be loved and cared for, and I was there at the end to do that. I said the following in my eulogy at his funeral:
+
+> A son wants to be seen, to be understood. A father wants to be loved, and cared for. In the end, both were satisfied.
 
