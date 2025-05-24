@@ -2,7 +2,7 @@
 title: 2025 Utah 115 Race Report
 layout: post
 categories: running
-date: 2025-05-25 00:00:00
+date: 2025-05-24 16:00:00
 ---
 
 On Friday May 16, 2025, I ran the [Utah 115](https://g2gultra.com/utah-115/about-the-race) in Kanab, UT in it's inaugural year. And although I can never look at sand the same, I finished it for my sixth official 100-mile finish in 38:27:21 ([strava or it didn't happen](https://www.strava.com/activities/14514376016/overview)).
