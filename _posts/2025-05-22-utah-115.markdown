@@ -32,8 +32,8 @@ We arrived in Kanab Thursday afternoon, checked in to pick up my bib and found o
 At 7am (what a civilized time to start a race!), we were off. The sun had yet to hit Kanab over the mesa to the east, so it was cool as we traversed up Tom's Canyon. We hit trail within a mile, red dirt. It switched up a bit before crossing a wide valley. We came to an intersection with a trail called "Cliffs Trail." Now this was a fun trail! It basically went straight up the side of the cliff. At one point, I had to take a 3.5 foot high step up! Summiting the Cliffs Trail, I came to a sandy OHV road and ate a gel. Now, I knew most of the course was on forest roads from the maps I had looked at. I figured most were dirt or gravel roads. But, as soon as I hit this road at the top and saw it covered in sand, I knew we were in for a sandy day.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/cliffs-trail.jpeg"/><figcaption>Climbing the Cliffs Trail.</figcaption></figure>
-  <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/hog-canyon-1.jpeg"/><figcaption>Hog Canyon.</figcaption></figure>
+  <figure><img style="max-height: 600px;" src="/img/utah-115-2025/cliffs-trail.jpeg"/><figcaption>Climbing the Cliffs Trail.</figcaption></figure>
+  <figure><img style="max-height: 600px;" src="/img/utah-115-2025/hog-canyon-1.jpeg"/><figcaption>Hog Canyon.</figcaption></figure>
 </div>
 
 I descended this road and [Jessica](https://www.instagram.com/jessturner132/) caught up with me. We hit a bushwhacking section where I was a bit more efficient so I took the lead. We chatted and I found out she has a podcast too, [The Endurance Studio](https://podcasts.apple.com/us/podcast/the-endurance-studio/id1733467436). Soon we were back on OHV roads and Jessica took off. My shoes were starting to become filled with sand, but I tried to ignore it. A long slightly downhill road grade into Best Friends aid station. Quick bottle fill and I left. But I ended up leaving behind two gels, which I didn't realize until after I ran out of gels many miles later. (Hilariously, as I was writing this report, I found the gels in the bladder compartment of my bag, which I must have carried the entire rest of the race... lol)
@@ -41,15 +41,15 @@ I descended this road and [Jessica](https://www.instagram.com/jessturner132/) ca
 Right after Best Friends, I passed the Angels Rest Animal Cemetery. I thought of my dog Summit and started crying. Gosh, I love that guy so much. He's currently sleeping at my feet as I write this. Throughout the race, anytime I'd pull out my phone, his face is on my screen, and it would remind me of him. He became my muse, my reason for pushing through the difficulty. I dedicated this race to him.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/angels-rest-2.jpeg"/><figcaption>Angels Rest.</figcaption></figure>
-  <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/angels-rest.jpeg"/><figcaption>Wind chimes at Angels Rest.</figcaption></figure>
+  <figure><img style="max-height: 600px;" src="/img/utah-115-2025/angels-rest-2.jpeg"/><figcaption>Angels Rest.</figcaption></figure>
+  <figure><img style="max-height: 600px;" src="/img/utah-115-2025/angels-rest.jpeg"/><figcaption>Wind chimes at Angels Rest.</figcaption></figure>
 </div>
 
 Right after the cemetery, I couldn't handle the sand in my shoes any longer and stopped to dump them beside the road. Sand dump 1 at mile 12.5 for those keeping score. The Best Friends area was nice, very little sand, but it didn't last long. Pretty soon we were on another OHV access road, then dropping down, crossing highway 89, bushwhacking some, and now running up Cave Lakes Canyon Ranch. The ranch is private and the first couple miles are on an asphalt road, so I jogged. It was really pretty in this canyon, with classic Utah red rock formations on both sides.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/cave-lakes.jpeg"/><figcaption>Cave Lakes Canyon Ranch.</figcaption></figure>
-  <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/cave-lakes-2.jpeg"/><figcaption>Rock Formations in Cave Lakes Canyon.</figcaption></figure>
+  <figure><img style="max-height: 600px;" src="/img/utah-115-2025/cave-lakes.jpeg"/><figcaption>Cave Lakes Canyon Ranch.</figcaption></figure>
+  <figure><img style="max-height: 600px;" src="/img/utah-115-2025/cave-lakes-2.jpeg"/><figcaption>Rock Formations in Cave Lakes Canyon.</figcaption></figure>
 </div>
 
 Soon, the asphalt turned to sand. We had to climb over our first barbed wire fence, this one with just a log sitting at the top wedged in between two wires. I carefully tested the wires as I climbed up onto the log and jumped down the other side. Now the sand was deeper. This was the unmaintained other end of Cave Lakes Canyon. Eventually we came out and up onto... guess what? another OHV road. This one cut across open land to the second aid station at Hancock Rd. I dumped my shoes of sand again... wondering when the sand might abate.
@@ -105,7 +105,7 @@ We went through the Belly of the Dragon, which was a cool tunnel/slot canyon und
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/belly-of-the-dragon.jpeg"/><figcaption>Belly (anus?) of the Dragon.</figcaption></figure>
+  <figure><img style="max-height: 600px;" src="/img/utah-115-2025/belly-of-the-dragon.jpeg"/><figcaption>Belly (anus?) of the Dragon.</figcaption></figure>
 </div>
 
 This was around mile 60. Midnight or so. My mood was starting to darken. Occasionally, I would ask Miranda why I was feeling so low. I was critical of my slow speed. I felt the next aid station would never come. Miranda was supportive, telling me I'm doing really well. It was hard to hear, but I tried.
@@ -169,8 +169,8 @@ I hiked with purpose and even jogged a little. When I neared the radio towers ab
 The trail opened up onto the side of the mesa, vertical red rock pockmarked with cacti and agave. The city was below me, lights coming online to prepare for night. Civil twilight was yet to come, so I still had time. Finally, this course was giving something back to me. I felt energized. I ran. The trail was hard to find in places, switching from clear singletrack in the red dirt to rock hopping and back. Some short switchbacks dropped us off a point and down into the side of the canyon, traversing on a bench above a rock band. A long switchback swung me around to the other side of a rock outcropping and switched back two more times. As darkness set, I played the headlamp/no headlamp game, trying to move my feet as fast as I could on the technical trail in the waning light. Eventually, I had to relent and put on my headlamp to see the technical trail. The final switchback placed me in a dry creekbed, and I was on the bottom.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/hog-canyon-2.jpeg"/><figcaption>Hog Canyon, but a day later.</figcaption></figure>
-  <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/squaw-trail.jpeg"/><figcaption>The Squaw Trail. (I thought we didn't use that word anymore...)</figcaption></figure>
+  <figure><img style="max-height: 600px;" src="/img/utah-115-2025/hog-canyon-2.jpeg"/><figcaption>Hog Canyon, but a day later.</figcaption></figure>
+  <figure><img style="max-height: 600px;" src="/img/utah-115-2025/squaw-trail.jpeg"/><figcaption>The Squaw Trail. (I thought we didn't use that word anymore...)</figcaption></figure>
 </div>
 
 I followed the markers and reached a picnic table. I knew I was less than a mile from the finish. I emptied my shoes of sand one last time. I ran. Dirt and sand turned to pavement. My watch said a half mile. My body wanted to stop. The pain was high. "You can stop when you finish." The half mile lasted for hours in my head. But merely 5 minutes passed in reality. I crossed the line and wanted to sit.
@@ -178,8 +178,8 @@ I followed the markers and reached a picnic table. I knew I was less than a mile
 38 hours and 27 minutes and some seconds. Seventh place (first non-podium finisher). The deepest I've ever dug in the well. Near pure internal motivation. It was finally over. I didn't have to move anymore.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/finish.jpeg"/><figcaption>Finish</figcaption></figure>
-  <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/buckle.jpg"/><figcaption>Buckle and Bib. (is that a good coffee shop name?)</figcaption></figure>
+  <figure><img style="max-height: 600px;" src="/img/utah-115-2025/finish.jpeg"/><figcaption>Finish</figcaption></figure>
+  <figure><img style="max-height: 600px;" src="/img/utah-115-2025/buckle.jpg"/><figcaption>Buckle and Bib. (is that a good coffee shop name?)</figcaption></figure>
 </div>
 
 ### Conclusions
