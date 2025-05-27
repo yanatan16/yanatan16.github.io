@@ -67,7 +67,7 @@ Next up was the jewel of the course: the Pink Coral Sand Dunes. A mile down the 
 After the fifth dune, I felt elated at doing something so hard, being in this magical place, moving with my own two feet. I thought of Summit and how happy he would be to be in the dunes. I had a muse and I had a way forward. I was, for a brief moment, happy.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/dunes.jpeg"/><figcaption>The Dunes.</figcaption></figure>
+  <figure><img style="max-height: 600px; max-width: 800px;" src="/img/utah-115-2025/dunes.jpeg"/><figcaption>The Dunes.</figcaption></figure>
   <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/dunes-2.jpeg"/><figcaption>More Dunes.</figcaption></figure>
 </div>
 
