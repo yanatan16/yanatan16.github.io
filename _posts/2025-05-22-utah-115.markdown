@@ -67,8 +67,8 @@ Next up was the jewel of the course: the Pink Coral Sand Dunes. A mile down the 
 After the fifth dune, I felt elated at doing something so hard, being in this magical place, moving with my own two feet. I thought of Summit and how happy he would be to be in the dunes. I had a muse and I had a way forward. I was, for a brief moment, happy.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <figure><img style="max-height: 600px; max-width: 800px;" src="/img/utah-115-2025/dunes.jpeg"/><figcaption>The Dunes.</figcaption></figure>
-  <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/dunes-2.jpeg"/><figcaption>More Dunes.</figcaption></figure>
+  <figure><img style="max-height: 600px;" src="/img/utah-115-2025/dunes.jpeg"/><figcaption>The Dunes.</figcaption></figure>
+  <figure><img style="max-height: 600px;" src="/img/utah-115-2025/dunes-2.jpeg"/><figcaption>More Dunes.</figcaption></figure>
 </div>
 
 After the fifteenth dune, my happiness was gone, replaced with delirium. I had been climbing and descending dunes. My pace had to be slower than 2 miles per hour. I would half trip occasionally. The repetitive climbs and descents felt neverending.
@@ -81,8 +81,8 @@ With my newfound "optimism" on these sandy trails, I passed a couple of runners 
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/barbed-wire.jpeg"/><figcaption>Barbed Wire Fence Crossing.</figcaption></figure>
-  <figure><img style="max-height: 600px; max-width: 400px;" src="/img/utah-115-2025/elephant-rd.jpeg"/><figcaption>Views from Elephant Rd.</figcaption></figure>
+  <figure><img style="max-height: 600px;" src="/img/utah-115-2025/barbed-wire.jpeg"/><figcaption>Barbed Wire Fence Crossing.</figcaption></figure>
+  <figure><img style="max-height: 600px;" src="/img/utah-115-2025/elephant-rd.jpeg"/><figcaption>Views from Elephant Rd.</figcaption></figure>
 </div>
 
 I put in a podcast on my headphones. I had lined up 14 hours of podcasts (hoping that would be enough). And I just hiked. Hiked and hiked. We were only at the 50k mark, but I was resigned to hiking pretty much anything flat or uphill. The sand was too much wasted effort for my form/muscles/body/etc. I thought it was too slow, but close to the next aid station, I passed Shai. She didn't say much. She looked very tired at the aid station. I left before her.
