@@ -1,0 +1,20 @@
+{%- if include.img2 or include.img3 -%}
+  {%- assign bar_class = "photo-bar photo-bar--wide" -%}
+{%- else -%}
+  {%- assign bar_class = "photo-bar" -%}
+{%- endif -%}
+{%- if include.height -%}{%- assign img_style = "max-height: " | append: include.height | append: "px;" -%}{%- endif -%}
+<div class="{{ bar_class }}">
+{%- if include.img1 %}
+  <figure><img src="{{ include.img1 }}" alt="{{ include.cap1 }}"{% if img_style %} style="{{ img_style }}"{% endif %}>{% if include.cap1 %}<figcaption>{{ include.cap1 }}</figcaption>{% endif %}</figure>
+{%- endif -%}
+{%- if include.img2 %}
+  <figure><img src="{{ include.img2 }}" alt="{{ include.cap2 }}"{% if img_style %} style="{{ img_style }}"{% endif %}>{% if include.cap2 %}<figcaption>{{ include.cap2 }}</figcaption>{% endif %}</figure>
+{%- endif -%}
+{%- if include.img3 %}
+  <figure><img src="{{ include.img3 }}" alt="{{ include.cap3 }}"{% if img_style %} style="{{ img_style }}"{% endif %}>{% if include.cap3 %}<figcaption>{{ include.cap3 }}</figcaption>{% endif %}</figure>
+{%- endif -%}
+{%- if include.caption %}
+  <figcaption class="photo-bar__caption">{{ include.caption }}</figcaption>
+{%- endif %}
+</div>
