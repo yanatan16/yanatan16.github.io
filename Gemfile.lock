@@ -18,6 +18,7 @@ GEM
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
     connection_pool (2.4.1)
+    csv (3.3.5)
     drb (2.2.0)
       ruby2_keywords
     em-websocket (0.5.3)
@@ -72,19 +73,23 @@ GEM
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    logger (1.7.0)
     mercenary (0.4.0)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minitest (5.20.0)
+    minitest (6.0.6)
+      drb (~> 2.0)
+      prism (~> 1.5)
     mutex_m (0.2.0)
-    nokogiri (1.15.5-arm64-darwin)
+    nokogiri (1.19.4-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.15.5-x86_64-linux)
+    nokogiri (1.19.4-x86_64-linux-gnu)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+    prism (1.9.0)
     public_suffix (5.0.4)
     racc (1.7.3)
     rb-fsevent (0.11.2)
@@ -106,15 +111,20 @@ GEM
 PLATFORMS
   arm64-darwin-21
   arm64-darwin-22
+  arm64-darwin-24
   x86_64-linux
 
 DEPENDENCIES
+  base64
+  bigdecimal
+  csv
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.2.2)
   jekyll-feed (~> 0.12)
   jekyll-redirect-from
   jekyll-sitemap
   jemoji
+  logger
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data

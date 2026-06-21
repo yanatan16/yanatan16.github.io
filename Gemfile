@@ -34,6 +34,12 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.7"
 
+# Ruby 3.4+/4.0 removed these from the default load path; Jekyll 4.2.2 assumes they exist.
+gem "logger"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+
 gem "jemoji"
 gem "jekyll-redirect-from"
 gem "jekyll-sitemap"
