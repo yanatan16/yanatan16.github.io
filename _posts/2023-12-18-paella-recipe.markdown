@@ -57,10 +57,6 @@ Regardless of what you choose, I usually add about 2lbs of meat+seafood plus one
 7. Remove the Paella from the heat. Serve immediately, using a scraping tool to get the charred rice from the bottom into every dish.
 8. Garnish with lemon slices and a negroni.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <img style="max-height: 400px; max-width: 100%;" src="/img/paella/paella1.jpg"/>
-  <img style="max-height: 400px; max-width: 100%;" src="/img/paella/paella2.jpg"/>
-  <img style="max-height: 400px; max-width: 100%;" src="/img/paella/paella3.jpg"/>
-  <img style="max-height: 400px; max-width: 100%;" src="/img/paella/paella4.jpg"/>
-  <img style="max-height: 400px; max-width: 100%;" src="/img/paella/paella5.jpg"/>
-</div>
+{% include photos.html img1="/img/paella/paella1.jpg" img2="/img/paella/paella2.jpg" img3="/img/paella/paella3.jpg" %}
+
+{% include photos.html img1="/img/paella/paella4.jpg" img2="/img/paella/paella5.jpg" %}
