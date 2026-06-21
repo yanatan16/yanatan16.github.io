@@ -7,9 +7,7 @@ date: 2023-03-19 10:30:00
 
 On Tuesday, March 14, 2023, I ran in the infamous Barkley Marathons. If you would like to learn more about the Barkley, it was well-portrayed in the documentary: [The Barkley Marathons: The Race That Eats Its Young](https://www.imdb.com/title/tt2400291/). But my story starts many years before.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <img style="max-height: 600px; max-width: 100%;" src="/img/barkley-2023/gate.jpeg"/>
-</div>
+{% include photos.html img1="/img/barkley-2023/gate.jpeg" %}
 
 <!--break-->
 
@@ -84,10 +82,7 @@ On the day before the race, we drove up to Frozen Head for the race. John Clarke
 
 A line formed near the first campsite: check-in had started. I eagerly got my license plate and headed up there. The line was mostly formed of virgins super-eager to check-in in their first year. Vets were milling about, checking out the map, and waiting for the long line to die down.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <img style="max-height: 600px; max-width: 100%;" src="/img/barkley-2023/license-plates.jpeg"/>
-  <img style="max-height: 600px; max-width: 100%;" src="/img/barkley-2023/checkin.jpeg"/>
-</div>
+{% include photos.html img1="/img/barkley-2023/license-plates.jpeg" img2="/img/barkley-2023/checkin.jpeg" %}
 
 I met up with Andrea Kooiman and Dawn Greenwalt, who I knew from training calls with Lightfoot Coaching, as well as Wes Thurman and John Clarke (crew for Wes) from Colorado. The line took forever, but eventually, I got to sit down across from laz. We chatted briefly. He told me what he was telling everyone:
 
@@ -109,9 +104,7 @@ Finally, I headed to the gate. Laz made a small speech, taking a moment of silen
 
 ### The Race
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <img style="max-height: 600px; max-width: 100%;" src="/img/barkley-2023/start.jpeg"/>
-</div>
+{% include photos.html img1="/img/barkley-2023/start.jpeg" %}
 
 He lit the cigarette and we were off. I knew Barkley starts were mad dashes, but this was more than I had expected. I let people pass me on the road, not wanting to be forced into red-lining the first climb. I found myself somewhere in the middle at the trail turnoff, then onto Wrong Way Ridge. I pushed up that first climb, keeping the group in front of me in sight. My heart is beating out of my chest. _I'm running the Barkley!_
 
@@ -242,6 +235,4 @@ After I got some sleep, I was able to become a spectator of the race, seeing Aur
 
 I'm pretty sure a finish is beyond my abilities. But I have more to give than I gave this year. I'll be back.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <img style="max-height: 600px; max-width: 100%;" src="/img/barkley-2023/pages.jpeg"/>
-</div>
+{% include photos.html img1="/img/barkley-2023/pages.jpeg" %}
