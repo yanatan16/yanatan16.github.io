@@ -3,53 +3,52 @@
 ---
 @charset "utf-8";
 
-
-
-// Our variables
-$base-font-family: 'Source Sans Pro', sans-serif;
-$mono-font-family: 'Source Code Pro', monospace;
+// ---------------------------------------------------------------------------
+//  Type — one family, varied weights (neo-grotesque)
+// ---------------------------------------------------------------------------
+$base-font-family: 'Schibsted Grotesk', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+$mono-font-family: $base-font-family; // legacy alias, no separate mono
 $base-font-size:   18px;
-$small-font-size:  $base-font-size * 0.875;
-$tiny-font-size:  $base-font-size * 0.75;
-$base-line-height: 1.5;
+$small-font-size:  $base-font-size * 0.85;
+$tiny-font-size:   $base-font-size * 0.66;
+$base-line-height: 1.55;
 
-$font-weight: 400;
+$font-weight:      400;
 $bold-font-weight: 700;
 
 $spacing-unit:     30px;
 
-$text-color:       #000102;
-$background-color: #fff;
-$brand-color:      darken(#fcba03, 10%);
+// ---------------------------------------------------------------------------
+//  Desert ↔ Alpine palette (complementary: salt-flat blue ↔ desert coral)
+// ---------------------------------------------------------------------------
+$bone:        #f1ebe2;   // bleached bone ground
+$bone-2:      #e7ded2;   // panel / inset
+$ink:         #18212e;   // alpine navy-black
+$ink-soft:    #5b6473;   // muted text / meta
+$rule:        #d2c8bb;   // hairline rules
+$blue:        #2f6f86;   // salt-flat blue — primary accent / interactive
+$blue-dk:     #245567;
+$coral:       #d4654e;   // desert coral — warm spark / indices
 
-$grey-color:       #597fa5;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+// ---- Legacy aliases so _syntax-highlighting & _races keep compiling ----
+$text-color:       $ink;
+$background-color: $bone;
+$brand-color:      $blue;
+$grey-color:       $ink-soft;
+$grey-color-light: $bone-2;
+$grey-color-dark:  $ink;
 
-// Width of the content area
-$content-width:    1100px;
+// Layout
+$content-width:    1240px;
+$on-palm:          600px;
+$on-laptop:        900px;
 
-$on-palm:          400px;
-$on-laptop:        400px;
-
-
-
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
     }
 }
 
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
         "layout",

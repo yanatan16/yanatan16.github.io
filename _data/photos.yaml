@@ -1,0 +1,34 @@
+---
+albums:
+- id: summer-2026
+  name: Summer 2026
+  count: 25
+  cover: https://pub-171f4a6325e547438603dbaf07272b94.r2.dev/summer-2026/.thumbnails/DSCF3764.jpg
+- id: dash-n-dine-2026-week-3
+  name: Dash N Dine 2026 Week 3
+  count: 45
+  cover: https://pub-171f4a6325e547438603dbaf07272b94.r2.dev/dash-n-dine-2026-week-3/.thumbnails/DSCF3528.jpg
+- id: badwater-salton-sea-2026
+  name: Badwater Salton Sea 2026
+  count: 93
+  cover: https://pub-171f4a6325e547438603dbaf07272b94.r2.dev/badwater-salton-sea-2026/.thumbnails/DSCF3098.jpg
+- id: 2026-boulder-winter
+  name: Boulder Winter
+  count: 24
+  cover: https://pub-171f4a6325e547438603dbaf07272b94.r2.dev/2026-boulder-winter/.thumbnails/L1000098.jpg
+- id: 2026-valle-de-guadelupe
+  name: Valle De Guadelupe
+  count: 53
+  cover: https://pub-171f4a6325e547438603dbaf07272b94.r2.dev/2026-valle-de-guadelupe/.thumbnails/DSCF2630.jpg
+- id: 2026-avalon
+  name: Avalon
+  count: 22
+  cover: https://pub-171f4a6325e547438603dbaf07272b94.r2.dev/2026-avalon/.thumbnails/DSCF2533.jpg
+- id: 2025-cali-trip
+  name: Cali Trip
+  count: 19
+  cover: https://pub-171f4a6325e547438603dbaf07272b94.r2.dev/2025-cali-trip/.thumbnails/DSCF2361.jpg
+- id: 2025-brads-birthday
+  name: Brads Birthday
+  count: 59
+  cover: https://pub-171f4a6325e547438603dbaf07272b94.r2.dev/2025-brads-birthday/.thumbnails/DSCF2160.jpg

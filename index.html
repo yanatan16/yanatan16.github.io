@@ -4,18 +4,59 @@ layout: default
 order: 1
 ---
 
-<div class="hero hero-img" style=" text-align: center;">
-  <img src="/img/hero.jpg" style="width: 75%; margin: auto;" />
-</div>
-<div class="hero hero-p">
-  Hi, I'm Jon. I'm an avid runner of mountains, trail, and ultra distances, and I work as a Software Engineer for Apple.
-  This blog has been going off and on since 2012.
-  In its digital pages, you'll find writings about technology, programming, running, Georgia Tech football, bike
-  building, homebrewing, and some personal philosophy.
-  These days, it's mostly running.
-</div>
+<header class="masthead">
+  <h1 class="name reveal d1">Jon<br>Eisen</h1>
+  <div class="mast-foot">
+    <div class="ident reveal d2">
+      <span>Runner</span><span class="sep"></span>
+      <span>Engineer</span><span class="sep"></span>
+      <span>Photographer</span>
+    </div>
+    <p class="blurb reveal d2">I run long distances in the mountains, build software, and make
+      <b>photographs</b> along the way. The <b>writing</b> and the <b>frames</b> both live here.</p>
+  </div>
+</header>
 
-{% assign posts_rest = site.posts %}
-<div>
-  {% include post-list.html posts_rest=posts_rest %}
-</div>
+{% if site.data.photos.albums %}
+<section class="sec">
+  <div class="sec-head reveal d3">
+    <span class="idx">01</span>
+    <h2>Photographs</h2>
+    <a class="more meta" href="https://joneisen.me/photos/">All albums <span class="arr">&rarr;</span></a>
+  </div>
+  <div class="frames reveal d3">
+    {% for album in site.data.photos.albums limit:4 %}
+    <a class="frame" href="https://joneisen.me/photos/#/album/{{ album.id }}">
+      <span class="img"><img loading="lazy" src="{{ album.cover }}" alt="{{ album.name }}"></span>
+      <span class="cap">
+        <span class="t">{{ album.name }}</span>
+        <span class="ct">{{ album.count }}</span>
+      </span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section class="sec">
+  <div class="sec-head reveal d4">
+    <span class="idx">02</span>
+    <h2>Writing</h2>
+    <a class="more meta" href="{{ "/running/" | prepend: site.baseurl }}">All posts <span class="arr">&rarr;</span></a>
+  </div>
+  <div class="writing reveal d4">
+    <ul class="post-list">
+      {% for post in site.posts limit:6 %}
+      <li>
+        <a class="entry" href="{{ post.url | prepend: site.baseurl }}">
+          <span class="n">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
+          <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <span class="cat">{{ post.categories[0] }}</span>
+          <span class="ttl">{{ post.title }}</span>
+          <span class="go">&rarr;</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

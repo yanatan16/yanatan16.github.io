@@ -1,5 +1,5 @@
 /**
- * Reset some basic elements
+ * Reset
  */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
@@ -8,25 +8,30 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+* { box-sizing: border-box; }
 
 /**
- * Basic styling
+ * Base
  */
+html {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
 body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 300;
+    font-weight: $font-weight;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
 }
 
-
+::selection { background: $blue; color: $bone; }
 
 /**
- * Set `margin-bottom` to maintain vertical rhythm
+ * Vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
@@ -35,187 +40,138 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
-
-
 /**
- * Images
+ * Headings — heavy neo-grotesque, tight tracking
  */
-img {
-    max-width: 100%;
-    vertical-align: middle;
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
 }
 
-
-
 /**
- * Figures
+ * Images & figures
  */
-figure > img {
-    display: block;
-}
-
+img { max-width: 100%; vertical-align: middle; }
+figure > img { display: block; }
 figcaption {
     font-size: $small-font-size;
     text-align: center;
+    color: $ink-soft;
+    margin-top: 8px;
 }
-
-
 
 /**
  * Lists
  */
-ul, ol {
-    margin-left: $spacing-unit;
-}
-
-li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
-}
-
-
+ul, ol { margin-left: $spacing-unit; }
+li > ul, li > ol { margin-bottom: 0; }
 
 /**
- * Headings
- */
-h1, h2, h3, h6 {
-    font-weight: 300;
-}
-h4, h5 {
-    font-weight: 700;
-}
-
-
-
-/**
- * Links
+ * Links — salt-flat blue interaction
  */
 a {
-    color: $grey-color-dark;
+    color: $blue;
     text-decoration: none;
+    transition: color .2s ease;
 
-    .preview-content &, .post-content & {
-        font-weight: bold;
-    }
-
-    &:visited {
-        color: $grey-color-dark;
-    }
-
-    &:hover {
-        color: $brand-color;
-        text-decoration: underline;
-    }
+    &:visited { color: $blue; }
+    &:hover   { color: $coral; }
 }
-
-
 
 /**
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    color: $ink-soft;
+    border-left: 3px solid $blue;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
+    font-size: 19px;
     font-style: italic;
 
-    > :last-child {
-        margin-bottom: 0;
-    }
+    > :last-child { margin-bottom: 0; }
 }
-
-
 
 /**
- * Code formatting
+ * Code
  */
-
-/*     border-radius: 3px; */
-/*     background-color: #eef; */
-/* } */
-
-/* inline */
-p code {
-  padding: 1px 5px;
-  background-color: $grey-color-light;
-  border-radius: 3px;
-  font-size: 16px;
-  white-space: nowrap;
+p code, li code {
+    padding: 1px 6px;
+    background-color: $bone-2;
+    border-radius: 3px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 15px;
+    white-space: nowrap;
 }
 
-pre > code {
-  font-size: 13px;
-}
-
+pre > code { font-size: 13px; white-space: pre; }
 
 .highlighter-rouge > .highlight {
-  border-radius: 5px;
-  background: lighten($grey-color-light, 5%);
-  padding: 5px;
+    border-radius: 6px;
+    background: lighten($bone-2, 4%);
+    padding: 12px 14px;
+    overflow-x: auto;
+    border: 1px solid $rule;
 }
 
-
-
-
-
+strong { font-weight: 700; }
+em { font-style: italic; }
+hr { border: none; border-top: 1px solid $rule; }
 
 /**
- * Wrapper
+ * Wrapper — shared content rail
  */
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    max-width: $content-width;
+    margin: 0 auto;
+    padding: 0 clamp(20px, 5vw, 60px);
     @extend %clearfix;
-
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
 }
 
-
+%clearfix {
+    &:after { content: ""; display: table; clear: both; }
+}
 
 /**
- * Clearfix
+ * Shared utilities
  */
-%clearfix {
-
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
+.meta {
+    font-size: 11.5px;
+    font-weight: 600;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
 }
 
+.num {
+    font-weight: 700;
+    color: $coral;
+    font-variant-numeric: tabular-nums;
+}
 
+/**
+ * Page-load reveal
+ */
+@keyframes rise {
+    from { opacity: 0; transform: translateY(16px); }
+    to   { opacity: 1; transform: none; }
+}
+.reveal { animation: rise .65s cubic-bezier(.2,.7,.2,1) both; }
+.d1 { animation-delay: .04s }
+.d2 { animation-delay: .12s }
+.d3 { animation-delay: .20s }
+.d4 { animation-delay: .28s }
+
+@media (prefers-reduced-motion: reduce) {
+    .reveal { animation: none; }
+}
 
 /**
  * Icons
  */
-.icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
-    }
-}
-
-strong {
-    font-weight: 600;
+.icon > svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    path { fill: $ink-soft; }
 }

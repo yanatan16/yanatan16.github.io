@@ -1,8 +1,12 @@
 <ul class="post-list">
   {% for post in posts_rest %}
     <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} under {{ post.categories[0] }}</span>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <a class="entry" href="{{ post.url | prepend: site.baseurl }}">
+        <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="cat">{{ post.categories[0] }}</span>
+        <span class="ttl">{{ post.title }}</span>
+        <span class="go">&rarr;</span>
+      </a>
     </li>
   {% endfor %}
 </ul>

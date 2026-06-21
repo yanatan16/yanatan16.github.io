@@ -1,31 +1,8 @@
 <header class="site-header">
-
   <div class="wrapper">
-    {% comment %}{% include hire-me.html %} {% endcomment %}
-
-    <a id="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    <nav class="site-nav">
-      <div class="trigger">
-        <!-- {% assign links = site.pages | sort: "order" %}
-        {% for link in links %}
-        {% if link.title and link.hide != true and link.layout != "race" %}
-        {% assign link_text = link.title | downcase | replace:' ','-' %}
-        {% if link.title == page.title %}
-        <a class="page-link selected">{{link_text}}</a>
-        {% else %}
-        <a class="page-link {% if page.section and page.section == link.section %}selected{% endif %}"
-          href="{{ link.url | prepend: site.baseurl }}">{{link_text}}</a>
-        {% endif %}
-        {% endif %}
-        {% endfor %} -->
-        <a class="photos-link" href="https://joneisen.me/photos">Photos</a>
-        <a class="works-link" href="http://joneisen.works/resume">Resume</a>
-        <a class="instagram-link" href="https://www.instagram.com/mildly_athletic/">Instagram</a>
-        <a class="github-link" href="https://github.com/yanatan16">Github</a>
-      </div>
-    </nav>
-
+    <div class="topbar">
+      <a class="l" href="{{ site.baseurl }}/">Jon Eisen</a>
+      <span class="r">Boulder, Colorado &nbsp;/&nbsp; <b>Est. 2012</b></span>
+    </div>
   </div>
-
 </header>

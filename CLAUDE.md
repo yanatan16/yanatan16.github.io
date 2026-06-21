@@ -21,11 +21,16 @@ This is a personal blog for Jon Eisen (joneisen.me), built with **Jekyll 4.2.2**
 - `_drafts/` — Unpublished posts
 - `_data/beer.yaml` — Structured homebrewing data (beer recipes with style, ABV, IBU, SRM)
 - `_data/srm.yaml` — SRM-to-hex color lookup table used to render beer colors
+- `_data/photos.yaml` — Album snapshot (id/name/count/cover) feeding the homepage Photographs section. **Generated, do not hand-maintain** — see Photos integration below.
 - `races/` — Race-specific standalone pages
 
 Post categories used: `programming`, `running`, `misc`, `sports`, `bikes`, `recipes`, `philosophy`. A post sets a single `categories:` value in frontmatter; the category drives which feed page surfaces it.
 
-The home page (`index.html`) uses the `default` layout and lists every post. Category feed pages (`running.html`, `programming.html`) use the `feed-page` layout: it reads `page.category`, pulls `site.categories[category]`, displays the first post prominently via `_includes/preview.html`, then lists the rest via `_includes/post-list.html`.
+The home page (`index.html`) uses the `default` layout. It is a two-section landing — **Photographs** (the first 4 albums in `_data/photos.yaml`) and **Writing** (the 6 most recent posts) — not a full post list. Category feed pages (`running.html`, `programming.html`) use the `feed-page` layout: it reads `page.category`, pulls `site.categories[category]`, displays the first post prominently via `_includes/preview.html`, then lists the rest via `_includes/post-list.html`.
+
+### Photos integration
+
+The homepage features real album covers from the separate **photos.joneisen.me** site (a sibling repo, served at `joneisen.me/photos/`, deep-linked via hash routes `…/photos/#/album/<id>`). `rake photos` reads that repo's `../photos.joneisen.me/src/data/photos.json`, filters small albums, and writes `_data/photos.yaml`. Re-run it to refresh covers; the homepage shows the first 4 entries, so **reorder `_data/photos.yaml` to curate** which albums lead. Cover URLs are absolute (Cloudflare R2), so nothing is copied into this repo.
 
 ### Layouts & Includes
 
@@ -39,6 +44,8 @@ The home page (`index.html`) uses the `default` layout and lists every post. Cat
 ### Styling
 
 SCSS lives in `_sass/` and is compiled through `css/main.scss`. Syntax highlighting is handled by Rouge (server-side) plus `js/highlight.pack.js` (client-side).
+
+Design system ("Desert ↔ Alpine", neo-grotesque): all palette/type variables are defined at the top of `css/main.scss`. One typeface — **Schibsted Grotesk** (loaded in `_includes/head.html`), used at varied weights. Palette is a cold-meets-warm complementary pair: bleached-bone ground, alpine navy-black ink, **salt-flat blue** (`$blue`) as the interactive accent, **desert coral** (`$coral`) as a sparing warm accent on numerals/indices. Legacy variable aliases (`$brand-color`, `$grey-color*`, etc.) are kept mapped to the new palette so `_syntax-highlighting.scss` and `_races.scss` still compile. `_base.scss` holds typography/reset/utilities; `_layout.scss` holds the topbar, masthead, section grids, photo frames, the reusable `.entry` writing-index row, post-reading styles, and footer.
 
 ### RSS Feed
 
