@@ -324,6 +324,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: flex-start;
   gap: 1em;
   margin: 1.6em 0;
 
@@ -333,10 +334,19 @@
 
 .photo-bar--wide {
   max-width: 1100px;
-  width: 94vw;
+  width: 90vw;
   position: relative;
   left: 50%;
   transform: translateX(-50%);
+
+  // Photos share the row as equal columns so a single wide shot can't
+  // dominate; full image preserved (heights stay ragged when aspects differ).
+  figure { flex: 1 1 0; min-width: 0; }
+  img { width: 100%; height: auto; max-height: none; }
+}
+
+@include media-query($on-palm) {
+  .photo-bar--wide figure { flex-basis: 100%; }
 }
 
 .photo-bar__caption {
