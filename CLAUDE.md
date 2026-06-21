@@ -43,7 +43,7 @@ The homepage features real album covers from the separate **photos.joneisen.me**
 - `_layouts/page.html` — Generic standalone page
 - `_layouts/post.html` — Blog post with prev/next navigation
 - `_layouts/race.html` — Race report layout with `_includes/race-header.html`
-- `_includes/` — Reusable partials (head, header, footer, post-list, preview, scripts, `image.html`/`image-3.html` for figures, `hire-me.html`)
+- `_includes/` — Reusable partials (head, header, footer, post-list, preview, scripts, `photos.html` (1–3 photo bars), `hire-me.html`)
 
 ### Styling
 
