@@ -16,6 +16,22 @@ kramdown:
   input: GFM
 highlighter: rouge
 
+# Keep internal docs (superpowers plans/specs) out of the Jekyll build. On
+# GitHub Pages the jekyll-optional-front-matter plugin renders front-matter-less
+# markdown, so Liquid examples in plan docs would otherwise break the build.
+# A custom `exclude` replaces Jekyll's default, so the standard build files are
+# re-listed here too.
+exclude:
+  - docs
+  - Rakefile
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - .sass-cache
+  - .jekyll-cache
+
 # Github Pages Supported Plugins
 plugins:
   - jemoji
