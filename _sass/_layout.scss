@@ -118,6 +118,8 @@
  * Section header
  */
 .sec { padding: clamp(40px, 6vw, 80px) 0 0; }
+.masthead + .sec { padding-top: clamp(6px, 1.5vw, 16px); }  // masthead already supplies the gap
+.sec + .sec { padding-top: clamp(76px, 10vw, 132px); }      // more air before Writing
 .sec-head {
   display: grid;
   grid-template-columns: auto 1fr auto;
