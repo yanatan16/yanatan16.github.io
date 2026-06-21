@@ -9,7 +9,7 @@ _This is a syndication of an article I wrote for [Front Range Dirt](https://gold
 
 I am shivering uncontrollably in the passenger seat of a rental car. Both my hands are gripping a paper cup of lukewarm chili, but I’m not eating it. My legs are cramping every 30 seconds, sending painful aches through my body. My wife, Miranda, is watching me, worry and concern covering her face. The car is idling; the heat blasting.
 
-__I know past Jon wanted to run this race, this “greatest run of my life.” But this isn’t safe. Look at me. I can’t even form words right now. I should quit. Sure, future Jon will be disappointed. But, what of my rights? What of current Jon? I’m the one who has to go through this. I have to deal with the pain. I am the one that has to endure this._
+_I know past Jon wanted to run this race, this “greatest run of my life.” But this isn’t safe. Look at me. I can’t even form words right now. I should quit. Sure, future Jon will be disappointed. But, what of my rights? What of current Jon? I’m the one who has to go through this. I have to deal with the pain. I am the one that has to endure this._
 
 Minutes tick by. The chatter of my teeth is deafening. Night has set, and the headlights of the car illuminate the tent where I slept last night. Seems like a lifetime ago. I have no concept of time. My race is over. I start to cry. No tears come. My body has nothing left to give.
 
