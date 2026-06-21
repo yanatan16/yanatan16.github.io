@@ -11,7 +11,7 @@ A lot of people ask me why I run so much. I think people associate running with 
 
 <!--break-->
 
-{% include image.html url="/img/why-i-run.jpeg" description="Adventure, Challenge, Community on the trails" %}
+{% include photos.html img1="/img/why-i-run.jpeg" cap1="Adventure, Challenge, Community on the trails" %}
 
 #### Adventure
 

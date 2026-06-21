@@ -42,13 +42,10 @@ Other:
 - 50Ks: Dirty 30, The Rut 50K, The John Cappis
 - 100Ms: Silverton Ultra Dirty 100M, Whistler Alpine Meadows 100M, Hallowed Hundred
 
-{% include image.html description="Finishing the Walt Disney World Marathon" url="/img/2020-year-in-review/disney-marathon.jpeg" %}
-{% include image.html description="Running in Isaquah, WA" url="/img/2020-year-in-review/isaquah.jpeg" %}
-{% include image.html description="Horseshoe bend in the Colorado River during Antelope Canyon 100" url="/img/2020-year-in-review/antelope-canyon.jpeg" %}
-{% include image.html description="Training for Niwot's Challenge" url="/img/2020-year-in-review/niwots-training.jpeg" %}
-{% include image.html description="Running across an old train bridge" url="/img/2020-year-in-review/old-train-bridge.jpeg" %}
-{% include image.html description="Action shot with the Apple Running singlet" url="/img/2020-year-in-review/apple-running.jpeg" %}
-{% include image.html description="Me on a mountain (James Peak?)" url="/img/2020-year-in-review/mountain.jpeg" %}
-{% include image.html description="Me on the top of 14er Mt Shavano" url="/img/2020-year-in-review/shavano.jpeg" %}
-{% include image.html description="Hitting South Boulder Peak on my way to a Skyline" url="/img/2020-year-in-review/skyline.jpeg" %}
-{% include image.html description="Finishing my 9th(!) Skyline during the Skyline challenge" url="/img/2020-year-in-review/last-skyline.jpeg" %}
+{% include photos.html img1="/img/2020-year-in-review/disney-marathon.jpeg" cap1="Finishing the Walt Disney World Marathon" img2="/img/2020-year-in-review/isaquah.jpeg" cap2="Running in Isaquah, WA" img3="/img/2020-year-in-review/antelope-canyon.jpeg" cap3="Horseshoe bend in the Colorado River during Antelope Canyon 100" %}
+
+{% include photos.html img1="/img/2020-year-in-review/niwots-training.jpeg" cap1="Training for Niwot's Challenge" img2="/img/2020-year-in-review/old-train-bridge.jpeg" cap2="Running across an old train bridge" img3="/img/2020-year-in-review/apple-running.jpeg" cap3="Action shot with the Apple Running singlet" %}
+
+{% include photos.html img1="/img/2020-year-in-review/mountain.jpeg" cap1="Me on a mountain (James Peak?)" img2="/img/2020-year-in-review/shavano.jpeg" cap2="Me on the top of 14er Mt Shavano" img3="/img/2020-year-in-review/skyline.jpeg" cap3="Hitting South Boulder Peak on my way to a Skyline" %}
+
+{% include photos.html img1="/img/2020-year-in-review/last-skyline.jpeg" cap1="Finishing my 9th(!) Skyline during the Skyline challenge" %}

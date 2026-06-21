@@ -18,7 +18,7 @@ On Saturday April 17, 2021, the 8th running of Niwot's Challenge commenced. My r
     - [2020 Race Report in which I finished guiding others](https://joneisen.me/running/2020/06/01/race-report-niwots-challenge-2020.html)
     - [2019 Race Report in which I was barely dragged across the finish line](http://joneisen.me/running/2019/04/30/niwots-challenge-race-report.html)
 
-{% include image.html description="Sunrise on a Scouting Day" url="/img/niwots-2021/trainingsunrise.jpeg" %}
+{% include photos.html img1="/img/niwots-2021/trainingsunrise.jpeg" cap1="Sunrise on a Scouting Day" %}
 
 ### The Course
 
@@ -28,7 +28,7 @@ With Suffer gone, Sherpa made it his mission to convert the Burn loop, previousl
 
 I joined the first group scouting mission onto the new Burn's northern section to learn that the new loop was going to be quite difficult. I went to two more book setting outings to learn the rest of the loop's southern section. I learned that in total, the new Burn loop was going to be the physically hardest 25 miles in Niwot's history. Sherpa had put together a masterpiece. Burn involves seven major climbs and descents, totalling over 11,000 feet of vertical climb, 4 miles of difficult to traverse drainages, 2+ miles of "side-hilling" (that is, walking across steep slopes), cacti, snow, deep snow, more snow, two named peaks, and heat. Initially, I theorized that the loop wouldn't be completable in perfect conditions in under 14 hours.
 
-{% include image.html description="A Book Setting Day" url="/img/niwots-2021/booksettingday.jpeg" %}
+{% include photos.html img1="/img/niwots-2021/booksettingday.jpeg" cap1="A Book Setting Day" %}
 
 ### Training and Scouting
 
@@ -38,7 +38,7 @@ In late January and Febrary, I was able to get back into training form, climbing
 
 I got out on course 7 times total, all but one on the Burn loop. I attempted two complete loops but bailed due to time on both (darn you Burn!). But, by race day, I had seen every inch of Niwot's in both directions. I was ready.
 
-{% include image.html description="Chief Wrong Way going the wrong way" url="/img/niwots-2021/bailing.jpeg" %}
+{% include photos.html img1="/img/niwots-2021/bailing.jpeg" cap1="Chief Wrong Way going the wrong way" %}
 
 ### Pre-Race
 
@@ -54,13 +54,13 @@ Also, I wasn't really sure how cold it would be up there. It could be 15 and sno
 
 At 5:30 we had the drawing of lots to see which direction on Burn we'd have to run that day. I wasn't too concerned as I could navigate either and left it up to the Niwot's gods to decide. They were kind and gave me my preferred route, clockwise. This meant that after book 1, I'd have to get Books 2-14 in reverse order.
 
-{% include image.html description="A cool old car we found one day scouting" url="/img/niwots-2021/coololdcar.jpeg" %}
+{% include photos.html img1="/img/niwots-2021/coololdcar.jpeg" cap1="A cool old car we found one day scouting" %}
 
 ## Race
 
 At 6am, Sherpa lit his Gandalf pipe and I headed off at a quick hiking pace up to Book 1. I found myself next to Brandt. Since we'd trained together so much, I knew we'd try to stick together, but I'd have to keep up with him to do that. We headed up the trail. At the correct junction, I turned up the ridge and climbed up to Book 1. I was already too warm and had to strip layers on the first climb. I grabbed my page and descended back to the trail and ran to catch up with Brandt. A hundred yards more and I found the descent past the old car in the drainage. I ran to catch up with the group and eventually caught them at the bottom, where Book 14 was. I had to strip more layers off. (Wow did I mess up this gear situation!)
 
-{% include image.html description="Setting out (📷Nate)" url="/img/niwots-2021/settingout.jpeg" %}
+{% include photos.html img1="/img/niwots-2021/settingout.jpeg" cap1="Setting out (📷Nate)" %}
 
 We now entered the "Three Stooges" area of the course. We climbed up Moe for our first real climb. I was determined to not stop very much (outside of delayering of course). So at the top when everyone was consulting maps, I remembered to turn opposite the barbed wire fence and just kept on hiking and running along the ridge down to Book 13. I was slightly off hitting the lone aspen book, but found it quickly enough before anyone had caught up to me. I grabbed my page and soon a whole group showed up. We had seven of us together there. Four were just trying to stick with Brandt, John Clarke, and I. JC and Brandt and I had trained on the course many times and knew it quite well. We ate a snack and headed up Curly.
 
@@ -74,13 +74,13 @@ Then we started contouring our way to Book 9. This is when the trouble started f
 
 But despite the pain I kept leading the group across the wasteland of samey looking trees and drainages. Eventually I declared we had made it and despite some second guessing, we descended the final drainage direct to Book 9. We had made it out of Never Never Land successfully and into Key West.
 
-{% include image.html description="Larry and Curly on Race Day (📷Nate)" url="/img/niwots-2021/lookingdown.jpeg" %}
+{% include photos.html img1="/img/niwots-2021/lookingdown.jpeg" cap1="Larry and Curly on Race Day (📷Nate)" %}
 
 From Key West, you have to take a very long, very thick, not very fun drainage for a very long time. We hiked it consistently and eventually made it to the end. I wasn't leading this part very much as I was tired from leading the first few books.
 
 We started the pretty easy climb up to Book 8 and the high point of the course. This climb is the steepest thing on this side of the course, climbing 1000ft in less than 0.5 miles with nothing so much as a game trail to speak of. Brandt wanted to drop some of the slower folks in the group, so we headed off together and picked the wrong hill to climb and ended up behind the rest of the group. Brandt, still determined to out-hike everyone sped up to the front to guide the group. After we ascended to a small high point, I realized we were heading in the wrong direction. I yelled out that we were too far right and needed to head left to correct and get into the chute. Brandt, in the lead, pulled the group back to the left, but not enough. Eventually we got cliffed out too far outside the chute. I argued we were still too far right, but Brandt thought he went too far left. I lost the argument and the group headed up to the right. Knowing I was correct, I headed left, but was quickly cliffed out. My choices were simple, navigate according to my intuition alone or go rescue the group. I didn't really want to be out there alone so I went back to the group who were cliffed out even more than before. Now people were convinced I was correct and we headed back left, descending a hundred feet or more to get around the cliffs. After discussing some rock scrambling, we just decided to keep descending back to the chute. Eventually we made it to the chute, which I recognized immediately from its topological shape and absurd steepness without so many cliffs. We climbed up the hundreds of feet we had just given up and eventually made it to the ridge crest area. Tired and down from making a navigational mistake, I led the group along the ridge line I remembered well all the way to the summit where I got the book and tore out pages for everyone.
 
-{% include image.html description="The high point, from below (📷Nate)" url="/img/niwots-2021/lookingup.jpeg" %}
+{% include photos.html img1="/img/niwots-2021/lookingup.jpeg" cap1="The high point, from below (📷Nate)" %}
 
 At this point, we were halfway through the course, so its a good time to take a gander at where we were and what had happened. We had made good time despite the navigational error, still less than seven hours in, we had a good shot at Brandt's 14 hour goal. It had snowed lightly on us the whole day up til then. The entire ground was snowy and slippery. I had fallen multiple times so far. I was actually regulating temperature alright in the cold, even if I had too much gear in my bag. My foot hurt badly on all the climbs, but it wasn't slowing me down yet. The group had stuck together through the first half at a good pace, so Brandt's notion of dropping the slow ones was gone. At this point, we were intent on finishing the loop. You just couldn't move too fast on all this fresh snow without hurting yourself, so we traveled consistently at a strong hiking pace.
 
@@ -106,7 +106,7 @@ I declared my day was done. I breathed. My 2021 Niwots was over.
 
 <h4 align="center" style="font-style:italic">The final miles of any long run are a special time. They are a mix of boredom and elation, relief and suffering. I enjoyed these miles, as I knew my day was done.</h4>
 
-{% include image.html description="Brandt and I, looking at the iconic Book 5 (📷Nate)" url="/img/niwots-2021/hiking.jpeg" %}
+{% include photos.html img1="/img/niwots-2021/hiking.jpeg" cap1="Brandt and I, looking at the iconic Book 5 (📷Nate)" %}
 
 ### Results
 
@@ -134,4 +134,4 @@ When I think about Niwots, now a couple weeks removed,
 
 Niwot's won this year's battle. But it won't win the war. I'll be there next year to try again. (and to see all my friends again!)
 
-{% include image.html description="Me and The King of Mountains (📷Nate)" url="/img/niwots-2021/meandraleigh.jpeg" %}
+{% include photos.html img1="/img/niwots-2021/meandraleigh.jpeg" cap1="Me and The King of Mountains (📷Nate)" %}

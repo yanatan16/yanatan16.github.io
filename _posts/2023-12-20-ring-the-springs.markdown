@@ -26,16 +26,7 @@ _Day Before_: We (Miranda and I) drove down from Boulder the night before. The w
 
 I was excited to get started. I even stood in the front of the corral, but didn't go out with the front pack. For the first 6 miles or so, I was in about 10th place, running reasonably quickly on the bike path. I had to stop at a portable toilet at the first aid station, which is somewhat unusual for me. After I got out, I wasn't sure what place I was in, which was good, because I shouldn't be tracking which place I'm in anyway. Over the next 12 miles up to Gold Camp, I just tried to run steady. I got to Gold Camp at 3:15, which is pretty fast for the first 18 miles of a hundred. Miranda was there to meet me. I declined to sit down and drink a lemonade. I just refilled gels and hydration and continued.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-    <figure>
-    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/pikes_in_the_morning.jpeg"/>
-    <figcaption>Pikes Peak was quite beautiful that morning.</figcaption>
-    </figure>
-    <figure>
-    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/tunnel.jpeg"/>
-    <figcaption>A cool tunnel experienced while I felt good.</figcaption>
-    </figure>
-</div>
+{% include photos.html img1="/img/ring-the-springs-2023/pikes_in_the_morning.jpeg" cap1="Pikes Peak was quite beautiful that morning." img2="/img/ring-the-springs-2023/tunnel.jpeg" cap2="A cool tunnel experienced while I felt good." %}
 
 
 
@@ -57,12 +48,7 @@ After what seemed like forever and getting passed by everyone, I finally made it
 
 The last 11 miles back to Gold Camp went much better, as I was able to consistently run and eat real food. Finally, I made it back to Gold Camp. I came into the aid and immediately tried to use the portable toilet again, but this time to no avail. I told Miranda no more Skratch. I drank a lemonade and a protein shake, filled up on to-go snacks, and headed down the mountain and back to Colorado Springs.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-    <figure>
-    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/cool_lake.jpeg"/>
-    <figcaption>This beautiful lake was cool until I realized I would be down there in 10 miles.</figcaption>
-    </figure>
-</div>
+{% include photos.html img1="/img/ring-the-springs-2023/cool_lake.jpeg" cap1="This beautiful lake was cool until I realized I would be down there in 10 miles." %}
 
 ### Finding the Groove Again
 #### Gold Camp Down (45mi) - Palmer (68mi)
@@ -73,16 +59,7 @@ Another 12 mile section over to Palmer gave me some time to think and run. I ran
 
 I met Nathan there, who was going to pace me. I still felt pretty good. I ate some pasta, refilled everything, and we headed out back into Palmer Park.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-    <figure>
-    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/everything_will_be_ok.jpeg"/>
-    <figcaption>Probably the mantra of the race.</figcaption>
-    </figure>
-    <figure>
-    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/pikes_peak.jpeg"/>
-    <figcaption>Unsurprisingly, Pikes Peak is still astounding.</figcaption>
-    </figure>
-</div>
+{% include photos.html img1="/img/ring-the-springs-2023/everything_will_be_ok.jpeg" cap1="Probably the mantra of the race." img2="/img/ring-the-springs-2023/pikes_peak.jpeg" cap2="Unsurprisingly, Pikes Peak is still astounding." %}
 
 ### Navigating Course Vandalism
 #### Palmer (68mi) - Pulpit Rock (80mi)
@@ -120,20 +97,7 @@ When I crossed the finish, I felt all that inevitability had caught me. I had do
 
 Jamil asked me how bad the course markings were. I described them as being pretty bad in that one section, but overall, not too bad. "Sometimes, in trail running, you get some free miles."
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-    <figure>
-    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/christian_castle.jpeg"/>
-    <figcaption>Christian Castle.</figcaption>
-    </figure>
-    <figure>
-    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/my_finish.jpeg"/>
-    <figcaption>Finishing.</figcaption>
-    </figure>
-    <figure>
-    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/miranda_finish.jpeg"/>
-    <figcaption>Miranda Finishing.</figcaption>
-    </figure>
-</div>
+{% include photos.html img1="/img/ring-the-springs-2023/christian_castle.jpeg" cap1="Christian Castle." img2="/img/ring-the-springs-2023/my_finish.jpeg" cap2="Finishing." img3="/img/ring-the-springs-2023/miranda_finish.jpeg" cap3="Miranda Finishing." %}
 
 ## Reflections
 
@@ -145,9 +109,4 @@ Without going into the day-by-day, fast-forward 4 months, past many ups and down
 
 This race showed me I do have a shot at a sub-24 100 miler, and I'm planning on attempting that by apply to San Diego 100 next year. Also, it showed that Miranda and I can have a great weekend of racing individually and have fun together.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-    <figure>
-    <img style="max-height: 400px; max-width: 100%;" src="/img/ring-the-springs-2023/miranda_podium.jpeg"/>
-    <figcaption>Miranda won the 50K.</figcaption>
-    </figure>
-</div>
+{% include photos.html img1="/img/ring-the-springs-2023/miranda_podium.jpeg" cap1="Miranda won the 50K." %}

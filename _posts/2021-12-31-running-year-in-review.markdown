@@ -25,40 +25,18 @@ In 2022, I'm looking forward to more Barkley-style adventure at Niwot's Challeng
 
 Below, you'll find a year-end recap in photography form.
 
-{% include image.html description="Training this past winter was funner than ever with Miranda at my side. We did Grays and Torreys for her first fourteeners and went up Bear Peak in a blizzard. It was awesome!" 
-  url="/img/2021-year-in-review/greys-and-torreys.jpeg" %}
-   
-{% include image-3.html description="Not being able to finish Niwot's this year was disappointing because of the snow, but that didn't mean I didn't enjoy it. I was forced to quit after one loop, but what a loop it was! 14 hours 'out there.' I'm excited to see what I can do this year on a similar course!" 
-  img1="/img/2021-year-in-review/niwots-training.jpeg" 
-  img2="/img/2021-year-in-review/niwots-pages.jpeg" 
-    img3="/img/2021-year-in-review/niwots-raleigh.jpeg" %}   
+{% include photos.html img1="/img/2021-year-in-review/greys-and-torreys.jpeg" cap1="Training this past winter was funner than ever with Miranda at my side. We did Grays and Torreys for her first fourteeners and went up Bear Peak in a blizzard. It was awesome!" %}
 
-{% include image.html description="I entered the San Juan Solstice 50 Miler merely a week before the race on a whim that I 'needed more training.' Boy, did I get it! This was the most beautiful 50 miles I've ever run, and I can't wait to do it again!" 
-  url="/img/2021-year-in-review/sjs.jpeg" %}   
-  
-{% include image-3.html 
-  description="Adventuring in San Diego with Miranda was a big highlight of the year, from beach runs, to San Diego mountains, to the High Sierras, it was a blast!" 
-  img1="/img/2021-year-in-review/san-diego-beach-run.jpeg" 
-  img2="/img/2021-year-in-review/high-sierras.jpeg"
-  img3="/img/2021-year-in-review/el-cajon.jpeg"
-%}  
+{% include photos.html img1="/img/2021-year-in-review/niwots-training.jpeg" img2="/img/2021-year-in-review/niwots-pages.jpeg" img3="/img/2021-year-in-review/niwots-raleigh.jpeg" caption="Not being able to finish Niwot's this year was disappointing because of the snow, but that didn't mean I didn't enjoy it. I was forced to quit after one loop, but what a loop it was! 14 hours 'out there.' I'm excited to see what I can do this year on a similar course!" %}
 
-{% include image-3.html description="Silverton Ultra Dirty 100 Miler didn't go my way this year, as I DNF'd at 73 miles. I spent a ton of time preparing for this race and the disappointment of not finishing was hard to deal with. The sun set the first night on clear skys and arose to a 150+ AQI day. It was tough conditions, and I don't regret the DNF, but I do mourn it." 
-  img1="/img/2021-year-in-review/packing-for-sud.jpeg"
-  img2="/img/2021-year-in-review/sud-sunrise.jpeg"
-  img3="/img/2021-year-in-review/sud-sunset.jpeg" %}
+{% include photos.html img1="/img/2021-year-in-review/sjs.jpeg" cap1="I entered the San Juan Solstice 50 Miler merely a week before the race on a whim that I 'needed more training.' Boy, did I get it! This was the most beautiful 50 miles I've ever run, and I can't wait to do it again!" %}
 
-{% include image-3.html description="I got to show Miranda the high peaks of Northern Colorado this summer, and it was incredible! Spending the summer up high with your favorite running partner is the best!" 
-  img1="/img/2021-year-in-review/james-pk-with-mandy.jpeg"   
-  img2="/img/2021-year-in-review/audubon-with-mandy.jpeg"    
-  img3="/img/2021-year-in-review/heart-lake-with-mandy.jpeg" %} 
+{% include photos.html img1="/img/2021-year-in-review/san-diego-beach-run.jpeg" img2="/img/2021-year-in-review/high-sierras.jpeg" img3="/img/2021-year-in-review/el-cajon.jpeg" caption="Adventuring in San Diego with Miranda was a big highlight of the year, from beach runs, to San Diego mountains, to the High Sierras, it was a blast!" %}
 
-{% include image-3.html description="The Barkley Fall Classic was an incredible experience. I had the best race I've ever had (according to UltraSignup performance rating) and had so much fun! I'm already in for next year and can't wait to rip it on the trails of FHSP!"        
-  img1="/img/2021-year-in-review/meeting-laz.jpeg"  
-  img2="/img/2021-year-in-review/bfc-second-rat-jaw.JPG"   
-  img3="/img/2021-year-in-review/bfc-finish.jpeg" %}   
+{% include photos.html img1="/img/2021-year-in-review/packing-for-sud.jpeg" img2="/img/2021-year-in-review/sud-sunrise.jpeg" img3="/img/2021-year-in-review/sud-sunset.jpeg" caption="Silverton Ultra Dirty 100 Miler didn't go my way this year, as I DNF'd at 73 miles. I spent a ton of time preparing for this race and the disappointment of not finishing was hard to deal with. The sun set the first night on clear skys and arose to a 150+ AQI day. It was tough conditions, and I don't regret the DNF, but I do mourn it." %}
 
-{% include image-3.html description="The Euchre Bar Massacre is a HARD race! A single loop here rivals a Barkley loop in difficulty. It gave Nate and I all that we could handle!" 
-  img1="/img/2021-year-in-review/ebm-crawling.jpg"
-  img2="/img/2021-year-in-review/ebm-river.jpg"
-  img3="/img/2021-year-in-review/ebm-nate-climbing.jpeg" %}    
+{% include photos.html img1="/img/2021-year-in-review/james-pk-with-mandy.jpeg" img2="/img/2021-year-in-review/audubon-with-mandy.jpeg" img3="/img/2021-year-in-review/heart-lake-with-mandy.jpeg" caption="I got to show Miranda the high peaks of Northern Colorado this summer, and it was incredible! Spending the summer up high with your favorite running partner is the best!" %}
+
+{% include photos.html img1="/img/2021-year-in-review/meeting-laz.jpeg" img2="/img/2021-year-in-review/bfc-second-rat-jaw.JPG" img3="/img/2021-year-in-review/bfc-finish.jpeg" caption="The Barkley Fall Classic was an incredible experience. I had the best race I've ever had (according to UltraSignup performance rating) and had so much fun! I'm already in for next year and can't wait to rip it on the trails of FHSP!" %}
+
+{% include photos.html img1="/img/2021-year-in-review/ebm-crawling.jpg" img2="/img/2021-year-in-review/ebm-river.jpg" img3="/img/2021-year-in-review/ebm-nate-climbing.jpeg" caption="The Euchre Bar Massacre is a HARD race! A single loop here rivals a Barkley loop in difficulty. It gave Nate and I all that we could handle!" %}    

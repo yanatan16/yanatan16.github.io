@@ -11,9 +11,7 @@ On Saturday May 4, 2024, the 11th running of Niwot's Challenge commenced. I ran 
 
 _What is Niwot's Challenge?_ Niwot's Challenge (aka "Niwot's") is a footrace inspired by the [Barkley Marathons](https://en.wikipedia.org/wiki/Barkley_Marathons). Competitors must navigate an off-trail, bushwhacking, difficult, vert-intense course using map and compass alone. See the [Official Course Website](https://humanpotentialrunning.com/niwots-challenge/).
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <img style="max-height: 600px; max-width: 100%;" src="/img/niwots-2024/two_peaks.jpeg"/>
-</div>
+{% include photos.html img1="/img/niwots-2024/two_peaks.jpeg" %}
 
 
 ### Race Preparedness and Intentions
@@ -47,9 +45,7 @@ It was starting to get hot. I thought about filling water here, but decided to k
 
 I turned off to the rock formation and my next ook, taking the line around the rocks instead of scrambling up them,a s I think the timing is similar and I don't know the scramble as well. After grabbing the book, I headed up to the top of the nearby peak and started down the Chair Rocks Express. It was really hot now, but luckily I was heading downhill, keeping my speed up.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <img style="max-height: 600px; max-width: 100%;" src="/img/niwots-2024/cre.jpeg"/>
-</div>
+{% include photos.html img1="/img/niwots-2024/cre.jpeg" %}
 
 
 I finally saw two runners in the opposite direction, Carlo and Joseph. I said hi and kept running downhill. After I finished CRE and then up and over the small summit, then down the gulch with no name and a lot of deadfall to quitter's creek, apparently two other runners saw me from somewhere, but I never was clear on where they saw me from. I filled a 500ml filter bottle with some After I got up the Yucca Farm climb (it was super hot!) and headed up to Never Never Land, I saw Miguel and Nicci on the way.
@@ -83,9 +79,7 @@ I was really bad off at this point. It took me a couple hours to return to norma
 
 Honestly, I'm pretty happy with the effort. I really left it all out there. It was great heat training for SD100 and my memory was pretty good, minus the big mistake. It could have been closer to 11 without the heat exhaustion and major mistake on the final book, but we'll have to see that next year. Maybe next time I go for the Deity, I can use this experience to get off a great start.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <img style="max-height: 600px; max-width: 100%;" src="/img/niwots-2024/selfie.jpeg"/>
-</div>
+{% include photos.html img1="/img/niwots-2024/selfie.jpeg" %}
 
 
 ### Other Runners
@@ -107,6 +101,4 @@ Camp eagerly awaited Lauren's return. Two years ago, she finished the course thr
 
 At 11:25, everyone staring down the road, we spotted her running along the road. She had done it! Lauren is the sole finisher of Niwot's Challenge in 2024, and is our newest Chief. She sat down and started bawling. She had pushed so hard to finish! And so John gave her a Chiefs name: Chief Many Tears. Her performance was very impressive on such a difficult course.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em; margin: 1em 0;">
-  <img style="max-height: 600px; max-width: 100%;" src="/img/niwots-2024/pano.jpeg"/>
-</div>
+{% include photos.html img1="/img/niwots-2024/pano.jpeg" %}

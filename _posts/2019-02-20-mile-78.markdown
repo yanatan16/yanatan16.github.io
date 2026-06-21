@@ -24,7 +24,7 @@ How did I get here?
 
 <!--break-->
 
-{% include image.html url="/img/high-lonesome-breaking-point.jpg" description="Enjoying chäir at Mile 83" %}
+{% include photos.html img1="/img/high-lonesome-breaking-point.jpg" cap1="Enjoying chäir at Mile 83" %}
 
 ---
 
@@ -92,4 +92,4 @@ I hike the next 20 miles in 8 hours, finishing the race in 34:31.
 
 I pushed through it all to accomplish my goal. And somewhere out on that course, I left my pain behind.
 
-{% include image.html description="Finishing" url="/img/high-lonesome-finish.jpg" %}
+{% include photos.html img1="/img/high-lonesome-finish.jpg" cap1="Finishing" %}
