@@ -1,0 +1,52 @@
+name: Sync photo albums
+
+# Triggered by the photos.joneisen.me repo after it rebuilds its album data.
+# It sends a compact album summary as the dispatch payload; we turn that into
+# _data/photos.yaml (via `rake photos`) and commit it, which makes GitHub Pages
+# rebuild the homepage.
+on:
+  repository_dispatch:
+    types: [photos-updated]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-photos
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Write album summary from dispatch payload
+        env:
+          PAYLOAD: ${{ toJSON(github.event.client_payload) }}
+        run: |
+          mkdir -p tmp
+          printf '%s' "$PAYLOAD" > tmp/photos.json
+
+      - name: Regenerate _data/photos.yaml
+        env:
+          PHOTOS_JSON: ${{ github.workspace }}/tmp/photos.json
+        run: rake photos
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- _data/photos.yaml; then
+            echo "No album changes."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/photos.yaml
+          git commit -m "Sync photo albums from photos.joneisen.me"
+          git push

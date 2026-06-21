@@ -1,0 +1,9 @@
+# Albums pinned to the front of the homepage Photographs section, in order.
+# The homepage shows 4 albums: these pins first, then the newest albums from
+# _data/photos.yaml fill any remaining slots automatically.
+# Remove an id to hand that slot to the most recent album. Ids must match
+# album ids in _data/photos.yaml (see `rake photos`).
+- summer-2026
+- badwater-salton-sea-2026
+- 2026-valle-de-guadelupe
+- 2026-boulder-winter

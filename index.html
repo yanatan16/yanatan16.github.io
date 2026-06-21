@@ -24,15 +24,32 @@ order: 1
     <h2>Photographs</h2>
     <a class="more meta" href="https://joneisen.me/photos/">All albums <span class="arr">&rarr;</span></a>
   </div>
+  {% assign albums = site.data.photos.albums %}
+  {% assign max = 4 %}
+  {% assign shown = "," %}
+  {% assign shown_count = 0 %}
   <div class="frames reveal d3">
-    {% for album in site.data.photos.albums limit:4 %}
-    <a class="frame" href="https://joneisen.me/photos/#/album/{{ album.id }}">
-      <span class="img"><img loading="lazy" src="{{ album.cover }}" alt="{{ album.name }}"></span>
-      <span class="cap">
-        <span class="t">{{ album.name }}</span>
-        <span class="ct">{{ album.count }}</span>
-      </span>
-    </a>
+    {% comment %} Pinned albums first, in featured order {% endcomment %}
+    {% for fid in site.data.featured %}
+      {% if shown_count >= max %}{% break %}{% endif %}
+      {% for album in albums %}
+        {% if album.id == fid %}
+          {% include album-frame.html album=album %}
+          {% assign shown = shown | append: album.id | append: "," %}
+          {% assign shown_count = shown_count | plus: 1 %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {% comment %} Fill remaining slots with the newest albums not already shown {% endcomment %}
+    {% for album in albums %}
+      {% if shown_count >= max %}{% break %}{% endif %}
+      {% capture needle %},{{ album.id }},{% endcapture %}
+      {% unless shown contains needle %}
+        {% include album-frame.html album=album %}
+        {% assign shown = shown | append: album.id | append: "," %}
+        {% assign shown_count = shown_count | plus: 1 %}
+      {% endunless %}
     {% endfor %}
   </div>
 </section>
