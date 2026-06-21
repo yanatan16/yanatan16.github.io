@@ -4,8 +4,8 @@ _site
 vendor
 .bundle
 
-.bundle
-
 .jekyll-cache/
 
 .DS_Store
+
+.claude/
