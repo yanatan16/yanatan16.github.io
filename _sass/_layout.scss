@@ -33,16 +33,60 @@
 .page-content { padding: 0 0 0; }
 
 /**
+ * Homepage hero banner — full-bleed photographic strip
+ */
+.hero-banner {
+  display: block;
+  position: relative;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);   // break out of the content rail
+  height: clamp(240px, 40vh, 460px);
+  overflow: hidden;
+  background: $bone-2;
+  border-bottom: 1px solid $rule;
+}
+.hero-banner img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  object-position: center 46%;
+  filter: saturate(.96);
+  display: block;
+  transition: transform 1.2s cubic-bezier(.2,.7,.2,1);
+}
+.hero-banner:hover img { transform: scale(1.035); }
+.hero-banner::after {       // legibility scrim for the credit
+  content: "";
+  position: absolute; inset: 0;
+  background: linear-gradient(to top, rgba(24,33,46,.5), rgba(24,33,46,0) 38%);
+  pointer-events: none;
+}
+.hero-credit {
+  position: absolute; left: 0; right: 0; bottom: 0;
+  z-index: 1;
+}
+.hero-credit-inner {
+  max-width: $content-width;
+  margin: 0 auto;
+  padding: clamp(16px, 3vw, 26px) clamp(20px, 5vw, 60px);
+  display: flex; align-items: center; gap: 11px;
+  color: $bone;
+  font-weight: 600; font-size: 11.5px; letter-spacing: .16em; text-transform: uppercase;
+  text-shadow: 0 1px 14px rgba(0,0,0,.45);
+}
+.hero-credit-inner .dot { width: 6px; height: 6px; border-radius: 50%; background: $coral; flex: none; }
+
+/**
  * Homepage masthead
  */
 .masthead {
   padding: clamp(46px, 8vw, 104px) 0 clamp(40px, 6vw, 72px);
 }
+.hero-banner + .masthead { padding-top: clamp(34px, 5vw, 64px); }
 .masthead .name {
-  font-weight: 800;
-  font-size: clamp(60px, 15vw, 196px);
-  line-height: 0.86;
-  letter-spacing: -0.045em;
+  font-weight: 700;
+  font-size: clamp(34px, 5vw, 56px);
+  line-height: 1;
+  letter-spacing: -0.03em;
   margin: 0;
   color: $ink;
 }

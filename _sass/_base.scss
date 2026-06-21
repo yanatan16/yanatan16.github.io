@@ -26,6 +26,7 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    overflow-x: hidden;   // contain full-bleed 100vw breakouts (hero banner)
 }
 
 ::selection { background: $blue; color: $bone; }
