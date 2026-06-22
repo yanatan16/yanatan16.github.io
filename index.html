@@ -24,10 +24,35 @@ order: 1
   </div>
 </header>
 
-{% if site.data.photos.albums %}
+{% if site.data.results.races %}
 <section class="sec">
   <div class="sec-head reveal d3">
     <span class="idx">01</span>
+    <h2>Runner</h2>
+    <a class="more meta" href="{{ "/results/" | prepend: site.baseurl }}">All results <span class="arr">&rarr;</span></a>
+  </div>
+  {% assign races = site.data.results.races | sort: "date" | reverse %}
+  {% assign total_vert = 0 %}
+  {% assign total_miles = 0 %}
+  {% for r in races %}{% assign total_vert = total_vert | plus: r.vert %}{% assign total_miles = total_miles | plus: r.miles %}{% endfor %}
+  <div class="run-stats reveal d3">
+    <p class="run-soft">{{ site.data.results.headline }}</p>
+    <p class="run-figures"><b>{{ races | size }}</b> races &middot; <b>{% include commafy.html n=total_miles %}</b> miles &middot; <b>{% include feet.html n=total_vert %}</b> climbed since 2010</p>
+  </div>
+  <div class="running reveal d3">
+    <ul class="post-list">
+      {% for r in races limit:3 %}
+      <li>{% include result.html result=r %}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+{% endif %}
+
+{% if site.data.photos.albums %}
+<section class="sec">
+  <div class="sec-head reveal d3">
+    <span class="idx">02</span>
     <h2>Photography</h2>
     <a class="more meta" href="https://joneisen.me/photos/">All albums <span class="arr">&rarr;</span></a>
   </div>
@@ -64,7 +89,7 @@ order: 1
 
 <section class="sec">
   <div class="sec-head reveal d4">
-    <span class="idx">02</span>
+    <span class="idx">03</span>
     <h2>Writing</h2>
     <a class="more meta" href="{{ "/running/" | prepend: site.baseurl }}">All posts <span class="arr">&rarr;</span></a>
   </div>
@@ -88,7 +113,7 @@ order: 1
 {% if site.data.podcast.episodes %}
 <section class="sec">
   <div class="sec-head reveal d4">
-    <span class="idx">03</span>
+    <span class="idx">04</span>
     <h2>Podcast</h2>
     <a class="more meta" href="{{ site.data.podcast.link }}">Listen to all <span class="arr">&rarr;</span></a>
   </div>
@@ -108,7 +133,7 @@ order: 1
 
 <section class="sec">
   <div class="sec-head reveal d4">
-    <span class="idx">04</span>
+    <span class="idx">05</span>
     <h2>High Lonesome 100</h2>
     <a class="more meta" href="https://highlonesome100.com" target="_blank" rel="noopener">Visit the race <span class="arr">&rarr;</span></a>
   </div>

@@ -23,11 +23,12 @@ This is a personal blog for Jon Eisen (joneisen.me), built with **Jekyll 4.2.2**
 - `_data/srm.yaml` — SRM-to-hex color lookup table used to render beer colors
 - `_data/photos.yaml` — Album snapshot (id/name/count/cover) feeding the homepage Photographs section. **Generated, do not hand-maintain** — see Photos integration below.
 - `_data/podcast.yaml` — Recent "Running with Problems" episodes feeding the homepage Podcast section. **Generated, do not hand-maintain** — see Podcast integration below.
+- `_data/results.yaml` — Hand-authored race results feeding the homepage Runner section and the `/results/` ledger. **Hand-maintained** (unlike photos/podcast) — see Runner integration below.
 - `races/` — Race-specific standalone pages
 
 Post categories used: `programming`, `running`, `misc`, `sports`, `bikes`, `recipes`, `philosophy`. A post sets a single `categories:` value in frontmatter; the category drives which feed page surfaces it.
 
-The home page (`index.html`) uses the `default` layout. It is a stack of numbered highlight sections — **01 Photographs** (4 albums), **02 Writing** (the 6 most recent posts), **03 Podcast** (latest episodes), and **04 High Lonesome 100** — not a full post list. The first three are data-driven (each renders a list from a `_data/*.yaml` file); **04** is a single static, hand-authored "role" feature (no data file, no sync) — see High Lonesome 100 highlight below. The Photographs section shows the albums listed in `_data/featured.yaml` first (in order), then fills remaining slots (up to 4) with the newest albums from `_data/photos.yaml`; each album is rendered by `_includes/album-frame.html`. Category feed pages (`running.html`, `programming.html`) use the `feed-page` layout: it reads `page.category`, pulls `site.categories[category]`, displays the first post prominently via `_includes/preview.html`, then lists the rest via `_includes/post-list.html`.
+The home page (`index.html`) uses the `default` layout. It is a stack of numbered highlight sections — **01 Runner** (recent races + stat strip), **02 Photographs** (4 albums), **03 Writing** (the 6 most recent posts), **04 Podcast** (latest episodes), and **05 High Lonesome 100** — not a full post list. The first four are data-driven (each renders a list from a `_data/*.yaml` file); **05** is a single static, hand-authored "role" feature (no data file, no sync) — see High Lonesome 100 highlight below. The Photographs section shows the albums listed in `_data/featured.yaml` first (in order), then fills remaining slots (up to 4) with the newest albums from `_data/photos.yaml`; each album is rendered by `_includes/album-frame.html`. Category feed pages (`running.html`, `programming.html`) use the `feed-page` layout: it reads `page.category`, pulls `site.categories[category]`, displays the first post prominently via `_includes/preview.html`, then lists the rest via `_includes/post-list.html`.
 
 ### Photos integration
 
@@ -44,6 +45,12 @@ The homepage `03 Podcast` section features Jon's podcast **Running with Problems
 Episode rows deep-link to custom-domain episode pages: `https://www.runningwithproblems.run/2437656/episodes/<id>-<slug>`, where `<id>` comes from the item `guid` (`Buzzsprout-<id>`) and `<slug>` is the title downcased with apostrophes dropped and non-alphanumeric runs collapsed to hyphens (Buzzsprout's slug rule).
 
 **Automated refresh:** `.github/workflows/sync-podcast.yml` runs `rake podcast` on a daily cron (Buzzsprout can't `repository_dispatch` like the photos repo, so it polls; `workflow_dispatch` allows manual runs) and commits `_data/podcast.yaml` only if changed, which triggers the Pages build.
+
+### Runner integration
+
+The homepage `01 Runner` section and the standalone `/results/` page (`results.html`, `default` layout) are driven by **hand-authored** `_data/results.yaml` — there is no rake task or sync workflow (unlike photos/podcast). The file holds a `headline` (editorial achievement string) plus a `races` array; each race carries `date`, `race`, `distance` (freeform display label like `100M`/`50K`/`6hr`), `miles` (numeric, summed for the total), optional `vert` (feet), `result` (freeform — finish time, `DNF @ 71`, `2 loops in 27:10`, timed mileage…), optional `note`, and optional `report` (path to a `running`-category post, e.g. `/running/2025/09/12/dark-divide-100.html`).
+
+Both surfaces share `_includes/result.html`, which renders one `.entry.result` row (date · race+note · distance·vert · result) and becomes a link to `report` when present. The note nests inside the race-name cell so a wrapping `result` can't shove it out of alignment. The homepage passes no `show_note`; `/results/` passes `show_note=true` and groups races by year via `group_by_exp`. Stat figures (race count, total miles, total vert) are computed in Liquid from the data, so they self-update. Numbers are comma-formatted by `_includes/commafy.html` (and `_includes/feet.html`, which wraps it and appends a prime mark for vert).
 
 ### High Lonesome 100 highlight
 

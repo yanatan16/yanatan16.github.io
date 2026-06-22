@@ -1,0 +1,21 @@
+{%- comment -%}
+A single race-result row, shared by the homepage Runner section and /results/.
+Params: result (the race object), show_note (bool — render the note line).
+Becomes a link to the race report when result.report is set, plain otherwise.
+{%- endcomment -%}
+{%- assign r = include.result -%}
+{%- if r.report -%}
+<a class="entry result has-report" href="{{ r.report | prepend: site.baseurl }}">
+{%- else -%}
+<div class="entry result">
+{%- endif -%}
+  <span class="date">{{ r.date | date: "%b %Y" }}</span>
+  <span class="ttl"><span class="race">{{ r.race }}</span>{% if include.show_note and r.note %}<span class="note">{{ r.note }}</span>{% endif %}</span>
+  <span class="metrics"><span class="dist">{{ r.distance }}</span>{% if r.vert %}<span class="vert">{% include feet.html n=r.vert %}</span>{% endif %}</span>
+  <span class="res">{{ r.result }}</span>
+  <span class="go">{% if r.report %}&rarr;{% endif %}</span>
+{%- if r.report -%}
+</a>
+{%- else -%}
+</div>
+{%- endif -%}

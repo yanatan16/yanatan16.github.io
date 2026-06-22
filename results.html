@@ -1,0 +1,33 @@
+---
+title: Results
+layout: default
+permalink: /results/
+---
+{% assign races = site.data.results.races | sort: "date" | reverse %}
+{% assign total_vert = 0 %}
+{% assign total_miles = 0 %}
+{% for r in races %}{% assign total_vert = total_vert | plus: r.vert %}{% assign total_miles = total_miles | plus: r.miles %}{% endfor %}
+<div class="results-page">
+
+  <header class="post-header">
+    <h1 class="post-title">Results</h1>
+  </header>
+
+  <div class="run-stats">
+    <p class="run-soft">{{ site.data.results.headline }}</p>
+    <p class="run-figures"><b>{{ races | size }}</b> races &middot; <b>{% include commafy.html n=total_miles %}</b> miles &middot; <b>{% include feet.html n=total_vert %}</b> climbed since 2010</p>
+  </div>
+
+  {% assign by_year = races | group_by_exp: "r", "r.date | date: '%Y'" | sort: "name" | reverse %}
+  {% for year in by_year %}
+  <section class="year">
+    <h2 class="year-head">{{ year.name }}</h2>
+    <ul class="post-list">
+      {% for r in year.items %}
+      <li>{% include result.html result=r show_note=true %}</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endfor %}
+
+</div>

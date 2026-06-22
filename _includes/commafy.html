@@ -1,0 +1,10 @@
+{%- comment -%}
+Comma-formats a number (rounded to a whole number).
+Usage: {% include commafy.html n=2612 %}  ->  2,612
+{%- endcomment -%}
+{%- assign n = include.n | round -%}
+{%- if n >= 1000 -%}
+{{- n | divided_by: 1000 }},{{ n | modulo: 1000 | prepend: '000' | slice: -3, 3 }}
+{%- else -%}
+{{- n }}
+{%- endif -%}

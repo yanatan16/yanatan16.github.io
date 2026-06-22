@@ -1,0 +1,381 @@
+# Race results — hand-authored. See CLAUDE.md "Runner" section.
+# Each race: date, race, distance (display label), miles (numeric, for the
+# total), vert (feet, optional), result (freeform: finish time / DNF / loops /
+# timed mileage), note (optional one-liner), report (optional path to a
+# running-category post).
+headline: "7 hundred milers · 4× Niwot's finisher · Barkley veteran"
+races:
+  - date: 2026-01-10
+    race: Avalon 50M
+    distance: 50M
+    miles: 50
+    vert: 7000
+    result: "10:54:32"
+    note: "Didn't train much, so can't be upset about a fun day."
+  - date: 2025-09-06
+    race: Dark Divide 100
+    distance: 100M
+    miles: 100
+    vert: 26000
+    result: "39:20:59"
+    note: "Hard, but beautiful and wild and fun."
+    report: /running/2025/09/12/dark-divide-100.html
+  - date: 2025-08-23
+    race: Telluride Mountain Run
+    distance: 24mi
+    miles: 15
+    vert: 9000
+    result: "DNF"
+    note: "Stomach was off from the start. Puked, bonked, missed the 16-mile cutoff."
+  - date: 2025-07-26
+    race: NeverSummer 100K
+    distance: 100K
+    miles: 62
+    vert: 14000
+    result: "21:27:00"
+    note: "Hot during the day, crushed the night."
+  - date: 2025-05-16
+    race: Utah 115
+    distance: 115mi
+    miles: 115
+    vert: 13000
+    result: "38:27:21"
+    note: "So hard — sand, sand, and more sand."
+    report: /running/2025/05/24/utah-115.html
+  - date: 2025-02-22
+    race: Transgrancanaria Classic
+    distance: 78mi
+    miles: 78
+    vert: 23000
+    result: "27:17:39"
+    note: "So hard — heat, climb, and rock."
+  - date: 2024-07-19
+    race: High Lonesome 100
+    distance: 100M
+    miles: 100
+    vert: 22500
+    result: "31:40:15"
+    note: "So much fun to run supported by all my friends."
+  - date: 2024-06-07
+    race: San Diego 100
+    distance: 100M
+    miles: 100
+    vert: 12000
+    result: "26:40:45"
+    note: "My best 100-mile performance!"
+    report: /running/2024/06/10/san-diego-100-2024.html
+  - date: 2024-05-04
+    race: Niwot's Challenge (Burn Only)
+    distance: 25mi
+    miles: 25
+    vert: 10000
+    result: "11:35:00"
+    note: "Only meant to run a single burn loop."
+    report: /running/2024/05/25/niwots-challenge-2024.html
+  - date: 2024-04-13
+    race: Oriflamme 50K
+    distance: 50K
+    miles: 30
+    vert: 4000
+    result: "6:03:27"
+  - date: 2024-02-25
+    race: The Big Alta 28K
+    distance: 28K
+    miles: 17.3
+    vert: 4000
+    result: "3:11:17"
+  - date: 2023-12-10
+    race: BMW Dallas Marathon
+    distance: Marathon
+    miles: 26.2
+    vert: 450
+    result: "4:13:52"
+  - date: 2023-11-23
+    race: Birds of a Feather Trail Trot
+    distance: 3.5mi
+    miles: 3.5
+    vert: 400
+    result: "0:28:19"
+  - date: 2023-10-14
+    race: Rocky's Backyard Ultra
+    distance: Backyard
+    miles: 41.6
+    result: "10 yards (41.6 mi)"
+    note: "Suffered early, pushed to 10 yards for Miranda's birthday miles."
+  - date: 2023-08-20
+    race: Sunset Trail Running Festival 28K
+    distance: 28K
+    miles: 17.4
+    vert: 2700
+    result: "3:05:23"
+  - date: 2023-06-17
+    race: Ring the Springs
+    distance: 100M
+    miles: 100
+    vert: 15000
+    result: "26:38:00"
+    note: "Really proud of this one."
+    report: /running/2023/12/20/ring-the-springs.html
+  - date: 2023-05-29
+    race: BolderBoulder
+    distance: 10K
+    miles: 6.2
+    vert: 250
+    result: "0:51:07"
+  - date: 2023-05-07
+    race: Niwot's Challenge
+    distance: 100mi
+    miles: 100
+    vert: 40000
+    result: "2 loops in 27:10"
+    note: "Should have continued."
+    report: /running/2023/05/10/niwots-challenge-2023.html
+  - date: 2023-03-14
+    race: Barkley Marathons
+    distance: 60mi
+    miles: 60
+    vert: 60000
+    result: "2 loops in 28:30"
+    note: "BARKLEY!!!"
+    report: /running/2023/03/19/barkley-marathons-2023-race-report.html
+  - date: 2023-01-06
+    race: Avalon 50M
+    distance: 50M
+    miles: 50
+    vert: 8000
+    result: "9:04:00"
+    note: "Top 30%."
+  - date: 2022-09-17
+    race: Teanaway Country 100
+    distance: 100M
+    miles: 100
+    vert: 31000
+    result: "33:46:00"
+    note: "Got the 100-mile DNF bug off my back."
+    report: /running/2022/10/15/race-report-teanaway-country-100.html
+  - date: 2022-06-25
+    race: San Juan Solstice
+    distance: 50M
+    miles: 50
+    vert: 12900
+    result: "14:48:24"
+    note: "Ran step for step with Miranda!"
+  - date: 2022-05-30
+    race: BolderBoulder
+    distance: 10K
+    miles: 6.2
+    vert: 250
+    result: "0:50:09"
+    note: "So close to sub-50!"
+  - date: 2022-05-07
+    race: Hacienda Hills Trail Marathon
+    distance: Marathon
+    miles: 26.2
+    vert: 6300
+    result: "5:00:00"
+    note: "Won against no competition."
+  - date: 2022-04-16
+    race: Niwot's Challenge
+    distance: 50mi
+    miles: 50
+    vert: 20000
+    result: "2 loops in 28:01"
+    note: "Hardest Niwot's to date."
+    report: /running/2022/04/19/niwots-challenge-2022.html
+  - date: 2021-10-16
+    race: Euchre Bar Massacre
+    distance: 50mi
+    miles: 30
+    vert: 20000
+    result: "DNF (3 hills)"
+  - date: 2021-09-25
+    race: Westline Winder
+    distance: 50K
+    miles: 31
+    vert: 3000
+    result: "7:45:00"
+  - date: 2021-09-18
+    race: Barkley Fall Classic
+    distance: 50K
+    miles: 38
+    vert: 13000
+    result: "47th"
+  - date: 2021-09-11
+    race: Rattlesnake Ramble
+    distance: 4mi
+    miles: 4.25
+    vert: 500
+    result: "40:15"
+  - date: 2021-08-06
+    race: Silverton Ultra Dirty 100M
+    distance: 100M
+    miles: 73.4
+    vert: 22000
+    result: "DNF @ 73.4"
+  - date: 2021-06-26
+    race: San Juan Solstice
+    distance: 50M
+    miles: 50
+    vert: 12000
+    result: "14:27:00"
+  - date: 2021-06-19
+    race: Black Mountain 25K
+    distance: 25K
+    miles: 16
+    vert: 2500
+    result: "2:55:00"
+  - date: 2021-06-12
+    race: Dirty 30
+    distance: 50K
+    miles: 32
+    vert: 7200
+    result: "8:33:00"
+  - date: 2021-04-16
+    race: Niwot's Challenge
+    distance: 50mi
+    miles: 25
+    vert: 21000
+    result: "1-loop DNF"
+    report: /running/2021/05/03/niwots-challenge-2021.html
+  - date: 2020-10-10
+    race: Hallowed Hundred
+    distance: 100M
+    miles: 98
+    vert: 16000
+    result: "33:35:00"
+    report: /running/2020/10/09/6th-annual-hallowed-hundred.html
+  - date: 2020-05-31
+    race: Niwot's Challenge
+    distance: 45mi
+    miles: 45
+    vert: 19000
+    result: "Chief (×2)"
+    report: /running/2020/06/01/race-report-niwots-challenge-2020.html
+  - date: 2020-03-14
+    race: Antelope Canyon
+    distance: 100M
+    miles: 71
+    vert: 6200
+    result: "DNF @ 71"
+  - date: 2020-01-12
+    race: Walt Disney World Marathon
+    distance: Marathon
+    miles: 26.2
+    result: "3:55:16"
+  - date: 2019-12-14
+    race: Loup Garou
+    distance: 92mi
+    miles: 55
+    vert: 8000
+    result: "DNF @ 55"
+    report: /running/2019/12/15/how-i-didnt-run-100-miles.html
+  - date: 2019-10-12
+    race: Hallowed Hundred
+    distance: 96mi
+    miles: 96
+    vert: 16000
+    result: "36:00:00"
+  - date: 2019-09-21
+    race: Sangre de Cristo
+    distance: 50M
+    miles: 50
+    vert: 10000
+    result: "12:22:00"
+  - date: 2019-09-01
+    race: Run the Rut
+    distance: 50K
+    miles: 31
+    vert: 10500
+    result: "8:43:53"
+  - date: 2019-04-20
+    race: Niwot's Challenge
+    distance: 43mi
+    miles: 43
+    vert: 19000
+    result: "Chief"
+    report: /running/2019/04/30/niwots-challenge-race-report.html
+  - date: 2019-03-30
+    race: Rim to Rim to Rim
+    distance: 50mi
+    miles: 50
+    vert: 10000
+    result: "15:00:00"
+  - date: 2019-03-09
+    race: Running Up For Air CO
+    distance: 12hr
+    miles: 31
+    result: "31 mi"
+  - date: 2019-02-09
+    race: Stories Ultra
+    distance: 6hr
+    miles: 25.79
+    result: "25.79 mi"
+  - date: 2018-08-03
+    race: High Lonesome 100
+    distance: 100M
+    miles: 100
+    vert: 22500
+    result: "34:31:40"
+  - date: 2018-05-19
+    race: Jemez Mountain Trail Runs
+    distance: 50M
+    miles: 50
+    vert: 9000
+    result: "13:18:17"
+  - date: 2018-03-10
+    race: Marin Ultra Challenge
+    distance: 50K
+    miles: 30.5
+    vert: 6000
+    result: "5:22:10"
+  - date: 2017-06-17
+    race: Leadville Heavy Half
+    distance: 15.5mi
+    miles: 15.5
+    vert: 2500
+    result: "3:19:15"
+  - date: 2017-05-13
+    race: Quad Rock
+    distance: 50M
+    miles: 50
+    vert: 12500
+    result: "13:18:01"
+    report: /running/2017/05/16/race-report-quad-rock-50-2017.html
+  - date: 2016-11-05
+    race: Moab Trail Marathon
+    distance: Marathon
+    miles: 26.2
+    vert: 3500
+    result: "5:02:29"
+    report: /running/2016/11/07/moab-trail-marathon-race-report.html
+  - date: 2015-11-07
+    race: Moab Trail Half Marathon
+    distance: Half
+    miles: 13.1
+    vert: 1800
+    result: "2:28:04"
+  - date: 2014-10-05
+    race: Portland Marathon
+    distance: Marathon
+    miles: 26.2
+    result: "4:57:33"
+  - date: 2011-11-05
+    race: Rock 'n' Roll Savannah Half
+    distance: Half
+    miles: 13.1
+    result: "2:43:14"
+  - date: 2011-10-01
+    race: Disney Wine & Dine Half
+    distance: Half
+    miles: 13.1
+    result: "2:54:55"
+  - date: 2011-02-13
+    race: Rock 'n' Roll Mardi Gras Half
+    distance: Half
+    miles: 13.1
+    result: "2:31:17"
+  - date: 2010-08-29
+    race: Annapolis 10 Miler
+    distance: 10mi
+    miles: 10
+    result: "1:59:32"
