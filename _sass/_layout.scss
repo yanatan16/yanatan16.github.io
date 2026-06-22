@@ -156,7 +156,7 @@
   gap: clamp(14px, 2vw, 30px);
 }
 .frame { display: block; }
-.frame .img {
+.frame .img, .role-photo .img {
   display: block;
   position: relative;
   overflow: hidden;
@@ -164,14 +164,14 @@
   background: $bone-2;
   border: 1px solid $rule;
 }
-.frame .img img {
+.frame .img img, .role-photo .img img {
   width: 100%; height: 100%;
   object-fit: cover; display: block;
   filter: saturate(.97);
   transition: transform .65s cubic-bezier(.2,.7,.2,1);
 }
-.frame:hover .img img { transform: scale(1.045); }
-.frame .img::after {
+.frame:hover .img img, .role-photo:hover .img img { transform: scale(1.045); }
+.frame .img::after, .role-photo .img::after {
   content: ""; position: absolute; inset: 0;
   box-shadow: inset 0 0 0 1px rgba(24,33,46,.06);
   pointer-events: none;
@@ -268,6 +268,64 @@
   color: $ink-soft; max-width: 38ch;
 }
 .show-intro:hover .show-tag { color: $blue; }
+
+/**
+ * High Lonesome 100 — single static "role" feature (photo + text)
+ */
+.role-feature {
+  display: grid;
+  grid-template-columns: 1.35fr 1fr;
+  gap: clamp(22px, 3.5vw, 44px);
+  align-items: center;
+}
+.role-photo { display: block; }
+.role-photo .img { aspect-ratio: 16 / 10; }   // override the 4/5 frame ratio
+.role-tag {
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: $blue;
+  margin: 0 0 14px;
+}
+.role-blurb {
+  font-size: 17px;
+  line-height: 1.55;
+  color: $ink-soft;
+  margin: 0 0 20px;
+  max-width: 42ch;
+}
+.role-blurb b { color: $ink; font-weight: 600; }
+.role-stats {
+  display: flex;
+  gap: clamp(20px, 3vw, 34px);
+  margin: 0 0 20px;
+  padding: 0;
+  list-style: none;
+}
+.role-stats li { display: flex; flex-direction: column; gap: 3px; }
+.role-stats .v {
+  font-weight: 800;
+  font-size: clamp(18px, 2.4vw, 22px);
+  letter-spacing: -0.01em;
+  color: $ink;
+  font-variant-numeric: tabular-nums;
+}
+.role-stats .k {
+  font-weight: 600;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $coral;
+}
+.role-link {
+  font-weight: 600;
+  font-size: 14px;
+  color: $blue;
+}
+.role-link:hover { color: $blue-dk; }
+.role-link .arr { display: inline-block; transition: transform .2s; }
+.role-link:hover .arr { transform: translateX(4px); }
 
 /**
  * Feed pages — featured first post + list
@@ -533,6 +591,8 @@
  */
 @include media-query($on-laptop) {
   .frames { grid-template-columns: repeat(2, 1fr); }
+  .role-feature { grid-template-columns: 1fr; gap: 22px; }
+  .role-photo .img { aspect-ratio: 16 / 9; }
   .entry, .writing .entry, .shows .entry {
     grid-template-columns: 1fr auto;
     gap: 4px 14px;

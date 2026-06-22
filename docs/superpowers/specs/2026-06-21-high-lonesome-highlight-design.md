@@ -48,15 +48,15 @@ scenic landscape was chosen for fit with the site's photography voice.
 
 - **Section header:** index `04`, title `High Lonesome 100`, `more` link
   **"Visit the race →"** → `https://highlonesome100.com`.
-- **Role label** (uppercase, salt-flat blue): `Communications & Runner Tracking
-  Director`.
+- **Role label** (uppercase, salt-flat blue): `Comms Director` (short form of his
+  full title, Communications & Runner Tracking Director).
 - **Description:** "A 100-mile mountain race through the **Sawatch Range** above
   Nathrop, Colorado. Each July I run communications and live runner tracking for
   the event." (`<b>` on "Sawatch Range" per the `.blurb` treatment.)
 - **Stat line** (three items; evergreen — no race date, which changes yearly):
   - `100` — **Miles**
-  - `23,500′` — **Climb**
-  - `13,150′` — **High point**
+  - `23,500′` — **Vert**
+  - `13,150′` — **Summit**
   - Value in ink, label in desert coral uppercase (mirrors the `.sec-head .idx`
     coral accent).
 - **Text CTA link:** `highlonesome100.com →` → `https://highlonesome100.com`.

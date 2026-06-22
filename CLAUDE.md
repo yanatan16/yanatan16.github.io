@@ -27,7 +27,7 @@ This is a personal blog for Jon Eisen (joneisen.me), built with **Jekyll 4.2.2**
 
 Post categories used: `programming`, `running`, `misc`, `sports`, `bikes`, `recipes`, `philosophy`. A post sets a single `categories:` value in frontmatter; the category drives which feed page surfaces it.
 
-The home page (`index.html`) uses the `default` layout. It is a two-section landing — **Photographs** (4 albums) and **Writing** (the 6 most recent posts) — not a full post list. The Photographs section shows the albums listed in `_data/featured.yaml` first (in order), then fills remaining slots (up to 4) with the newest albums from `_data/photos.yaml`; each album is rendered by `_includes/album-frame.html`. Category feed pages (`running.html`, `programming.html`) use the `feed-page` layout: it reads `page.category`, pulls `site.categories[category]`, displays the first post prominently via `_includes/preview.html`, then lists the rest via `_includes/post-list.html`.
+The home page (`index.html`) uses the `default` layout. It is a stack of numbered highlight sections — **01 Photographs** (4 albums), **02 Writing** (the 6 most recent posts), **03 Podcast** (latest episodes), and **04 High Lonesome 100** — not a full post list. The first three are data-driven (each renders a list from a `_data/*.yaml` file); **04** is a single static, hand-authored "role" feature (no data file, no sync) — see High Lonesome 100 highlight below. The Photographs section shows the albums listed in `_data/featured.yaml` first (in order), then fills remaining slots (up to 4) with the newest albums from `_data/photos.yaml`; each album is rendered by `_includes/album-frame.html`. Category feed pages (`running.html`, `programming.html`) use the `feed-page` layout: it reads `page.category`, pulls `site.categories[category]`, displays the first post prominently via `_includes/preview.html`, then lists the rest via `_includes/post-list.html`.
 
 ### Photos integration
 
@@ -44,6 +44,10 @@ The homepage `03 Podcast` section features Jon's podcast **Running with Problems
 Episode rows deep-link to custom-domain episode pages: `https://www.runningwithproblems.run/2437656/episodes/<id>-<slug>`, where `<id>` comes from the item `guid` (`Buzzsprout-<id>`) and `<slug>` is the title downcased with apostrophes dropped and non-alphanumeric runs collapsed to hyphens (Buzzsprout's slug rule).
 
 **Automated refresh:** `.github/workflows/sync-podcast.yml` runs `rake podcast` on a daily cron (Buzzsprout can't `repository_dispatch` like the photos repo, so it polls; `workflow_dispatch` allows manual runs) and commits `_data/podcast.yaml` only if changed, which triggers the Pages build.
+
+### High Lonesome 100 highlight
+
+The homepage `04 High Lonesome 100` section features Jon's volunteer role (labeled **Comms Director**, short for Communications & Runner Tracking Director) at the [High Lonesome 100](https://highlonesome100.com), a 100-mile race in Colorado's Sawatch Range. Unlike the three sections above it, this is **static and hand-authored** — there is nothing to sync, so it has no `_data` file, `rake` task, or workflow. The section is inlined directly in `index.html` (an editorial split: photo + role/blurb/stats/link), styled by the `.role-*` rules in `_sass/_layout.scss` (the photo reuses the `.frame .img` treatment via a shared selector group). The image is a local repo asset, `img/highlonesome.jpg` (like `img/banner.jpg`) — not a remote URL. To change the copy, stats, photo, or link, edit `index.html` directly.
 
 ### Layouts & Includes
 
