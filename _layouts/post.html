@@ -16,6 +16,8 @@ layout: default
     {% endif %}
   </header>
 
+  {% if page.syndication %}{% include syndication.html synd=page.syndication %}{% endif %}
+
   <article class="post-content">
     {{ content | replace:'
     <!--break-->','<span id="break"></span>' }}

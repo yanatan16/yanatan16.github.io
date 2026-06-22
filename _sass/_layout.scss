@@ -381,6 +381,83 @@
 }
 
 /**
+ * Syndication — post-page banner, listing badge, preview note
+ */
+.icon--magazine svg { width: 1em; height: 1em; vertical-align: -0.12em; }
+
+.syndication {
+  display: flex;
+  align-items: center;
+  gap: clamp(16px, 2.5vw, 24px);
+  max-width: 720px;
+  margin: 30px 0 0;
+  padding: clamp(18px, 2.5vw, 22px);
+  background: $bone-2;
+  border-radius: 10px;
+}
+.synd-cover {
+  flex: 0 0 auto;
+  img {
+    display: block;
+    width: 120px;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 4px 14px rgba(24, 33, 46, 0.18);
+    border: none;
+  }
+}
+.synd-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.synd-line {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.45;
+  color: $ink;
+  .icon--magazine { color: $blue; margin-right: 4px; }
+}
+.synd-link {
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: $blue;
+  text-decoration: none;
+}
+.synd-link:hover { color: $blue-dk; }
+
+@include media-query($on-palm) {
+  .synd-cover img { width: 90px; }
+  .synd-line { font-size: 15px; }
+}
+
+// Listing badge — sits after the title in .entry/.ttl
+.synd-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: 10px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: $coral;
+  vertical-align: middle;
+  .icon--magazine svg { width: 13px; height: 13px; }
+}
+
+// Preview note — small meta line under the post-meta
+.synd-note {
+  margin-top: 4px;
+  font-size: 13px;
+  font-style: italic;
+  color: $ink-soft;
+  .icon--magazine { color: $ink-soft; margin-right: 3px; }
+}
+
+/**
  * Footer
  */
 .site-footer {

@@ -1,5 +1,6 @@
 <div class="post-preview">
   <p class="post-meta">{{ post1.date | date: "%b %-d, %Y" }} &nbsp;·&nbsp; {{ post1.categories[0] }}</p>
+  {% if post1.syndication %}<p class="synd-note">{% include magazine-icon.html %} Originally published in {{ post1.syndication.publication }} &mdash; {{ post1.syndication.issue }}</p>{% endif %}
   <a class="preview-title-link" href="{{ post1.url | prepend: site.baseurl }}">
     <h1 class="post-title">{{ post1.title }}</h1>
   </a>

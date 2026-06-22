@@ -3,9 +3,14 @@ title: Get Out of the Car
 layout: post
 categories: running
 date: 2025-06-30 00:00:00
+syndication:
+  publication: Front Range Dirt
+  url: https://www.golden-endurance.com/frd
+  issue: Summer 2025
+  cover: /img/frd/summer-2025.jpg
 ---
 
-_This is a syndication of an article I wrote for [Front Range Dirt](https://golden-endurance.com/frd) magazine. It's my first time being published, and I'm proud of it. Please go check out the magazine online or in person_
+_It's my first time being published, and I'm proud of it._
 
 I am shivering uncontrollably in the passenger seat of a rental car. Both my hands are gripping a paper cup of lukewarm chili, but I’m not eating it. My legs are cramping every 30 seconds, sending painful aches through my body. My wife, Miranda, is watching me, worry and concern covering her face. The car is idling; the heat blasting.
 

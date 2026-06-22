@@ -1,0 +1,9 @@
+<div class="syndication">
+  <a class="synd-cover" href="{{ include.synd.url }}">
+    <img src="{{ include.synd.cover | prepend: site.baseurl }}" alt="{{ include.synd.publication }} &mdash; {{ include.synd.issue }} cover">
+  </a>
+  <div class="synd-body">
+    <p class="synd-line">{% include magazine-icon.html %} Originally published in <strong>{{ include.synd.publication }}</strong> &mdash; {{ include.synd.issue }}</p>
+    <a class="synd-link" href="{{ include.synd.url }}">Read the issue &rarr;</a>
+  </div>
+</div>

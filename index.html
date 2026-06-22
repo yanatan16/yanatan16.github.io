@@ -74,7 +74,7 @@ order: 1
           <span class="n">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
           <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
           <span class="cat">{{ post.categories[0] }}</span>
-          <span class="ttl">{{ post.title }}</span>
+          <span class="ttl">{{ post.title }}{% if post.syndication %}{% include syndication-tag.html %}{% endif %}</span>
           <span class="go">&rarr;</span>
         </a>
       </li>

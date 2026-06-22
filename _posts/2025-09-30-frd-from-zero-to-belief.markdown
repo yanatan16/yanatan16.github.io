@@ -3,9 +3,12 @@ title: From Zero to Belief
 layout: post
 categories: running
 date: 2025-09-30 12:00:00
+syndication:
+  publication: Front Range Dirt
+  url: https://www.golden-endurance.com/frd
+  issue: Fall 2025
+  cover: /img/frd/fall-2025.jpg
 ---
-
-_This is a syndication of an article I wrote for [Front Range Dirt](https://golden-endurance.com/frd) magazine. Please go check out the magazine online or in person_
 
 When I started my first 100-miler, the 2018 High Lonesome 100, I didn't really believe I could complete it. My internal monologue constantly reminded me I was not strong enough. I stuffed the voice as deep as possible. But, at multiple times during the race, it would pop out and overwhelm its restraints. At mile 76, I collapsed onto the ground in a heap of self loathing. My crew never let me quit though, and finally, I reached the finish line. Tears streamed down my face. I never believed it was possible.
 
