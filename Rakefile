@@ -71,8 +71,11 @@ task :podcast do
   cover = chan.elements['itunes:image']&.attributes&.[]('href') ||
           chan.elements['image/url']&.text
 
+  # atom:link elements have no text node; detect the plain RSS <link> by text presence
+  channel_link = chan.get_elements('link').detect { |el| el.text.to_s.strip != '' }&.text
+
   episodes = chan.get_elements('item').first(MAX_EPISODES).map do |item|
-    title = item.elements['title'].text
+    title = item.elements['title'].text.to_s.strip
     {
       'title'   => title,
       'season'  => item.elements['itunes:season']&.text&.to_i,
@@ -86,7 +89,7 @@ task :podcast do
   data = {
     'title'    => chan.elements['title'].text,
     'tagline'  => chan.elements['description'].text.strip,
-    'link'     => chan.elements['link'].text,
+    'link'     => channel_link,
     'cover'    => cover,
     'episodes' => episodes
   }

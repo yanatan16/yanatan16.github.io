@@ -1,7 +1,7 @@
 ---
 title: Running with Problems
 tagline: "<p>A podcast about the lives of runners and the problems we face.</p>"
-link:
+link: https://runningwithproblems.run
 cover: https://storage.buzzsprout.com/91ohupz65jx26q46s1841vzfgkdp?.jpg
 episodes:
 - title: 'Hot Take: Hanes & Canaday Doping Debacle Explained'
@@ -10,13 +10,13 @@ episodes:
   date: '2026-06-11'
   minutes: 60
   link: https://www.runningwithproblems.run/2437656/episodes/19329076-hot-take-hanes-canaday-doping-debacle-explained
-- title: 'John Kelly: Barkley Lessons & Redefining Suffering '
+- title: 'John Kelly: Barkley Lessons & Redefining Suffering'
   season: 5
   episode: 7
   date: '2026-05-27'
   minutes: 65
   link: https://www.runningwithproblems.run/2437656/episodes/19245864-john-kelly-barkley-lessons-redefining-suffering
-- title: 'Mike Miles: Running, Leadership, and Balance '
+- title: 'Mike Miles: Running, Leadership, and Balance'
   season: 5
   episode: 6
   date: '2026-05-11'
@@ -28,7 +28,7 @@ episodes:
   date: '2026-04-24'
   minutes: 90
   link: https://www.runningwithproblems.run/2437656/episodes/19073553-mitch-dulleck-the-iditarod-350-stories-continue
-- title: 'JC Returns: 350 Mile Iditarod Invitational '
+- title: 'JC Returns: 350 Mile Iditarod Invitational'
   season: 5
   episode: 4
   date: '2026-04-14'
