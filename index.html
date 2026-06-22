@@ -99,7 +99,7 @@ order: 1
   <div class="shows reveal d4">
     <ul class="post-list">
       {% for show in site.data.podcast.episodes limit:3 %}
-      <li>{% include show.html show=show index=forloop.index %}</li>
+      <li>{% include show.html show=show %}</li>
       {% endfor %}
     </ul>
   </div>
