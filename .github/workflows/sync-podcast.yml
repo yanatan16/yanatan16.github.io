@@ -1,0 +1,43 @@
+name: Sync podcast episodes
+
+# Buzzsprout can't dispatch to this repo the way the sibling photos repo does,
+# so we poll the feed daily and also allow manual runs. A commit here triggers
+# the GitHub Pages build.
+on:
+  schedule:
+    - cron: '0 13 * * *'   # 13:00 UTC daily (~6am Pacific)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-podcast
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Regenerate _data/podcast.yaml
+        run: rake podcast
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- _data/podcast.yaml; then
+            echo "No episode changes."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/podcast.yaml
+          git commit -m "Sync podcast episodes from Buzzsprout"
+          git push
