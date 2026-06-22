@@ -249,6 +249,26 @@
 .writing .entry { grid-template-columns: 2.5rem 9rem 7.5rem 1fr 1.5rem; }
 .writing .entry .n { display: block; }
 
+// Homepage podcast: reuse the writing row (numbered leading column)
+.shows .entry { grid-template-columns: 2.5rem 9rem 7.5rem 1fr 1.5rem; }
+.shows .entry .n { display: block; }
+
+// Podcast show intro: cover art + tagline
+.show-intro {
+  display: flex; align-items: center; gap: 18px;
+  margin-bottom: 8px; color: $ink;
+}
+.show-intro .show-art {
+  flex: 0 0 auto; width: 84px; height: 84px;
+  border-radius: 8px; overflow: hidden; background: $rule;
+}
+.show-intro .show-art img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.show-intro .show-tag {
+  font-size: clamp(15px, 1.8vw, 18px); line-height: 1.35;
+  color: $ink-soft; max-width: 38ch;
+}
+.show-intro:hover .show-tag { color: $blue; }
+
 /**
  * Feed pages — featured first post + list
  */
@@ -436,7 +456,7 @@
  */
 @include media-query($on-laptop) {
   .frames { grid-template-columns: repeat(2, 1fr); }
-  .entry, .writing .entry {
+  .entry, .writing .entry, .shows .entry {
     grid-template-columns: 1fr auto;
     gap: 4px 14px;
     padding: 18px 4px;
