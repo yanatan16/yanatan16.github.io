@@ -88,7 +88,7 @@ task :podcast do
 
   data = {
     'title'    => chan.elements['title'].text,
-    'tagline'  => chan.elements['description'].text.strip,
+    'tagline'  => chan.elements['description'].text.to_s.gsub(/<[^>]+>/, '').strip,
     'link'     => channel_link,
     'cover'    => cover,
     'episodes' => episodes
