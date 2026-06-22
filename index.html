@@ -15,10 +15,12 @@ order: 1
     <div class="ident reveal d2">
       <span>Runner</span><span class="sep"></span>
       <span>Engineer</span><span class="sep"></span>
-      <span>Photographer</span>
+      <span>Photographer</span><span class="sep"></span>
+      <span>Podcaster</span>
     </div>
     <p class="blurb reveal d2">I run long distances in the mountains, build software, and take
-      photographs along the way. Enjoy my <b>writing</b> and <b>photography</b>.</p>
+      photographs along the way. I also host the <b>Running with Problems</b> podcast.
+      Enjoy my <b>writing</b>, <b>photography</b>, and <b>shows</b>.</p>
   </div>
 </header>
 
@@ -82,3 +84,24 @@ order: 1
     </ul>
   </div>
 </section>
+
+{% if site.data.podcast.episodes %}
+<section class="sec">
+  <div class="sec-head reveal d4">
+    <span class="idx">03</span>
+    <h2>Podcast</h2>
+    <a class="more meta" href="{{ site.data.podcast.link }}">Listen to all <span class="arr">&rarr;</span></a>
+  </div>
+  <a class="show-intro reveal d4" href="{{ site.data.podcast.link }}" target="_blank" rel="noopener">
+    <span class="show-art"><img loading="lazy" src="{{ site.data.podcast.cover }}" alt="{{ site.data.podcast.title }} cover art"></span>
+    <span class="show-tag">{{ site.data.podcast.tagline }}</span>
+  </a>
+  <div class="shows reveal d4">
+    <ul class="post-list">
+      {% for show in site.data.podcast.episodes limit:3 %}
+      <li>{% include show.html show=show index=forloop.index %}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+{% endif %}
