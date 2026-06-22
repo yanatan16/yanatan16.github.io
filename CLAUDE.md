@@ -22,6 +22,7 @@ This is a personal blog for Jon Eisen (joneisen.me), built with **Jekyll 4.2.2**
 - `_data/beer.yaml` — Structured homebrewing data (beer recipes with style, ABV, IBU, SRM)
 - `_data/srm.yaml` — SRM-to-hex color lookup table used to render beer colors
 - `_data/photos.yaml` — Album snapshot (id/name/count/cover) feeding the homepage Photographs section. **Generated, do not hand-maintain** — see Photos integration below.
+- `_data/podcast.yaml` — Recent "Running with Problems" episodes feeding the homepage Podcast section. **Generated, do not hand-maintain** — see Podcast integration below.
 - `races/` — Race-specific standalone pages
 
 Post categories used: `programming`, `running`, `misc`, `sports`, `bikes`, `recipes`, `philosophy`. A post sets a single `categories:` value in frontmatter; the category drives which feed page surfaces it.
@@ -35,6 +36,14 @@ The homepage features real album covers from the separate **photos.joneisen.me**
 `rake photos` (plain `rake`, not `bundle exec` — the task is stdlib-only and rake isn't in the Jekyll bundle) writes the recent-album pool to `_data/photos.yaml`. It reads `PHOTOS_JSON` if set, else the sibling repo's `../photos.joneisen.me/src/data/photos.json`. It accepts either shape — albums with a full `photos` array (local export) or with a `count` (the CI summary) — so one implementation serves both. Filter/size knobs (`MIN_PHOTOS`, `MAX_ALBUMS`) live at the top of the `Rakefile`. To curate which albums lead, edit `_data/featured.yaml` (pinned ids), not `_data/photos.yaml`.
 
 **Automated refresh:** `.github/workflows/sync-photos.yml` listens for a `repository_dispatch` (`photos-updated`) from the photos repo. The photos repo's `deploy.yml` (which is the source of the dispatch) builds its album data, then sends a compact `{id,name,count,cover}` summary as the dispatch `client_payload`; this workflow writes that to a temp file, runs `rake photos`, and commits `_data/photos.yaml` (the commit triggers the Pages build). The photos repo needs a `BLOG_DISPATCH_TOKEN` secret — a PAT with write access to *this* repo — for the dispatch call. `photos.json` is gitignored in the photos repo, which is why the data travels in the dispatch payload rather than being fetched.
+
+### Podcast integration
+
+The homepage `03 Podcast` section features Jon's podcast **Running with Problems** (`runningwithproblems.run`, hosted on Buzzsprout). `rake podcast` (plain `rake`, stdlib-only like `rake photos`) fetches the Buzzsprout RSS (`https://rss.buzzsprout.com/2437656.rss`, override with `PODCAST_FEED`), parses the channel + latest items, and writes `_data/podcast.yaml` (`title`/`tagline`/`link`/`cover` + `episodes`). `MAX_EPISODES` at the top of the `Rakefile` controls how many are kept (homepage shows 3).
+
+Episode rows deep-link to custom-domain episode pages: `https://www.runningwithproblems.run/2437656/episodes/<id>-<slug>`, where `<id>` comes from the item `guid` (`Buzzsprout-<id>`) and `<slug>` is the title downcased with apostrophes dropped and non-alphanumeric runs collapsed to hyphens (Buzzsprout's slug rule).
+
+**Automated refresh:** `.github/workflows/sync-podcast.yml` runs `rake podcast` on a daily cron (Buzzsprout can't `repository_dispatch` like the photos repo, so it polls; `workflow_dispatch` allows manual runs) and commits `_data/podcast.yaml` only if changed, which triggers the Pages build.
 
 ### Layouts & Includes
 
