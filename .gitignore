@@ -9,3 +9,6 @@ vendor
 .DS_Store
 
 .claude/
+
+# Superpowers brainstorming companion (local mockups)
+.superpowers/
