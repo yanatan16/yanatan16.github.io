@@ -1,5 +1,9 @@
 ---
 albums:
+- id: maryland-trip-2026
+  name: Maryland Trip 2026
+  count: 18
+  cover: https://photos.joneisen.me/maryland-trip-2026/.thumbnails/DSCF3917.jpg
 - id: summer-2026
   name: Summer 2026
   count: 26
@@ -28,7 +32,3 @@ albums:
   name: Cali Trip
   count: 19
   cover: https://photos.joneisen.me/2025-cali-trip/.thumbnails/DSCF2361.jpg
-- id: 2025-brads-birthday
-  name: Brads Birthday
-  count: 59
-  cover: https://photos.joneisen.me/2025-brads-birthday/.thumbnails/DSCF2160.jpg
