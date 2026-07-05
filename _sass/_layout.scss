@@ -155,7 +155,7 @@
   grid-template-columns: repeat(4, 1fr);
   gap: clamp(14px, 2vw, 30px);
 }
-.frame { display: block; }
+.frame { display: block; min-width: 0; }
 .frame .img, .role-photo .img {
   display: block;
   position: relative;
@@ -189,6 +189,7 @@
   letter-spacing: -0.005em;
   color: $ink;
   transition: color .2s;
+  min-width: 0;
   overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
 .frame:hover .cap .t { color: $blue; }
