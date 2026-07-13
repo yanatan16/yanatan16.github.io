@@ -1,5 +1,9 @@
 ---
 albums:
+- id: hardrock-100-2026
+  name: Hardrock 100 2026
+  count: 37
+  cover: https://photos.joneisen.me/hardrock-100-2026/.thumbnails/DSCF0034.jpg
 - id: summer-2026
   name: Summer 2026
   count: 29
@@ -28,7 +32,3 @@ albums:
   name: Avalon
   count: 22
   cover: https://photos.joneisen.me/2026-avalon/.thumbnails/DSCF2533.jpg
-- id: 2025-cali-trip
-  name: Cali Trip
-  count: 19
-  cover: https://photos.joneisen.me/2025-cali-trip/.thumbnails/DSCF2361.jpg
