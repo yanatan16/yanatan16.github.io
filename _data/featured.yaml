@@ -4,6 +4,6 @@
 # Remove an id to hand that slot to the most recent album. Ids must match
 # album ids in _data/photos.yaml (see `rake photos`).
 - summer-2026
+- hardrock-100-2026
 - badwater-salton-sea-2026
 - 2026-valle-de-guadelupe
-- 2026-boulder-winter
