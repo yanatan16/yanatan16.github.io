@@ -9,7 +9,8 @@ require 'time'
 #
 # Source (PHOTOS_JSON) accepts either shape, so one implementation serves both:
 #   * local   — the sibling repo's full export (albums each with a `photos` array)
-#   * CI       — a compact summary pushed by the photos repo (albums each with `count`)
+#   * CI       — joneisen.me/photos/albums.json, the compact summary the photos
+#                site publishes (albums each with a `count`)
 PHOTOS_JSON = ENV['PHOTOS_JSON'] ||
               File.expand_path('../photos.joneisen.me/src/data/photos.json', __dir__)
 OUT         = File.expand_path('_data/photos.yaml', __dir__)

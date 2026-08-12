@@ -1,12 +1,19 @@
 name: Sync photo albums
 
-# Triggered by the photos.joneisen.me repo after it rebuilds its album data.
-# It sends a compact album summary as the dispatch payload; we turn that into
-# _data/photos.yaml (via `rake photos`) and commit it, which makes GitHub Pages
-# rebuild the homepage.
+# The photos repo publishes a compact album summary alongside its site. We turn
+# that into _data/photos.yaml (via `rake photos`) and commit it, which makes
+# GitHub Pages rebuild the homepage.
+#
+# We pull rather than wait to be pushed. The photos repo still dispatches
+# `photos-updated` as soon as it deploys, so a new album usually lands within a
+# minute — but that dispatch needs a token, and an expired one left the homepage
+# stale for three weeks in July 2026. The daily run is the safety net.
 on:
   repository_dispatch:
     types: [photos-updated]
+  schedule:
+    - cron: '30 13 * * *'   # 13:30 UTC daily (~6:30am Pacific)
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -27,16 +34,16 @@ jobs:
         with:
           ruby-version: '3.3'
 
-      - name: Write album summary from dispatch payload
-        env:
-          PAYLOAD: ${{ toJSON(github.event.client_payload) }}
+      - name: Fetch the published album summary
         run: |
-          mkdir -p tmp
-          printf '%s' "$PAYLOAD" > tmp/photos.json
+          curl -fsSL --retry 3 --retry-delay 5 \
+            -H 'Cache-Control: no-cache' \
+            https://joneisen.me/photos/albums.json \
+            -o "$RUNNER_TEMP/photos.json"
 
       - name: Regenerate _data/photos.yaml
         env:
-          PHOTOS_JSON: ${{ github.workspace }}/tmp/photos.json
+          PHOTOS_JSON: ${{ runner.temp }}/photos.json
         run: rake photos
 
       - name: Commit if changed
