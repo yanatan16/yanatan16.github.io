@@ -1,17 +1,21 @@
 ---
 albums:
+- id: ute-100-2026
+  name: Ute 100 2026
+  count: 58
+  cover: https://photos.joneisen.me/ute-100-2026/.thumbnails/DSCF0313.jpg
 - id: hardrock-100-2026
   name: Hardrock 100 2026
   count: 37
   cover: https://photos.joneisen.me/hardrock-100-2026/.thumbnails/DSCF0034.jpg
-- id: summer-2026
-  name: Summer 2026
-  count: 35
-  cover: https://photos.joneisen.me/summer-2026/.thumbnails/DSCF3769.jpg
 - id: maryland-trip-2026
   name: Maryland Trip 2026
   count: 18
   cover: https://photos.joneisen.me/maryland-trip-2026/.thumbnails/DSCF3917.jpg
+- id: summer-2026
+  name: Summer 2026
+  count: 37
+  cover: https://photos.joneisen.me/summer-2026/.thumbnails/DSCF3769.jpg
 - id: dash-n-dine-2026-week-3
   name: Dash N Dine 2026 Week 3
   count: 45
@@ -28,7 +32,3 @@ albums:
   name: Valle De Guadelupe
   count: 53
   cover: https://photos.joneisen.me/2026-valle-de-guadelupe/.thumbnails/DSCF2630.jpg
-- id: 2026-avalon
-  name: Avalon
-  count: 22
-  cover: https://photos.joneisen.me/2026-avalon/.thumbnails/DSCF2533.jpg
