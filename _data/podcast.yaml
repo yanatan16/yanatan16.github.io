@@ -4,6 +4,12 @@ tagline: A podcast about the lives of runners and the problems we face.
 link: https://runningwithproblems.run
 cover: https://storage.buzzsprout.com/91ohupz65jx26q46s1841vzfgkdp?.jpg
 episodes:
+- title: 'Ute 100: Miranda''s Recap'
+  season: 5
+  episode: 12
+  date: '2026-08-19'
+  minutes: 100
+  link: https://www.runningwithproblems.run/2437656/episodes/19668503-ute-100-mirandas-recap
 - title: 'Bill Stahl: Running Travels & Giving Back'
   season: 5
   episode: 11
@@ -34,9 +40,3 @@ episodes:
   date: '2026-05-27'
   minutes: 65
   link: https://www.runningwithproblems.run/2437656/episodes/19245864-john-kelly-barkley-lessons-redefining-suffering
-- title: 'Mike Miles: Running, Leadership, and Balance'
-  season: 5
-  episode: 6
-  date: '2026-05-11'
-  minutes: 69
-  link: https://www.runningwithproblems.run/2437656/episodes/19161453-mike-miles-running-leadership-and-balance
