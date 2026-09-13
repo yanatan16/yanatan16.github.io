@@ -1,5 +1,9 @@
 ---
 albums:
+- id: high-lonesome-loop
+  name: High Lonesome Loop
+  count: 25
+  cover: https://photos.joneisen.me/high-lonesome-loop/.thumbnails/DSCF4219.jpg
 - id: ute-100-2026
   name: Ute 100 2026
   count: 58
@@ -14,7 +18,7 @@ albums:
   cover: https://photos.joneisen.me/maryland-trip-2026/.thumbnails/DSCF3917.jpg
 - id: summer-2026
   name: Summer 2026
-  count: 38
+  count: 39
   cover: https://photos.joneisen.me/summer-2026/.thumbnails/DSCF3769.jpg
 - id: dash-n-dine-2026-week-3
   name: Dash N Dine 2026 Week 3
@@ -28,7 +32,3 @@ albums:
   name: Boulder Winter
   count: 24
   cover: https://photos.joneisen.me/2026-boulder-winter/.thumbnails/L1000098.jpg
-- id: 2026-valle-de-guadelupe
-  name: Valle De Guadelupe
-  count: 53
-  cover: https://photos.joneisen.me/2026-valle-de-guadelupe/.thumbnails/DSCF2630.jpg
